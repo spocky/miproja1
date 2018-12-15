@@ -10,7 +10,7 @@
     },
     {
       "name": "MyCanal",
-      "action": "http://webservices.aptoide.com/apkinstall/apk?uid=6548795"
+      "url": "http://webservices.aptoide.com/apkinstall/apk?uid=6548795"
     }
   ]
 }
