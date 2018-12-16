@@ -1,0 +1,70 @@
+{
+  "product": "Xiaomi Projector Tools",
+  "author": "Spocky",
+  "version": 2,
+  "releaseDate": "2018-12-15T00:00:00.000Z",
+  "uninstallPackages": [
+    "com.duokan.videodaily",
+    "com.xiaomi.mitv.advertise",
+    "com.miui.systemAdSolution",
+    "com.mitv.care",
+
+	"com.xiaomi.mitv.handbook",
+    "com.xiaomi.mitv.calendar",
+    "com.xiaomi.tweather",
+
+    "com.xiaomi.mitv.shop",
+    "com.xiaomi.mitv.shop.mihome",
+    "com.xiaomi.mitv.shop.tvshop",
+
+    "com.mitv.gallery",
+    "com.xiaomi.tv.gallery",
+    "com.xiaomi.mitv.karaoke.service",
+    "com.xiaomi.gamecenter.sdk.service.mibox",
+    "com.xiaomi.mibox.gamecenter",
+    "com.xiaomi.mitv.appstore",
+    "com.mitv.appstore.component.land",
+    "com.xiaomi.mitv.payment",
+    "com.xiaomi.mitv.pay",
+    "com.mipay.wallet.tv",
+    "com.miui.tv.analytics",
+    "com.xiaomi.statistic",
+    "com.xiaomi.voicecontrol",
+    "com.xm.webcontent",
+    "com.xiaomi.mimusic2",
+    "com.mitv.screensaver",
+
+    "com.sohu.inputmethod.sogou.tv",
+    "com.baidu.input"
+  ],
+  "installPackages": [
+    {
+      "name": "Aptoide Tv Store",
+      "url": "http://apkins.aptoide.com/AptoideTV-5.0.2.apk"
+    },
+    {
+      "name": "Cetusplay 4.5.6.1",
+      "url": "http://webservices.aptoide.com/apkinstall/apk?uid=41913214"
+    },
+    {
+      "name": "Youtube Tv 2.03.04",
+      "url": "http://webservices.aptoide.com/apkinstall/apk?uid=38408885"
+    },
+    {
+      "name": "Molotov Tv 3.3.3",
+      "url": "http://webservices.aptoide.com/apkinstall/apk?uid=42551435"
+    },
+	{
+      "name": "SPMC 16.6",
+      "url": "http://webservices.aptoide.com/apkinstall/apk?uid=22780729"
+    },
+	{
+      "name": "Plex 7.9.0.8414",
+      "url": "http://webservices.aptoide.com/apkinstall/apk?uid=42575864"
+    },
+    {
+      "name": "MyCanal 3.5.14b2",
+      "url": "http://webservices.aptoide.com/apkinstall/apk?uid=41541847"
+    }
+  ]
+}
