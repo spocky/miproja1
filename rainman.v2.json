@@ -44,6 +44,7 @@
 	"com.mi.umifrontend",
 	"com.xiaomi.account.auth",
 	"com.xiaomi.account",
+	"com.xiaomi.screenrecorder",
 
     "com.sohu.inputmethod.sogou.tv",
 	"com.sogou.speech.offlineservice",
@@ -57,6 +58,10 @@
     {
       "name": "LeanbackIme Keyboard",
       "url": "https://gitlab.incom.co/CM-Shield/proprietary_vendor_nvidia/raw/4be705a39b5a6f6165cf3b6cca856a817ab7886d/shield_common/proprietary/priv-app/LeanbackIme/LeanbackIme.apk"
+    },
+    {
+      "name": "ATV Launcher free 0.11",
+      "url": "http://webservices.aptoide.com/apkinstall/apk?uid=42776686"    
     },
     {
       "name": "Cetusplay 4.5.6.1",
@@ -83,16 +88,16 @@
       "url": "http://webservices.aptoide.com/apkinstall/apk?uid=41541847"
     },
     {
-      "name": "ATV Launcher free 0.11",
-      "url": "http://webservices.aptoide.com/apkinstall/apk?uid=42776686"    
-    },
-    {
       "name": "Screen Test 9.3.0.1",
       "url": "http://webservices.aptoide.com/apkinstall/apk?uid=26432785"    
 	},
     {
       "name": "MoreLocale 2.3.1",
       "url": "http://webservices.aptoide.com/apkinstall/apk?uid=5536454"    
+    },
+    {
+      "name": "Amlogic TV Box tool 1.0.28",
+      "url": "http://webservices.aptoide.com/apkinstall/apk?uid=41691341"    
     }
   ]
 }
