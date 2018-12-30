@@ -63,6 +63,10 @@
       "url": "http://webservices.aptoide.com/apkinstall/apk?uid=42776686"    
     },
     {
+      "name": "TVLauncher 3.1.1",
+      "url": "http://webservices.aptoide.com/apkinstall/apk?uid=25295256"    
+    },
+    {
       "name": "Cetusplay 4.5.6.1",
       "url": "http://webservices.aptoide.com/apkinstall/apk?uid=41913214"
     },
@@ -98,5 +102,31 @@
       "name": "Amlogic TV Box tool 1.0.28",
       "url": "http://webservices.aptoide.com/apkinstall/apk?uid=41691341"    
     }
+  ],
+  "customPropsOverrides": [
+    {
+      "key": "ro.debuggable",
+      "value": "1"
+    },
+    {
+      "key": "ro.build.fingerprint",
+      "value": "MI/anglee/anglee:8.1.0/OPM5.171019.017/891:user/release-keys"
+    },
+    {
+      "key": "sys.set_adb_disabled",
+      "value": "false"
+    },
+    {
+      "key": "persist.sys.usb.netadb.config",
+      "value": "1"
+    },
+    {
+      "key": "persist.sys.version.type",
+      "value": "cts"
+    },
+    {
+      "key": "media.amplayer.widevineenable",
+      "value": "true"
+    },
   ]
 }
