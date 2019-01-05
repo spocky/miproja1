@@ -63,10 +63,6 @@
       "url": "http://webservices.aptoide.com/apkinstall/apk?uid=42776686"    
     },
     {
-      "name": "TVLauncher 3.1.1",
-      "url": "http://webservices.aptoide.com/apkinstall/apk?uid=25295256"    
-    },
-    {
       "name": "Cetusplay 4.5.6.1",
       "url": "http://webservices.aptoide.com/apkinstall/apk?uid=41913214"
     },
@@ -109,9 +105,21 @@
       "value": "1"
     },
     {
+      "key": "ro.product.locale",
+      "value": "en-US"
+    },
+    {
+      "key": "ro.wifi.channels",
+      "value": "14"
+    },
+    {
       "key": "ro.build.fingerprint",
       "value": "MI/anglee/anglee:8.1.0/OPM5.171019.017/891:user/release-keys"
     },
+    {
+      "key": "ro.bootimage.build.fingerprint",
+      "value": "MI/anglee/anglee:8.1.0/OPM5.171019.017/891:user/release-keys"
+    },    
     {
       "key": "sys.set_adb_disabled",
       "value": "false"
@@ -127,6 +135,14 @@
     {
       "key": "media.amplayer.widevineenable",
       "value": "true"
+    },
+    {
+      "key": "media.decoder.vfm.drmmap",
+      "value": "decoder amvideo"
+    },
+    {
+      "key": "ro.com.google.clientidbase",
+      "value": "android-xiaomi-tv"
     }
   ]
 }
