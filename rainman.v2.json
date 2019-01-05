@@ -2,7 +2,7 @@
   "product": "Xiaomi Projector Tools",
   "author": "Spocky",
   "version": 2,
-  "releaseDate": "2018-12-23T00:00:00.000Z",
+  "releaseDate": "2019-01-05T00:00:00.000Z",
   "uninstallPackages": [
     "com.duokan.videodaily",
     "com.xiaomi.mitv.advertise",
