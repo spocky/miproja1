@@ -2,7 +2,7 @@
   "product": "Xiaomi Projector Tools",
   "author": "Spocky",
   "version": 2,
-  "releaseDate": "2019-01-05T00:00:00.000Z",
+  "releaseDate": "2019-01-12T00:00:00.000Z",
   "uninstallPackages": [
     "com.duokan.videodaily",
     "com.xiaomi.mitv.advertise",
@@ -67,12 +67,8 @@
       "url": "http://webservices.aptoide.com/apkinstall/apk?uid=41913214"
     },
     {
-      "name": "Youtube Tv 2.03.04",
-      "url": "http://webservices.aptoide.com/apkinstall/apk?uid=38408885"
-    },
-    {
-      "name": "Molotov Tv 3.3.3",
-      "url": "http://webservices.aptoide.com/apkinstall/apk?uid=42551435"
+      "name": "Youtube Tv 2.02.14",
+      "url": "http://webservices.aptoide.com/apkinstall/apk?uid=36679679"
     },
 	{
       "name": "SPMC 16.6",
@@ -87,6 +83,10 @@
       "url": "http://webservices.aptoide.com/apkinstall/apk?uid=41541847"
     },
     {
+      "name": "Molotov Tv 3.3.3",
+      "url": "http://webservices.aptoide.com/apkinstall/apk?uid=42551435"
+    },
+    {
       "name": "Screen Test 9.3.0.1",
       "url": "http://webservices.aptoide.com/apkinstall/apk?uid=26432785"    
 	},
@@ -97,6 +97,10 @@
     {
       "name": "Amlogic TV Box tool 1.0.28",
       "url": "http://webservices.aptoide.com/apkinstall/apk?uid=41691341"    
+    },
+    {
+      "name": "MiXPlorer 6.31.12",
+      "url": "http://webservices.aptoide.com/apkinstall/apk?uid=43023291"    
     }
   ],
   "customPropsOverrides": [
