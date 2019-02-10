@@ -2,7 +2,8 @@
   "product": "Xiaomi Projector Tools",
   "author": "Spocky",
   "version": 2,
-  "releaseDate": "2019-01-12T00:00:00.000Z",
+  "releaseDate": "2019-02-10T00:00:00.000Z",
+  "customRecoveryUrl": "http://195.154.161.97/uploads/rainman_twrp_3.2.2.0.zip",
   "uninstallPackages": [
     "com.duokan.videodaily",
     "com.xiaomi.mitv.advertise",
