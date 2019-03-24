@@ -132,15 +132,7 @@
     {
       "key": "ro.wifi.channels",
       "value": "14"
-    },
-    {
-      "key": "ro.build.fingerprint",
-      "value": "MI/anglee/anglee:8.1.0/OPM5.171019.017/891:user/release-keys"
-    },
-    {
-      "key": "ro.bootimage.build.fingerprint",
-      "value": "MI/anglee/anglee:8.1.0/OPM5.171019.017/891:user/release-keys"
-    },  
+    }, 
     {
       "key": "sys.set_adb_disabled",
       "value": "false"
