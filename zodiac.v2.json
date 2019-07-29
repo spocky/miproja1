@@ -2,8 +2,9 @@
   "product": "Xiaomi Tv/Projector Tools",
   "author": "Spocky",
   "version": 2,
-  "releaseDate": "2019-03-24T00:00:00.000Z",
-  "customRecoveryUrl": "http://195.154.161.97/uploads/rainman_twrp_3.2.2.0.tar.gz",
+  "releaseDate": "2019-07-30T00:00:00.000Z",
+  "customRecoveryZipUrl": "http://195.154.161.97/uploads/zodiac_twrp_3.2.2.0.zip",
+  "magiskUrl": "https://github.com/topjohnwu/Magisk/releases/download/v19.3/Magisk-v19.3.zip",
   "uninstallPackages": [
     "com.duokan.videodaily",
     "com.xiaomi.mitv.advertise",
