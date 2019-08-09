@@ -21,6 +21,7 @@
     "com.xiaomi.mitv.shop",
     "com.xiaomi.mitv.shop.mihome",
     "com.xiaomi.mitv.shop.tvshop",
+	"com.xiaomi.mitv.tvpush.tvpushservice",
 	
 	"com.mi.umi",
 	"com.mi.umifrontend",
@@ -33,6 +34,7 @@
     "com.xiaomi.gamecenter.sdk.service.mibox",
     "com.xiaomi.mibox.gamecenter",
     "com.mitv.appstore.component.land",
+	"com.xiaomi.mitv.appstore",
     "com.xiaomi.mitv.payment",
     "com.xiaomi.mitv.pay",
     "com.mipay.wallet.tv",
