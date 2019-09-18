@@ -2,7 +2,7 @@
   "product": "Xiaomi Tv/Projector Tools",
   "author": "Spocky",
   "version": 2,
-  "releaseDate": "2019-07-30T00:00:00.000Z",
+  "releaseDate": "2019-09-19T00:00:00.000Z",
   "customRecoveryZipUrl": "http://195.154.161.97/uploads/zodiac_twrp_3.2.2.0.zip",
   "magiskUrl": "http://195.154.161.97/uploads/Magisk-v19.3.zip",
   "uninstallPackages": [
@@ -12,15 +12,19 @@
     "com.mitv.care",
     "com.xiaomi.tv.appupgrade",
     "com.xiaomi.mitv.searchcenter",
+
     "com.xiaomi.mitv.handbook",
     "com.xiaomi.mitv.calendar",
     "com.xiaomi.tweather",
+
     "com.xiaomi.mitv.shop",
     "com.xiaomi.mitv.shop.mihome",
     "com.xiaomi.mitv.shop.tvshop",
 	"com.xiaomi.mitv.tvpush.tvpushservice",
+	
     "com.mi.umi",
     "com.mi.umifrontend",
+
     "com.xiaomi.devicereport",
     "com.mitv.gallery",
     "com.xiaomi.tv.gallery",
@@ -44,6 +48,7 @@
     "com.xiaomi.account.auth",
     "com.xiaomi.account",
     "com.xiaomi.screenrecorder",
+
     "com.sohu.inputmethod.sogou.tv",
     "com.sogou.speech.offlineservice",
     "com.baidu.input"
@@ -72,6 +77,10 @@
     {
       "name": "Youtube Tv 2.02.14",
       "url": "http://webservices.aptoide.com/apkinstall/apk?uid=36679679"
+    },
+    {
+      "name": "Netflix 4.16.3",
+      "url": "http://webservices.aptoide.com/apkinstall/apk?uid=47483895"
     },
     {
       "name": "CineTrailer 4.0.46",
@@ -158,10 +167,6 @@
     {
       "key": "ro.com.google.clientidbase",
       "value": "android-xiaomi-tv"
-    },
-    {
-      "key": "ro.nrdp.modelgroup",
-      "value": "XIAOMIM12TRIAL"
     }
   ]
 }

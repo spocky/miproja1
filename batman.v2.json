@@ -2,7 +2,7 @@
   "product": "Xiaomi Tv/Projector Tools",
   "author": "Spocky",
   "version": 2,
-  "releaseDate": "2019-08-01T00:00:00.000Z",
+  "releaseDate": "2019-09-19T00:00:00.000Z",
   "customRecoveryZipUrl": "http://195.154.161.97/uploads/batman_twrp_3.2.2.0b.zip",
   "magiskUrl": "http://195.154.161.97/uploads/Magisk-v19.3.zip",
   "uninstallPackages": [
@@ -77,6 +77,10 @@
     {
       "name": "Youtube Tv 2.02.14",
       "url": "http://webservices.aptoide.com/apkinstall/apk?uid=36679679"
+    },
+    {
+      "name": "Netflix 4.16.3",
+      "url": "http://webservices.aptoide.com/apkinstall/apk?uid=47483895"
     },
     {
       "name": "CineTrailer 4.0.46",
@@ -171,10 +175,6 @@
     {
       "key": "ro.com.google.clientidbase",
       "value": "android-xiaomi-tv"
-    },
-    {
-      "key": "ro.nrdp.modelgroup",
-      "value": "XIAOMIM12TRIAL"
     }
   ]
 }
