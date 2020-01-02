@@ -1,10 +1,10 @@
 {
-  "product": "Xiaomi Tv/Projector Tools",
+  "product": "Mi ProjecTivy Tools",
   "author": "Spocky",
   "version": 2,
-  "releaseDate": "2019-09-19T00:00:00.000Z",
-  "customRecoveryZipUrl": "http://195.154.161.97/uploads/rainman_twrp_3.2.2.0.zip",
-  "magiskUrl": "http://195.154.161.97/uploads/Magisk-v19.3.zip",
+  "releaseDate": "2020-01-02T00:00:00.000Z",
+  "customRecoveryZipUrl": "http://62.210.254.141/uploads/rainman_twrp_3.2.2.0.zip",
+  "magiskUrl": "http://62.210.254.141/uploads/Magisk-v19.3.zip",
   "uninstallPackages": [
     "com.duokan.videodaily",
     "com.xiaomi.mitv.advertise",
@@ -21,7 +21,7 @@
     "com.xiaomi.mitv.shop.mihome",
     "com.xiaomi.mitv.shop.tvshop",
 	"com.xiaomi.mitv.tvpush.tvpushservice",
-
+	
 	"com.mi.umi",
 	"com.mi.umifrontend",
 
@@ -59,12 +59,12 @@
       "url": "http://apkins.aptoide.com/AptoideTV-5.0.2.apk"
     },
     {
-      "name": "LeanbackIme Keyboard",
-      "url": "https://gitlab.incom.co/CM-Shield/proprietary_vendor_nvidia/raw/4be705a39b5a6f6165cf3b6cca856a817ab7886d/shield_common/proprietary/priv-app/LeanbackIme/LeanbackIme.apk"
-    },
-    {
       "name": "ATV Launcher free 0.11",
       "url": "http://webservices.aptoide.com/apkinstall/apk?uid=43396804"    
+    },
+    {
+      "name": "LeanbackIme Keyboard",
+      "url": "https://gitlab.incom.co/CM-Shield/proprietary_vendor_nvidia/raw/4be705a39b5a6f6165cf3b6cca856a817ab7886d/shield_common/proprietary/priv-app/LeanbackIme/LeanbackIme.apk"
     },
     {
       "name": "Tv App Repo 1.1.4-Playstore",
@@ -82,13 +82,17 @@
       "name": "Netflix 4.16.3",
       "url": "http://webservices.aptoide.com/apkinstall/apk?uid=47483895"
     },
+	{
+      "name": "Amazon Prime Video 3.0.260",
+      "url": "http://webservices.aptoide.com/apkinstall/apk?uid=49347354"
+    },
     {
       "name": "CineTrailer 4.0.46",
       "url": "http://webservices.aptoide.com/apkinstall/apk?uid=42562217"
     },
 	{
-      "name": "SPMC 16.6",
-      "url": "http://webservices.aptoide.com/apkinstall/apk?uid=22780729"
+      "name": "Kodi 18.5 Amlogic Api23",
+      "url": "http://62.210.254.141/uploads/kodi-18.5-aml-api23.apk"
     },
 	{
       "name": "Plex 7.9.0.8414",
@@ -119,12 +123,12 @@
       "url": "http://webservices.aptoide.com/apkinstall/apk?uid=44223523"
     },
     {
-      "name": "MiXPlorer 6.31.12",
-      "url": "http://webservices.aptoide.com/apkinstall/apk?uid=43023291"    
+      "name": "MiXPlorer 6.42.3",
+      "url": "http://webservices.aptoide.com/apkinstall/apk?uid=49341794"    
     },
 	{
       "name": "Google services/apps",
-      "url": "http://195.154.161.97/uploads/gapps.06d1a76b314a762d7db6884d7196f4e2.tar.gz"    
+      "url": "http://62.210.254.141/uploads/gapps.06d1a76b314a762d7db6884d7196f4e2.tar.gz"    
     }
   ],
   "customPropsOverrides": [

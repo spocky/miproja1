@@ -1,17 +1,17 @@
 {
-  "product": "Xiaomi Tv/Projector Tools",
+  "product": "Mi ProjecTivy Tools",
   "author": "Spocky",
   "version": 2,
-  "releaseDate": "2019-09-19T00:00:00.000Z",
-  "customRecoveryZipUrl": "http://195.154.161.97/uploads/rainman_twrp_3.2.2.0.zip",
-  "magiskUrl": "http://195.154.161.97/uploads/Magisk-v19.3.zip",
+  "releaseDate": "2020-01-02T00:00:00.000Z",
+  "customRecoveryZipUrl": "http://62.210.254.141/uploads/rainman_twrp_3.2.2.0.zip",
+  "magiskUrl": "http://62.210.254.141/uploads/Magisk-v19.3.zip",
   "uninstallPackages": [
     "com.duokan.videodaily",
     "com.xiaomi.mitv.advertise",
     "com.miui.systemAdSolution",
     "com.mitv.care",
-    "com.xiaomi.tv.appupgrade",
-    "com.xiaomi.mitv.searchcenter",
+	"com.xiaomi.tv.appupgrade",
+	"com.xiaomi.mitv.searchcenter",
 
     "com.xiaomi.mitv.handbook",
     "com.xiaomi.mitv.calendar",
@@ -22,14 +22,14 @@
     "com.xiaomi.mitv.shop.tvshop",
 	"com.xiaomi.mitv.tvpush.tvpushservice",
 	
-    "com.mi.umi",
-    "com.mi.umifrontend",
+	"com.mi.umi",
+	"com.mi.umifrontend",
 
-    "com.xiaomi.devicereport",
+	"com.xiaomi.devicereport",
     "com.mitv.gallery",
     "com.xiaomi.tv.gallery",
     "com.xiaomi.mitv.karaoke.service",
-    "com.xiaomi.mibox.gamecenter",
+	"com.xiaomi.mibox.gamecenter",
     "com.xiaomi.gamecenter.sdk.service.mibox",
     "com.xiaomi.mibox.gamecenter",
     "com.mitv.appstore.component.land",
@@ -43,14 +43,14 @@
     "com.xm.webcontent",
     "com.xiaomi.mimusic2",
     "com.mitv.screensaver",
-    "com.mi.umi",
-    "com.mi.umifrontend",
-    "com.xiaomi.account.auth",
-    "com.xiaomi.account",
-    "com.xiaomi.screenrecorder",
+	"com.mi.umi",
+	"com.mi.umifrontend",
+	"com.xiaomi.account.auth",
+	"com.xiaomi.account",
+	"com.xiaomi.screenrecorder",
 
     "com.sohu.inputmethod.sogou.tv",
-    "com.sogou.speech.offlineservice",
+	"com.sogou.speech.offlineservice",
     "com.baidu.input"
   ],
   "installPackages": [
@@ -59,16 +59,16 @@
       "url": "http://apkins.aptoide.com/AptoideTV-5.0.2.apk"
     },
     {
+      "name": "ATV Launcher free 0.11",
+      "url": "http://webservices.aptoide.com/apkinstall/apk?uid=43396804"    
+    },
+    {
       "name": "LeanbackIme Keyboard",
       "url": "https://gitlab.incom.co/CM-Shield/proprietary_vendor_nvidia/raw/4be705a39b5a6f6165cf3b6cca856a817ab7886d/shield_common/proprietary/priv-app/LeanbackIme/LeanbackIme.apk"
     },
     {
-      "name": "ATV Launcher free 0.11",
-      "url": "http://webservices.aptoide.com/apkinstall/apk?uid=43396804"
-    },
-    {
       "name": "Tv App Repo 1.1.4-Playstore",
-      "url": "http://webservices.aptoide.com/apkinstall/apk?uid=33931069"
+      "url": "http://webservices.aptoide.com/apkinstall/apk?uid=33931069"    
     },
     {
       "name": "Cetusplay 4.5.6.1",
@@ -82,15 +82,19 @@
       "name": "Netflix 4.16.3",
       "url": "http://webservices.aptoide.com/apkinstall/apk?uid=47483895"
     },
+	{
+      "name": "Amazon Prime Video 3.0.260",
+      "url": "http://webservices.aptoide.com/apkinstall/apk?uid=49347354"
+    },
     {
       "name": "CineTrailer 4.0.46",
       "url": "http://webservices.aptoide.com/apkinstall/apk?uid=42562217"
     },
-    {
-      "name": "SPMC 16.6",
-      "url": "http://webservices.aptoide.com/apkinstall/apk?uid=22780729"
+	{
+      "name": "Kodi 18.5 Amlogic Api23",
+      "url": "http://62.210.254.141/uploads/kodi-18.5-aml-api23.apk"
     },
-    {
+	{
       "name": "Plex 7.9.0.8414",
       "url": "http://webservices.aptoide.com/apkinstall/apk?uid=42575864"
     },
@@ -104,27 +108,27 @@
     },
     {
       "name": "Screen Test 9.3.0.1",
-      "url": "http://webservices.aptoide.com/apkinstall/apk?uid=26432785"
-    },
+      "url": "http://webservices.aptoide.com/apkinstall/apk?uid=26432785"    
+	},
     {
       "name": "MoreLocale 2.3.1",
-      "url": "http://webservices.aptoide.com/apkinstall/apk?uid=5536454"
+      "url": "http://webservices.aptoide.com/apkinstall/apk?uid=5536454"    
     },
     {
       "name": "Amlogic TV Box tool 1.0.28",
-      "url": "http://webservices.aptoide.com/apkinstall/apk?uid=41691341"
+      "url": "http://webservices.aptoide.com/apkinstall/apk?uid=41691341"    
     },
     {
       "name": "Notifications for Android Tv 4.6.0",
       "url": "http://webservices.aptoide.com/apkinstall/apk?uid=44223523"
     },
     {
-      "name": "MiXPlorer 6.31.12",
-      "url": "http://webservices.aptoide.com/apkinstall/apk?uid=43023291"
+      "name": "MiXPlorer 6.42.3",
+      "url": "http://webservices.aptoide.com/apkinstall/apk?uid=49341794"    
     },
-    {
+	{
       "name": "Google services/apps",
-      "url": "http://195.154.161.97/uploads/gapps.06d1a76b314a762d7db6884d7196f4e2.tar.gz"
+      "url": "http://62.210.254.141/uploads/gapps.06d1a76b314a762d7db6884d7196f4e2.tar.gz"    
     }
   ],
   "customPropsOverrides": [
@@ -139,14 +143,6 @@
     {
       "key": "ro.wifi.channels",
       "value": "14"
-    },
-    {
-      "key": "ro.build.fingerprint",
-      "value": "MI/anglee/anglee:8.1.0/OPM5.171019.017/891:user/release-keys"
-    },
-    {
-      "key": "ro.bootimage.build.fingerprint",
-      "value": "MI/anglee/anglee:8.1.0/OPM5.171019.017/891:user/release-keys"
     },
     {
       "key": "sys.set_adb_disabled",
