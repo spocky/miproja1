@@ -3,8 +3,8 @@
   "author": "Spocky",
   "version": 2,
   "releaseDate": "2020-01-02T00:00:00.000Z",
-  "customRecoveryZipUrl": "http://195.154.161.97/uploads/batman_twrp_3.2.2.0b.zip",
-  "magiskUrl": "http://195.154.161.97/uploads/Magisk-v19.3.zip",
+  "customRecoveryZipUrl": "https://195.154.161.97/uploads/batman_twrp_3.2.2.0b.zip",
+  "magiskUrl": "https://195.154.161.97/uploads/Magisk-v19.3.zip",
   "uninstallPackages": [
     "com.duokan.videodaily",
     "com.xiaomi.mitv.advertise",
@@ -92,7 +92,7 @@
     },
 	{
       "name": "Kodi 18.5 Amlogic Api23",
-      "url": "http://195.154.161.97/uploads/kodi-18.5-aml-api23.apk"
+      "url": "https://195.154.161.97/uploads/kodi-18.5-aml-api23.apk"
     },
 	{
       "name": "Plex 7.9.0.8414",
@@ -128,15 +128,15 @@
     },
 	{
       "name": "Google services/apps",
-      "url": "http://195.154.161.97/uploads/gapps.06d1a76b314a762d7db6884d7196f4e2.tar.gz"    
+      "url": "https://195.154.161.97/uploads/gapps.06d1a76b314a762d7db6884d7196f4e2.tar.gz"    
     },
 	{
       "name": "Projector PQ calibration b494",
-      "url": "http://195.154.161.97/uploads/pq_494.4b6a08d95237ba4d32ab1515eaeebebd.tar.gz"    
+      "url": "https://195.154.161.97/uploads/pq_494.4b6a08d95237ba4d32ab1515eaeebebd.tar.gz"    
     },
 	{
       "name": "Projector PQ calibration b536",
-      "url": "http://195.154.161.97/uploads/pq_536.ce945b31b22d3857800fa52f942c93a7.tar.gz"    
+      "url": "https://195.154.161.97/uploads/pq_536.ce945b31b22d3857800fa52f942c93a7.tar.gz"    
     }
   ],
   "customPropsOverrides": [

@@ -3,8 +3,8 @@
   "author": "Spocky",
   "version": 2,
   "releaseDate": "2020-01-02T00:00:00.000Z",
-  "customRecoveryZipUrl": "http://195.154.161.97/uploads/zodiac_twrp_3.2.2.0.zip",
-  "magiskUrl": "http://195.154.161.97/uploads/Magisk-v19.3.zip",
+  "customRecoveryZipUrl": "https://195.154.161.97/uploads/zodiac_twrp_3.2.2.0.zip",
+  "magiskUrl": "https://195.154.161.97/uploads/Magisk-v19.3.zip",
   "uninstallPackages": [
     "com.duokan.videodaily",
     "com.xiaomi.mitv.advertise",
@@ -92,7 +92,7 @@
     },
 	{
       "name": "Kodi 18.5 Amlogic Api23",
-      "url": "http://195.154.161.97/uploads/kodi-18.5-aml-api23.apk"
+      "url": "https://195.154.161.97/uploads/kodi-18.5-aml-api23.apk"
     },
 	{
       "name": "Plex 7.9.0.8414",
@@ -128,7 +128,7 @@
     },
 	{
       "name": "Google services/apps",
-      "url": "http://195.154.161.97/uploads/gapps.06d1a76b314a762d7db6884d7196f4e2.tar.gz"    
+      "url": "https://195.154.161.97/uploads/gapps.06d1a76b314a762d7db6884d7196f4e2.tar.gz"    
     }
   ],
   "customPropsOverrides": [
