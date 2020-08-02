@@ -7,62 +7,16 @@
   "magiskUrl": "http://195.154.161.97/uploads/Magisk-v19.3.zip",
   "launcher": "cn.formovie.fengos.desktop",
   "uninstallPackages": [
-    "com.duokan.videodaily",
-    "com.xiaomi.mitv.advertise",
-    "com.miui.systemAdSolution",
-    "com.mitv.care",
-	"com.xiaomi.tv.appupgrade",
-	"com.xiaomi.mitv.searchcenter",
-
-    "com.xiaomi.mitv.handbook",
-    "com.xiaomi.mitv.calendar",
-    "com.xiaomi.tweather",
-
-    "com.xiaomi.mitv.shop",
-    "com.xiaomi.mitv.shop.mihome",
-    "com.xiaomi.mitv.shop.tvshop",
-	"com.xiaomi.mitv.tvpush.tvpushservice",
-	
-	"com.mi.umi",
-	"com.mi.umifrontend",
-
-	"com.xiaomi.devicereport",
-    "com.mitv.gallery",
-    "com.xiaomi.tv.gallery",
-    "com.xiaomi.mitv.karaoke.service",
-	"com.xiaomi.mibox.gamecenter",
-    "com.xiaomi.gamecenter.sdk.service.mibox",
-    "com.xiaomi.mibox.gamecenter",
-    "com.mitv.appstore.component.land",
-	"com.xiaomi.mitv.appstore",
-    "com.xiaomi.mitv.payment",
-    "com.xiaomi.mitv.pay",
-    "com.mipay.wallet.tv",
-    "com.miui.tv.analytics",
-    "com.xiaomi.statistic",
-    "com.xiaomi.voicecontrol",
-    "com.xm.webcontent",
-    "com.xiaomi.mimusic2",
-    "com.mitv.screensaver",
-	"com.mi.umi",
-	"com.mi.umifrontend",
-	"com.xiaomi.account.auth",
-	"com.xiaomi.account",
-	"com.xiaomi.screenrecorder",
-
-    "com.sohu.inputmethod.sogou.tv",
-	"com.sogou.speech.offlineservice",
-    "com.baidu.input",
-	
 	"com.tencent.qqmusictv",
 	"com.ktcp.video",
 	"com.gitvdemo.video",
-	"com.cibn.tv"
+	"com.cibn.tv",
+	"com.shafa.market"
   ],
   "installPackages": [
     {
       "name": "Aptoide Tv Store",
-      "url": "http://apkins.aptoide.com/AptoideTV-5.0.2.apk"
+      "url": "http://apkins.aptoide.com/AptoideTV-5.1.2.apk"
     },
     {
       "name": "ATV Launcher free 0.11",
@@ -81,8 +35,8 @@
       "url": "http://webservices.aptoide.com/apkinstall/apk?uid=41913214"
     },
     {
-      "name": "Youtube Tv 2.02.14",
-      "url": "http://webservices.aptoide.com/apkinstall/apk?uid=36679679"
+      "name": "Youtube Tv 2.10.17",
+      "url": "http://webservices.aptoide.com/apkinstall/apk?uid=52058987"
     },
     {
       "name": "Netflix 4.16.3",
@@ -135,14 +89,6 @@
 	{
       "name": "Google services/apps",
       "url": "http://195.154.161.97/uploads/gapps.06d1a76b314a762d7db6884d7196f4e2.tar.gz"    
-    },
-	{
-      "name": "Projector PQ calibration b494",
-      "url": "http://195.154.161.97/uploads/pq_494.4b6a08d95237ba4d32ab1515eaeebebd.tar.gz"    
-    },
-	{
-      "name": "Projector PQ calibration b536",
-      "url": "http://195.154.161.97/uploads/pq_536.ce945b31b22d3857800fa52f942c93a7.tar.gz"    
     }
   ],
   "customPropsOverrides": [
