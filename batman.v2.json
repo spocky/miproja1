@@ -4,7 +4,8 @@
   "version": 2,
   "releaseDate": "2020-01-02T00:00:00.000Z",
   "customRecoveryZipUrl": "http://195.154.161.97/uploads/batman_twrp_3.2.2.0b.zip",
-  "magiskUrl": "http://195.154.161.97/uploads/Magisk-v19.3.zip",
+  "magiskUrl": "http://195.154.161.97/uploads/Magisk-v20.4.zip",
+  "launcher": "com.mitv.tvhome",
   "uninstallPackages": [
     "com.duokan.videodaily",
     "com.xiaomi.mitv.advertise",
