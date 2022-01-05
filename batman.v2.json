@@ -2,7 +2,7 @@
   "product": "ProjecTivy Tools",
   "author": "Spocky",
   "version": 2,
-  "releaseDate": "2020-12-05T00:00:00.000Z",
+  "releaseDate": "2022-01-05T00:00:00.000Z",
   "toolsUrl": "http://195.154.161.97/uploads/ptt/ProjecTivyTools-3.56-playstore-release.apk",
   "customRecoveryZipUrl": "http://195.154.161.97/uploads/batman_twrp_3.2.2.0b.zip",
   "magiskUrl": "http://195.154.161.97/uploads/Magisk-v20.4.zip",
@@ -58,85 +58,73 @@
   "installPackages": [
     {
       "name": "Aptoide Tv Store",
-      "url": "http://apkins.aptoide.com/AptoideTV-5.0.2.apk"
-    },
-    {
-      "name": "ATV Launcher free 0.11",
-      "url": "http://webservices.aptoide.com/apkinstall/apk?uid=43396804"    
+      "url": "http://apkins.aptoide.com/AptoideTV-5.1.2.apk"
     },
     {
       "name": "LeanbackIme Keyboard",
       "url": "https://gitlab.incom.co/CM-Shield/proprietary_vendor_nvidia/raw/4be705a39b5a6f6165cf3b6cca856a817ab7886d/shield_common/proprietary/priv-app/LeanbackIme/LeanbackIme.apk"
     },
     {
-      "name": "Tv App Repo 1.1.4-Playstore",
-      "url": "http://webservices.aptoide.com/apkinstall/apk?uid=33931069"    
+      "name": "ATV Launcher free 0.11",
+      "url": "http://webservices.aptoide.com/apkinstall/apk?uid=43396804"    
     },
-    {
-      "name": "Cetusplay 4.5.6.1",
-      "url": "http://webservices.aptoide.com/apkinstall/apk?uid=41913214"
-    },
-    {
-      "name": "Youtube Tv 2.02.14",
-      "url": "http://webservices.aptoide.com/apkinstall/apk?uid=36679679"
+     {
+      "name": "Youtube Tv 2.12.08",
+      "url": "http://webservices.aptoide.com/apkinstall/apk?uid=54652337"
     },
     {
       "name": "Netflix 4.16.3",
-      "url": "http://webservices.aptoide.com/apkinstall/apk?uid=47483895"
-    },
-	{
-      "name": "Amazon Prime Video 3.0.260",
-      "url": "http://webservices.aptoide.com/apkinstall/apk?uid=49347354"
+       "url": "http://webservices.aptoide.com/apkinstall/apk?uid=47483895"
     },
     {
-      "name": "CineTrailer 4.0.46",
-      "url": "http://webservices.aptoide.com/apkinstall/apk?uid=42562217"
+      "name": "Amazon Prime Video 3.0.260",
+       "url": "http://webservices.aptoide.com/apkinstall/apk?uid=49347354"
     },
-	{
+    {
       "name": "Kodi 18.5 Amlogic Api23",
       "url": "http://195.154.161.97/uploads/kodi-18.5-aml-api23.apk"
     },
 	{
-      "name": "Plex 7.9.0.8414",
-      "url": "http://webservices.aptoide.com/apkinstall/apk?uid=42575864"
+      "name": "Plex 8.28.0.29997",
+       "url": "http://webservices.aptoide.com/apkinstall/apk?uid=61255523"
     },
     {
-      "name": "MyCanal 3.5.14b2",
-      "url": "http://webservices.aptoide.com/apkinstall/apk?uid=41541847"
+      "name": "MyCanal 5.6.1",
+      "url": "http://webservices.aptoide.com/apkinstall/apk?uid=61218787"
     },
     {
       "name": "Molotov Tv 3.3.3",
       "url": "http://webservices.aptoide.com/apkinstall/apk?uid=42551435"
     },
     {
-      "name": "Screen Test 9.3.0.1",
+      "name": "Screen Test 2.4",
       "url": "http://webservices.aptoide.com/apkinstall/apk?uid=26432785"    
-	},
-    {
-      "name": "MoreLocale 2.3.1",
-      "url": "http://webservices.aptoide.com/apkinstall/apk?uid=5536454"    
     },
     {
-      "name": "Amlogic TV Box tool 1.0.28",
-      "url": "http://webservices.aptoide.com/apkinstall/apk?uid=41691341"    
+      "name": "MoreLocale 2.4.5",
+      "url": "http://webservices.aptoide.com/apkinstall/apk?uid=59012756"    
     },
     {
-      "name": "Notifications for Android Tv 4.6.0",
-      "url": "http://webservices.aptoide.com/apkinstall/apk?uid=44223523"
+      "name": "Amlogic TV Box tool 1.0.31c",
+      "url": "http://webservices.aptoide.com/apkinstall/apk?uid=49572061"    
     },
     {
-      "name": "MiXPlorer 6.42.3",
-      "url": "http://webservices.aptoide.com/apkinstall/apk?uid=49341794"    
+      "name": "Notifications for Android Tv 4.5.3",
+      "url": "http://webservices.aptoide.com/apkinstall/apk?uid=37802520"
+    },
+    {
+      "name": "Solid Explorer 2.8.12",
+        "url": "http://webservices.aptoide.com/apkinstall/apk?uid=57704935"
     },
 	{
       "name": "Google services/apps",
       "url": "http://195.154.161.97/uploads/gapps.06d1a76b314a762d7db6884d7196f4e2.tar.gz"    
     },
-	{
+    {
       "name": "Projector PQ calibration b494",
       "url": "http://195.154.161.97/uploads/pq_494.4b6a08d95237ba4d32ab1515eaeebebd.tar.gz"    
     },
-	{
+    {
       "name": "Projector PQ calibration b536",
       "url": "http://195.154.161.97/uploads/pq_536.ce945b31b22d3857800fa52f942c93a7.tar.gz"    
     }
