@@ -1,0 +1,133 @@
+{
+  "product": "ProjecTivy Tools",
+  "author": "Spocky",
+  "version": 2,
+  "releaseDate": "2022-01-05T00:00:00.000Z",
+  "toolsUrl": "http://195.154.161.97/uploads/ptt/ProjecTivyTools-3.56-playstore-release.apk",
+  "customRecoveryZipUrl": "",
+  "magiskUrl": "http://195.154.161.97/uploads/Magisk-v20.4.zip",
+  "launcher": "cn.formovie.fengos.desktop",
+  "uninstallPackages": [
+	"com.tencent.qqmusictv",
+	"com.ktcp.video",
+	"com.gitvdemo.video",
+	"com.cibn.tv",
+	"com.shafa.market"
+  ],
+  "installPackages": [
+   {
+      "name": "Aptoide Tv Store",
+      "url": "http://apkins.aptoide.com/AptoideTV-5.1.2.apk"
+    },
+    {
+      "name": "LeanbackIme Keyboard",
+      "url": "https://gitlab.incom.co/CM-Shield/proprietary_vendor_nvidia/raw/4be705a39b5a6f6165cf3b6cca856a817ab7886d/shield_common/proprietary/priv-app/LeanbackIme/LeanbackIme.apk"
+    },
+    {
+      "name": "ATV Launcher free 0.11",
+      "url": "http://webservices.aptoide.com/apkinstall/apk?uid=43396804"    
+    },
+     {
+      "name": "Youtube Tv 2.12.08",
+      "url": "http://webservices.aptoide.com/apkinstall/apk?uid=54652337"
+    },
+    {
+      "name": "Netflix 4.16.3",
+       "url": "http://webservices.aptoide.com/apkinstall/apk?uid=47483895"
+    },
+    {
+      "name": "Amazon Prime Video 3.0.260",
+       "url": "http://webservices.aptoide.com/apkinstall/apk?uid=49347354"
+    },
+    {
+      "name": "Kodi 18.5 Amlogic Api23",
+      "url": "http://195.154.161.97/uploads/kodi-18.5-aml-api23.apk"
+    },
+	{
+      "name": "Plex 8.28.0.29997",
+       "url": "http://webservices.aptoide.com/apkinstall/apk?uid=61255523"
+    },
+    {
+      "name": "MyCanal 5.6.1",
+      "url": "http://webservices.aptoide.com/apkinstall/apk?uid=61218787"
+    },
+    {
+      "name": "Molotov Tv 3.3.3",
+      "url": "http://webservices.aptoide.com/apkinstall/apk?uid=42551435"
+    },
+    {
+      "name": "Screen Test 2.4",
+      "url": "http://webservices.aptoide.com/apkinstall/apk?uid=26432785"    
+    },
+    {
+      "name": "MoreLocale 2.4.5",
+      "url": "http://webservices.aptoide.com/apkinstall/apk?uid=59012756"    
+    },
+    {
+      "name": "Amlogic TV Box tool 1.0.31c",
+      "url": "http://webservices.aptoide.com/apkinstall/apk?uid=49572061"    
+    },
+    {
+      "name": "Notifications for Android Tv 4.5.3",
+      "url": "http://webservices.aptoide.com/apkinstall/apk?uid=37802520"
+    },
+    {
+      "name": "Solid Explorer 2.8.12",
+        "url": "http://webservices.aptoide.com/apkinstall/apk?uid=57704935"
+    },
+	{
+      "name": "Google services/apps",
+      "url": "http://195.154.161.97/uploads/gapps.06d1a76b314a762d7db6884d7196f4e2.tar.gz"    
+    }
+  ],
+  "customPropsOverrides": [
+    {
+      "key": "ro.debuggable",
+      "value": "1"
+    },
+    {
+      "key": "ro.product.locale",
+      "value": "en-US"
+    },
+    {
+      "key": "ro.wifi.channels",
+      "value": "14"
+    },
+    {
+      "key": "ro.build.fingerprint",
+      "value": "MI/anglee/anglee:8.1.0/OPM5.171019.017/891:user/release-keys"
+    },
+    {
+      "key": "ro.bootimage.build.fingerprint",
+      "value": "MI/anglee/anglee:8.1.0/OPM5.171019.017/891:user/release-keys"
+    },  
+    {
+      "key": "sys.set_adb_disabled",
+      "value": "false"
+    },
+    {
+      "key": "persist.sys.usb.netadb.config",
+      "value": "1"
+    },
+    {
+      "key": "persist.sys.version.type",
+      "value": "cts"
+    },
+    {
+      "key": "persist.mi.detected.country",
+      "value": "US"
+    },
+    {
+      "key": "media.amplayer.widevineenable",
+      "value": "true"
+    },
+    {
+      "key": "media.decoder.vfm.drmmap",
+      "value": "decoder amvideo"
+    },
+    {
+      "key": "ro.com.google.clientidbase",
+      "value": "android-xiaomi-tv"
+    }
+  ]
+}
