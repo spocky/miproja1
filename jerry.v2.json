@@ -74,10 +74,6 @@
     {
       "name": "Solid Explorer 2.8.12",
         "url": "http://webservices.aptoide.com/apkinstall/apk?uid=57704935"
-    },
-	{
-      "name": "Google services/apps",
-      "url": "http://195.154.161.97/uploads/gapps.06d1a76b314a762d7db6884d7196f4e2.tar.gz"    
     }
   ],
   "customPropsOverrides": [
