@@ -1,8 +1,9 @@
 {
-  "product": "ProjecTivy Tools",
+  "product": "ProjecTivy Launcher",
   "author": "Spocky",
   "version": 2,
-  "releaseDate": "2022-01-05T00:00:00.000Z",
+  "releaseDate": "2022-12-16T00:00:00.000Z",
+  "toolsUrl": "https://github.com/spocky/miproja1/releases/download/4.03/ProjectivyLauncher-4.03-c50-playstore-release.apk",
   "uninstallPackages": [
     "com.duokan.videodaily",
     "com.xiaomi.mitv.advertise",
@@ -54,7 +55,7 @@
   "installPackages": [
    {
       "name": "Aptoide Tv Store",
-      "url": "http://apkins.aptoide.com/AptoideTV-5.1.2.apk"
+      "url": "https://apkins.aptoide.com/AptoideTV-5.1.2.apk"
     },
     {
       "name": "LeanbackIme Keyboard",

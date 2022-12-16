@@ -1,9 +1,9 @@
 {
-  "product": "ProjecTivy Tools",
+  "product": "Projectivy Launcher",
   "author": "Spocky",
   "version": 2,
-  "releaseDate": "2022-01-05T00:00:00.000Z",
-  "toolsUrl": "http://195.154.161.97/uploads/ptt/ProjectivyLauncher-4.02-c49-playstore-release.apk",
+  "releaseDate": "2022-12-16T00:00:00.000Z",
+  "toolsUrl": "https://github.com/spocky/miproja1/releases/download/4.03/ProjectivyLauncher-4.03-c50-playstore-release.apk",
   "customRecoveryZipUrl": "http://195.154.161.97/uploads/batman_twrp_3.2.2.0b.zip",
   "magiskUrl": "http://195.154.161.97/uploads/Magisk-v20.4.zip",
   "launcher": "com.mitv.tvhome",
@@ -58,7 +58,7 @@
   "installPackages": [
     {
       "name": "Aptoide Tv Store",
-      "url": "http://apkins.aptoide.com/AptoideTV-5.1.2.apk"
+      "url": "https://apkins.aptoide.com/AptoideTV-5.1.2.apk"
     },
     {
       "name": "LeanbackIme Keyboard",
