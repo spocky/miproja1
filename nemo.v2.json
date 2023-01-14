@@ -1,9 +1,9 @@
 {
-  "product": "ProjecTivy Launcher",
+  "product": "Projectivy Launcher",
   "author": "Spocky",
   "version": 2,
-  "releaseDate": "2022-12-16T00:00:00.000Z",
-  "toolsUrl": "https://github.com/spocky/miproja1/releases/download/4.03/ProjectivyLauncher-4.03-c50-playstore-release.apk",
+  "releaseDate": "2023-01-14T00:00:00.000Z",
+  "toolsUrl": "https://github.com/spocky/miproja1/releases/download/4.21/ProjectivyLauncher-4.21-c53-xda-release.apk",
   "customRecoveryZipUrl": "",
   "magiskUrl": "http://195.154.161.97/uploads/Magisk-v20.4.zip",
   "launcher": "cn.formovie.fengos.desktop",
