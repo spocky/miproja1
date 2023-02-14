@@ -2,8 +2,8 @@
   "product": "Projectivy Launcher",
   "author": "Spocky",
   "version": 2,
-  "releaseDate": "2023-01-14T00:00:00.000Z",
-  "toolsUrl": "https://github.com/spocky/miproja1/releases/download/4.21/ProjectivyLauncher-4.21-c53-xda-release.apk",
+  "releaseDate": "2023-02-14T00:00:00.000Z",
+  "toolsUrl": "https://github.com/spocky/miproja1/releases/download/4.24/ProjectivyLauncher-4.24-c57-xda-release.apk",
   "uninstallPackages": [
     "com.duokan.videodaily",
     "com.xiaomi.mitv.advertise",
