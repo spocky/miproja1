@@ -2,10 +2,10 @@
   "product": "Projectivy Launcher",
   "author": "Spocky",
   "version": 2,
-  "releaseDate": "2023-02-14T00:00:00.000Z",
-  "toolsUrl": "https://github.com/spocky/miproja1/releases/download/4.24/ProjectivyLauncher-4.24-c57-xda-release.apk",
+  "releaseDate": "2023-10-13T00:00:00.000Z",
+  "toolsUrl": "https://github.com/spocky/miproja1/releases/download/4.36/ProjectivyLauncher-4.36-c64-xda-release.apk",
   "customRecoveryZipUrl": "",
-  "magiskUrl": "http://195.154.161.97/uploads/Magisk-v20.4.zip",
+  "magiskUrl": "http://projectivy.free.fr/uploads/Magisk-v20.4.zip",
   "launcher": "cn.formovie.fengos.desktop",
   "uninstallPackages": [
 	"com.tencent.qqmusictv",
@@ -41,7 +41,7 @@
     },
     {
       "name": "Kodi 18.5 Amlogic Api23",
-      "url": "http://195.154.161.97/uploads/kodi-18.5-aml-api23.apk"
+      "url": "http://projectivy.free.fr/uploads/kodi-18.5-aml-api23.apk"
     },
 	{
       "name": "Plex 8.28.0.29997",
