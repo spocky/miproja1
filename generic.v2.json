@@ -55,7 +55,7 @@
   "installPackages": [
    {
       "name": "Aptoide Tv Store",
-      "url": "https://apkins.aptoide.com/AptoideTV-5.1.2.apk"
+      "url": "https://pool.apk.aptoide.com/rmota/cm-aptoidetv-pt-531-51848782-48fb019529cdd750d20693710da30fbc.apk"
     },
     {
       "name": "LeanbackIme Keyboard",
