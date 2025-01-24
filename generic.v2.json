@@ -53,7 +53,11 @@
     "com.baidu.input"
   ],
   "installPackages": [
-   {
+    {
+      "name": "[Wallpaper Plugin] Overflight",
+      "url": "https://github.com/spocky/projectivy-plugin-wallpaper-overflight/releases/download/1.02/ProjectivyPlugin-Overflight-1.02-c2-generic-release.apk"
+    },
+    {
       "name": "Aptoide Tv Store",
       "url": "https://pool.apk.aptoide.com/rmota/cm-aptoidetv-pt-531-51848782-48fb019529cdd750d20693710da30fbc.apk"
     },
