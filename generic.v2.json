@@ -62,6 +62,10 @@
       "url": "https://github.com/spocky/projectivy-plugin-wallpaper-bingwallpaper/releases/download/1.01/ProjectivyPlugin-BingWallpaper-1.01-c2-generic-release.apk"
     },
     {
+      "name": "[Icon Pack] Arcticons Day&Night 12.2.0",
+      "url": "https://github.com/Arcticons-Team/Arcticons/releases/download/12.2.0/Arcticons-12.2.0-dayNight-release.apk"
+    },
+    {
       "name": "Aptoide Tv Store",
       "url": "https://pool.apk.aptoide.com/rmota/cm-aptoidetv-pt-531-51848782-48fb019529cdd750d20693710da30fbc.apk"
     },
@@ -70,10 +74,6 @@
       "url": "https://gitlab.incom.co/CM-Shield/proprietary_vendor_nvidia/raw/4be705a39b5a6f6165cf3b6cca856a817ab7886d/shield_common/proprietary/priv-app/LeanbackIme/LeanbackIme.apk"
     },
     {
-      "name": "ATV Launcher free 0.11",
-      "url": "http://webservices.aptoide.com/apkinstall/apk?uid=43396804"    
-    },
-     {
       "name": "Youtube Tv 2.12.08",
       "url": "http://webservices.aptoide.com/apkinstall/apk?uid=54652337"
     },
