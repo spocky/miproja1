@@ -2,8 +2,8 @@
   "product": "Projectivy Launcher",
   "author": "Spocky",
   "version": 2,
-  "releaseDate": "2024-06-03T00:00:00.000Z",
-  "toolsUrl": "https://github.com/spocky/miproja1/releases/download/4.54/ProjectivyLauncher-4.54-c70-xda-release.apk",
+  "releaseDate": "2025-08-09T00:00:00.000Z",
+  "toolsUrl": "https://github.com/spocky/miproja1/releases/download/4.67/ProjectivyLauncher-4.67-c80-xda-release.apk",
   "uninstallPackages": [
     "com.duokan.videodaily",
     "com.xiaomi.mitv.advertise",
@@ -55,7 +55,7 @@
   "installPackages": [
     {
       "name": "[Wallpaper Plugin] Overflight",
-      "url": "https://github.com/spocky/projectivy-plugin-wallpaper-overflight/releases/download/1.02/ProjectivyPlugin-Overflight-1.02-c2-generic-release.apk"
+      "url": "https://github.com/spocky/projectivy-plugin-wallpaper-overflight/releases/download/1.10/ProjectivyPlugin-Overflight-1.10-c3-generic-release.apk",
     },
     {
       "name": "[Wallpaper Plugin] Bing Wallpaper",
