@@ -55,11 +55,17 @@
   "installPackages": [
     {
       "name": "[Wallpaper Plugin] Overflight",
-      "url": "https://github.com/spocky/projectivy-plugin-wallpaper-overflight/releases/download/1.10/ProjectivyPlugin-Overflight-1.10-c3-generic-release.apk",
+      "url": "https://github.com/spocky/projectivy-plugin-wallpaper-overflight/releases/download/1.12/ProjectivyPlugin-Overflight-1.12-c5-generic-release.apk",
+      "package": "tv.projectivy.plugin.wallpaperprovider.overflight"
     },
     {
       "name": "[Wallpaper Plugin] Bing Wallpaper",
-      "url": "https://github.com/spocky/projectivy-plugin-wallpaper-bingwallpaper/releases/download/1.01/ProjectivyPlugin-BingWallpaper-1.01-c2-generic-release.apk"
+      "url": "https://github.com/spocky/projectivy-plugin-wallpaper-bingwallpaper/releases/download/1.02/ProjectivyPlugin-BingWallpaper-1.02-c3-generic-release.apk",
+      "package": "tv.projectivy.plugin.wallpaperprovider.bingwallpaper"
+    },
+    {
+      "name": "[Icon Pack] Projectivy Icon Pack",
+      "url": "https://github.com/SicMundus86/ProjectivyIconPack/releases/download/1.0.2/Projectivy_icon_pack_1.0.2.apk"
     },
     {
       "name": "[Icon Pack] Arcticons Day&Night 12.2.0",
