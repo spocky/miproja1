@@ -52,3 +52,11 @@ Legacy fixtures reproduce the original checkout bytes, including formatting and 
 Generation resolves and confines source, fixture, and output paths to the checkout, rejects cycles and invalid references, and validates all outputs before writing any of them. Each changed file is replaced atomically; replacement across all twelve files is not a transaction. Review every output diff after a write.
 
 No third-party Python dependencies are needed. Local tests ran on Python 3.14.6; the proposed CI pins Python 3.12.12 and action commit hashes, disables checkout credential persistence, and requests read-only repository permissions. Hosted CI has not run. Link-health checks, artifact authenticity/hash verification, runtime compatibility, and a separately reviewed uninstall-list deduplication change remain outside this baseline slice.
+
+## Offline shared catalogue audit (F03 foundation)
+
+`catalogue-inventory.json` groups the exact configured download URLs and keeps every device pin and source position. Run `python tools/audit_catalogue.py --check` for its read-only audit, or `--write` to intentionally regenerate only that inventory after a reviewed configuration change. The audit is a CI check separate from network health. Source layers and installation arrays still use the original values; this inventory does not add a new runtime or authoring reference format.
+
+All artifacts remain `unverified`. URL-derived IDs hash location text, not artifact bytes. Explicit package identifiers are copied only where the configuration declares them; all other identities, versions, signatures, publisher identities, digests, architectures, Android constraints and supported-device eligibility stay unknown. A device reference records an existing pin, not compatibility. HTTPS transport alone does not verify an APK.
+
+The audit rejects drift from configured locations/declared identities and fabricated verification claims. It cannot inspect an APK or prove package identity/signature/authenticity. Trusted artifact inspection, bounded redirect/download checks, catalogue-driven authoring and downloader enforcement remain separate work; actual downloader enforcement needs authorized launcher source. No bytes are downloaded or executed, and no device pin is replaced.

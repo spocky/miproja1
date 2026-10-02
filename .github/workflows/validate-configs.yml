@@ -30,3 +30,6 @@ jobs:
 
       - name: Check generated-file freshness
         run: python tools/generate_configs.py --check
+
+      - name: Audit the unverified download inventory
+        run: python tools/audit_catalogue.py --check
