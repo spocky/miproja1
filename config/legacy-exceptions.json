@@ -1,36 +1,6 @@
 {
   "exceptions": [
     {
-      "rule": "duplicate_uninstall_package",
-      "file": "batman.v2.json",
-      "entry": "uninstallPackages[21]",
-      "value": "com.xiaomi.mibox.gamecenter",
-      "count": 1,
-      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
-      "owner": "Local patch maintainer; upstream approval outstanding",
-      "review_condition": "Remove after separate reviewed uninstall deduplication."
-    },
-    {
-      "rule": "duplicate_uninstall_package",
-      "file": "batman.v2.json",
-      "entry": "uninstallPackages[33]",
-      "value": "com.mi.umi",
-      "count": 1,
-      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
-      "owner": "Local patch maintainer; upstream approval outstanding",
-      "review_condition": "Remove after separate reviewed uninstall deduplication."
-    },
-    {
-      "rule": "duplicate_uninstall_package",
-      "file": "batman.v2.json",
-      "entry": "uninstallPackages[34]",
-      "value": "com.mi.umifrontend",
-      "count": 1,
-      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
-      "owner": "Local patch maintainer; upstream approval outstanding",
-      "review_condition": "Remove after separate reviewed uninstall deduplication."
-    },
-    {
       "rule": "legacy_http",
       "file": "batman.v2.json",
       "entry": "customRecoveryZipUrl",
@@ -211,36 +181,6 @@
       "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
     },
     {
-      "rule": "duplicate_uninstall_package",
-      "file": "conan.v2.json",
-      "entry": "uninstallPackages[21]",
-      "value": "com.xiaomi.mibox.gamecenter",
-      "count": 1,
-      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
-      "owner": "Local patch maintainer; upstream approval outstanding",
-      "review_condition": "Remove after separate reviewed uninstall deduplication."
-    },
-    {
-      "rule": "duplicate_uninstall_package",
-      "file": "conan.v2.json",
-      "entry": "uninstallPackages[33]",
-      "value": "com.mi.umi",
-      "count": 1,
-      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
-      "owner": "Local patch maintainer; upstream approval outstanding",
-      "review_condition": "Remove after separate reviewed uninstall deduplication."
-    },
-    {
-      "rule": "duplicate_uninstall_package",
-      "file": "conan.v2.json",
-      "entry": "uninstallPackages[34]",
-      "value": "com.mi.umifrontend",
-      "count": 1,
-      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
-      "owner": "Local patch maintainer; upstream approval outstanding",
-      "review_condition": "Remove after separate reviewed uninstall deduplication."
-    },
-    {
       "rule": "legacy_http",
       "file": "conan.v2.json",
       "entry": "customRecoveryZipUrl",
@@ -399,36 +339,6 @@
       "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
       "owner": "Local patch maintainer; upstream approval outstanding",
       "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
-    },
-    {
-      "rule": "duplicate_uninstall_package",
-      "file": "doraemon.json",
-      "entry": "uninstallPackages[21]",
-      "value": "com.xiaomi.mibox.gamecenter",
-      "count": 1,
-      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
-      "owner": "Local patch maintainer; upstream approval outstanding",
-      "review_condition": "Remove after separate reviewed uninstall deduplication."
-    },
-    {
-      "rule": "duplicate_uninstall_package",
-      "file": "doraemon.json",
-      "entry": "uninstallPackages[33]",
-      "value": "com.mi.umi",
-      "count": 1,
-      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
-      "owner": "Local patch maintainer; upstream approval outstanding",
-      "review_condition": "Remove after separate reviewed uninstall deduplication."
-    },
-    {
-      "rule": "duplicate_uninstall_package",
-      "file": "doraemon.json",
-      "entry": "uninstallPackages[34]",
-      "value": "com.mi.umifrontend",
-      "count": 1,
-      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
-      "owner": "Local patch maintainer; upstream approval outstanding",
-      "review_condition": "Remove after separate reviewed uninstall deduplication."
     },
     {
       "rule": "legacy_http",
@@ -591,36 +501,6 @@
       "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
     },
     {
-      "rule": "duplicate_uninstall_package",
-      "file": "franky.json",
-      "entry": "uninstallPackages[21]",
-      "value": "com.xiaomi.mibox.gamecenter",
-      "count": 1,
-      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
-      "owner": "Local patch maintainer; upstream approval outstanding",
-      "review_condition": "Remove after separate reviewed uninstall deduplication."
-    },
-    {
-      "rule": "duplicate_uninstall_package",
-      "file": "franky.json",
-      "entry": "uninstallPackages[33]",
-      "value": "com.mi.umi",
-      "count": 1,
-      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
-      "owner": "Local patch maintainer; upstream approval outstanding",
-      "review_condition": "Remove after separate reviewed uninstall deduplication."
-    },
-    {
-      "rule": "duplicate_uninstall_package",
-      "file": "franky.json",
-      "entry": "uninstallPackages[34]",
-      "value": "com.mi.umifrontend",
-      "count": 1,
-      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
-      "owner": "Local patch maintainer; upstream approval outstanding",
-      "review_condition": "Remove after separate reviewed uninstall deduplication."
-    },
-    {
       "rule": "legacy_http",
       "file": "franky.json",
       "entry": "customRecoveryZipUrl",
@@ -779,36 +659,6 @@
       "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
       "owner": "Local patch maintainer; upstream approval outstanding",
       "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
-    },
-    {
-      "rule": "duplicate_uninstall_package",
-      "file": "generic.v2.json",
-      "entry": "uninstallPackages[21]",
-      "value": "com.xiaomi.mibox.gamecenter",
-      "count": 1,
-      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
-      "owner": "Local patch maintainer; upstream approval outstanding",
-      "review_condition": "Remove after separate reviewed uninstall deduplication."
-    },
-    {
-      "rule": "duplicate_uninstall_package",
-      "file": "generic.v2.json",
-      "entry": "uninstallPackages[33]",
-      "value": "com.mi.umi",
-      "count": 1,
-      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
-      "owner": "Local patch maintainer; upstream approval outstanding",
-      "review_condition": "Remove after separate reviewed uninstall deduplication."
-    },
-    {
-      "rule": "duplicate_uninstall_package",
-      "file": "generic.v2.json",
-      "entry": "uninstallPackages[34]",
-      "value": "com.mi.umifrontend",
-      "count": 1,
-      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
-      "owner": "Local patch maintainer; upstream approval outstanding",
-      "review_condition": "Remove after separate reviewed uninstall deduplication."
     },
     {
       "rule": "legacy_http",
@@ -1221,36 +1071,6 @@
       "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
     },
     {
-      "rule": "duplicate_uninstall_package",
-      "file": "matrix.v2.json",
-      "entry": "uninstallPackages[21]",
-      "value": "com.xiaomi.mibox.gamecenter",
-      "count": 1,
-      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
-      "owner": "Local patch maintainer; upstream approval outstanding",
-      "review_condition": "Remove after separate reviewed uninstall deduplication."
-    },
-    {
-      "rule": "duplicate_uninstall_package",
-      "file": "matrix.v2.json",
-      "entry": "uninstallPackages[33]",
-      "value": "com.mi.umi",
-      "count": 1,
-      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
-      "owner": "Local patch maintainer; upstream approval outstanding",
-      "review_condition": "Remove after separate reviewed uninstall deduplication."
-    },
-    {
-      "rule": "duplicate_uninstall_package",
-      "file": "matrix.v2.json",
-      "entry": "uninstallPackages[34]",
-      "value": "com.mi.umifrontend",
-      "count": 1,
-      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
-      "owner": "Local patch maintainer; upstream approval outstanding",
-      "review_condition": "Remove after separate reviewed uninstall deduplication."
-    },
-    {
       "rule": "legacy_http",
       "file": "matrix.v2.json",
       "entry": "customRecoveryZipUrl",
@@ -1551,36 +1371,6 @@
       "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
     },
     {
-      "rule": "duplicate_uninstall_package",
-      "file": "rainman.v2.json",
-      "entry": "uninstallPackages[21]",
-      "value": "com.xiaomi.mibox.gamecenter",
-      "count": 1,
-      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
-      "owner": "Local patch maintainer; upstream approval outstanding",
-      "review_condition": "Remove after separate reviewed uninstall deduplication."
-    },
-    {
-      "rule": "duplicate_uninstall_package",
-      "file": "rainman.v2.json",
-      "entry": "uninstallPackages[33]",
-      "value": "com.mi.umi",
-      "count": 1,
-      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
-      "owner": "Local patch maintainer; upstream approval outstanding",
-      "review_condition": "Remove after separate reviewed uninstall deduplication."
-    },
-    {
-      "rule": "duplicate_uninstall_package",
-      "file": "rainman.v2.json",
-      "entry": "uninstallPackages[34]",
-      "value": "com.mi.umifrontend",
-      "count": 1,
-      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
-      "owner": "Local patch maintainer; upstream approval outstanding",
-      "review_condition": "Remove after separate reviewed uninstall deduplication."
-    },
-    {
       "rule": "legacy_http",
       "file": "rainman.v2.json",
       "entry": "customRecoveryZipUrl",
@@ -1741,36 +1531,6 @@
       "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
     },
     {
-      "rule": "duplicate_uninstall_package",
-      "file": "xmen.v2.json",
-      "entry": "uninstallPackages[21]",
-      "value": "com.xiaomi.mibox.gamecenter",
-      "count": 1,
-      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
-      "owner": "Local patch maintainer; upstream approval outstanding",
-      "review_condition": "Remove after separate reviewed uninstall deduplication."
-    },
-    {
-      "rule": "duplicate_uninstall_package",
-      "file": "xmen.v2.json",
-      "entry": "uninstallPackages[33]",
-      "value": "com.mi.umi",
-      "count": 1,
-      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
-      "owner": "Local patch maintainer; upstream approval outstanding",
-      "review_condition": "Remove after separate reviewed uninstall deduplication."
-    },
-    {
-      "rule": "duplicate_uninstall_package",
-      "file": "xmen.v2.json",
-      "entry": "uninstallPackages[34]",
-      "value": "com.mi.umifrontend",
-      "count": 1,
-      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
-      "owner": "Local patch maintainer; upstream approval outstanding",
-      "review_condition": "Remove after separate reviewed uninstall deduplication."
-    },
-    {
       "rule": "legacy_http",
       "file": "xmen.v2.json",
       "entry": "customRecoveryZipUrl",
@@ -1929,36 +1689,6 @@
       "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
       "owner": "Local patch maintainer; upstream approval outstanding",
       "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
-    },
-    {
-      "rule": "duplicate_uninstall_package",
-      "file": "zodiac.v2.json",
-      "entry": "uninstallPackages[21]",
-      "value": "com.xiaomi.mibox.gamecenter",
-      "count": 1,
-      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
-      "owner": "Local patch maintainer; upstream approval outstanding",
-      "review_condition": "Remove after separate reviewed uninstall deduplication."
-    },
-    {
-      "rule": "duplicate_uninstall_package",
-      "file": "zodiac.v2.json",
-      "entry": "uninstallPackages[33]",
-      "value": "com.mi.umi",
-      "count": 1,
-      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
-      "owner": "Local patch maintainer; upstream approval outstanding",
-      "review_condition": "Remove after separate reviewed uninstall deduplication."
-    },
-    {
-      "rule": "duplicate_uninstall_package",
-      "file": "zodiac.v2.json",
-      "entry": "uninstallPackages[34]",
-      "value": "com.mi.umifrontend",
-      "count": 1,
-      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
-      "owner": "Local patch maintainer; upstream approval outstanding",
-      "review_condition": "Remove after separate reviewed uninstall deduplication."
     },
     {
       "rule": "legacy_http",

@@ -15,12 +15,13 @@ MALFORMED = ROOT / "tests" / "fixtures" / "malformed"
 
 
 class ConfigGenerationTests(unittest.TestCase):
-    def test_generated_configs_match_all_legacy_outputs_with_order_preserved(self):
+    def test_generated_configs_match_legacy_except_reviewed_uninstall_cleanup(self):
         generated = SourceRepository(ROOT).build_all()
         expected_names = sorted(path.name for path in LEGACY.glob("*.json"))
         self.assertEqual(sorted(generated), expected_names)
         for name in expected_names:
             expected = load_json_strict(LEGACY / name)
+            expected['uninstallPackages'] = list(dict.fromkeys(expected['uninstallPackages']))
             self.assertTrue(ordered_equal(generated[name], expected), name)
 
     def test_aliases_resolve_to_published_outputs(self):

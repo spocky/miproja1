@@ -18,7 +18,7 @@ class SafetyRegressionTests(unittest.TestCase):
         shutil.copytree(ROOT, root, ignore=shutil.ignore_patterns('.git', '__pycache__'))
         return root
 
-    def test_generation_preserves_original_bytes_on_baseline_reruns(self):
+    def test_generation_preserves_current_output_bytes_on_reruns(self):
         with tempfile.TemporaryDirectory() as directory:
             root = self.copy_repo(directory)
             original = {p.name: p.read_bytes() for p in root.glob('*.json')}
