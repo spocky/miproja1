@@ -1,0 +1,162 @@
+{
+  "extends": [
+    "common"
+  ],
+  "values": {
+    "toolsUrl": "https://github.com/spocky/miproja1/releases/download/4.67/ProjectivyLauncher-4.67-c80-xda-release.apk",
+    "customRecoveryZipUrl": "http://projectivy.free.fr/uploads/rainman_twrp_3.2.2.0.zip",
+    "magiskUrl": "http://projectivy.free.fr/uploads/Magisk-v20.4.zip",
+    "launcher": "com.mitv.tvhome",
+    "uninstallPackages": [
+      "com.duokan.videodaily",
+      "com.xiaomi.mitv.advertise",
+      "com.miui.systemAdSolution",
+      "com.mitv.care",
+      "com.xiaomi.tv.appupgrade",
+      "com.xiaomi.mitv.searchcenter",
+      "com.xiaomi.mitv.handbook",
+      "com.xiaomi.mitv.calendar",
+      "com.xiaomi.tweather",
+      "com.xiaomi.mitv.shop",
+      "com.xiaomi.mitv.shop.mihome",
+      "com.xiaomi.mitv.shop.tvshop",
+      "com.xiaomi.mitv.tvpush.tvpushservice",
+      "com.mi.umi",
+      "com.mi.umifrontend",
+      "com.xiaomi.devicereport",
+      "com.mitv.gallery",
+      "com.xiaomi.tv.gallery",
+      "com.xiaomi.mitv.karaoke.service",
+      "com.xiaomi.mibox.gamecenter",
+      "com.xiaomi.gamecenter.sdk.service.mibox",
+      "com.xiaomi.mibox.gamecenter",
+      "com.mitv.appstore.component.land",
+      "com.xiaomi.mitv.appstore",
+      "com.xiaomi.mitv.payment",
+      "com.xiaomi.mitv.pay",
+      "com.mipay.wallet.tv",
+      "com.miui.tv.analytics",
+      "com.xiaomi.statistic",
+      "com.xiaomi.voicecontrol",
+      "com.xm.webcontent",
+      "com.xiaomi.mimusic2",
+      "com.mitv.screensaver",
+      "com.mi.umi",
+      "com.mi.umifrontend",
+      "com.xiaomi.account.auth",
+      "com.xiaomi.account",
+      "com.xiaomi.screenrecorder",
+      "com.sohu.inputmethod.sogou.tv",
+      "com.sogou.speech.offlineservice",
+      "com.baidu.input"
+    ],
+    "installPackages": [
+      {
+        "name": "Aptoide Tv Store",
+        "url": "https://apkins.aptoide.com/AptoideTV-5.1.2.apk"
+      },
+      {
+        "name": "LeanbackIme Keyboard",
+        "url": "https://gitlab.incom.co/CM-Shield/proprietary_vendor_nvidia/raw/4be705a39b5a6f6165cf3b6cca856a817ab7886d/shield_common/proprietary/priv-app/LeanbackIme/LeanbackIme.apk"
+      },
+      {
+        "name": "ATV Launcher free 0.11",
+        "url": "http://webservices.aptoide.com/apkinstall/apk?uid=43396804"
+      },
+      {
+        "name": "Youtube Tv 2.12.08",
+        "url": "http://webservices.aptoide.com/apkinstall/apk?uid=54652337"
+      },
+      {
+        "name": "Netflix 4.16.3",
+        "url": "http://webservices.aptoide.com/apkinstall/apk?uid=47483895"
+      },
+      {
+        "name": "Amazon Prime Video 3.0.260",
+        "url": "http://webservices.aptoide.com/apkinstall/apk?uid=49347354"
+      },
+      {
+        "name": "Kodi 18.5 Amlogic Api23",
+        "url": "http://projectivy.free.fr/uploads/kodi-18.5-aml-api23.apk"
+      },
+      {
+        "name": "Plex 8.28.0.29997",
+        "url": "http://webservices.aptoide.com/apkinstall/apk?uid=61255523"
+      },
+      {
+        "name": "MyCanal 5.6.1",
+        "url": "http://webservices.aptoide.com/apkinstall/apk?uid=61218787"
+      },
+      {
+        "name": "Molotov Tv 3.3.3",
+        "url": "http://webservices.aptoide.com/apkinstall/apk?uid=42551435"
+      },
+      {
+        "name": "Screen Test 2.4",
+        "url": "http://webservices.aptoide.com/apkinstall/apk?uid=26432785"
+      },
+      {
+        "name": "MoreLocale 2.4.5",
+        "url": "http://webservices.aptoide.com/apkinstall/apk?uid=59012756"
+      },
+      {
+        "name": "Amlogic TV Box tool 1.0.31c",
+        "url": "http://webservices.aptoide.com/apkinstall/apk?uid=49572061"
+      },
+      {
+        "name": "Notifications for Android Tv 4.5.3",
+        "url": "http://webservices.aptoide.com/apkinstall/apk?uid=37802520"
+      },
+      {
+        "name": "Solid Explorer 2.8.12",
+        "url": "http://webservices.aptoide.com/apkinstall/apk?uid=57704935"
+      },
+      {
+        "name": "Google services/apps",
+        "url": "http://projectivy.free.fr/uploads/gapps.06d1a76b314a762d7db6884d7196f4e2.tar.gz"
+      }
+    ],
+    "customPropsOverrides": [
+      {
+        "key": "ro.debuggable",
+        "value": "1"
+      },
+      {
+        "key": "ro.product.locale",
+        "value": "en-US"
+      },
+      {
+        "key": "ro.wifi.channels",
+        "value": "14"
+      },
+      {
+        "key": "sys.set_adb_disabled",
+        "value": "false"
+      },
+      {
+        "key": "persist.sys.usb.netadb.config",
+        "value": "1"
+      },
+      {
+        "key": "persist.sys.version.type",
+        "value": "cts"
+      },
+      {
+        "key": "persist.mi.detected.country",
+        "value": "US"
+      },
+      {
+        "key": "media.amplayer.widevineenable",
+        "value": "true"
+      },
+      {
+        "key": "media.decoder.vfm.drmmap",
+        "value": "decoder amvideo"
+      },
+      {
+        "key": "ro.com.google.clientidbase",
+        "value": "android-xiaomi-tv"
+      }
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "extends": [
+    "xiaomi"
+  ],
+  "values": {
+    "customPropsOverrides": [
+      {
+        "key": "ro.debuggable",
+        "value": "1"
+      },
+      {
+        "key": "ro.product.locale",
+        "value": "en-US"
+      },
+      {
+        "key": "ro.wifi.channels",
+        "value": "14"
+      },
+      {
+        "key": "ro.build.fingerprint",
+        "value": "MI/anglee/anglee:8.1.0/OPM5.171019.017/891:user/release-keys"
+      },
+      {
+        "key": "ro.bootimage.build.fingerprint",
+        "value": "MI/anglee/anglee:8.1.0/OPM5.171019.017/891:user/release-keys"
+      },
+      {
+        "key": "sys.set_adb_disabled",
+        "value": "false"
+      },
+      {
+        "key": "persist.sys.usb.netadb.config",
+        "value": "1"
+      },
+      {
+        "key": "persist.sys.version.type",
+        "value": "cts"
+      },
+      {
+        "key": "persist.mi.detected.country",
+        "value": "US"
+      },
+      {
+        "key": "media.amplayer.widevineenable",
+        "value": "true"
+      },
+      {
+        "key": "media.decoder.vfm.drmmap",
+        "value": "decoder amvideo"
+      },
+      {
+        "key": "ro.com.google.clientidbase",
+        "value": "android-xiaomi-tv"
+      }
+    ]
+  }
+}
