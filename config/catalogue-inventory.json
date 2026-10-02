@@ -1,0 +1,2751 @@
+{
+  "inventory_version": 1,
+  "source_configuration_baseline": "c4c66c9c85e9d001c7bac04aeb2746a5af1b0194",
+  "scope": "Offline configured-download inventory; no network or APK inspection",
+  "id_meaning": "SHA256 of the exact URL text, not artifact bytes or publisher identity",
+  "artifacts": [
+    {
+      "id": "url-04c155d94ec57944da23ce15cb5a3c81416057fb7511e096f0ade56c99060a62",
+      "download_location": "http://webservices.aptoide.com/apkinstall/apk?uid=57704935",
+      "destination_kind": "configured_download_url",
+      "transport_state": "legacy_http_unverified",
+      "verification_state": "unverified",
+      "artifact_sha256": null,
+      "publisher_identity": null,
+      "signing_certificate_sha256": null,
+      "version": null,
+      "version_code": null,
+      "architectures": null,
+      "android_constraints": null,
+      "verified_device_eligibility": null,
+      "configuration_references": [
+        {
+          "alias": "batman",
+          "family": "xiaomi",
+          "output": "batman.v2.json",
+          "entry": "installPackages[14].url",
+          "display_name": "Solid Explorer 2.8.12",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "conan",
+          "family": "xiaomi",
+          "output": "conan.v2.json",
+          "entry": "installPackages[14].url",
+          "display_name": "Solid Explorer 2.8.12",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "doraemon",
+          "family": "xiaomi",
+          "output": "doraemon.json",
+          "entry": "installPackages[14].url",
+          "display_name": "Solid Explorer 2.8.12",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "franky",
+          "family": "xiaomi",
+          "output": "franky.json",
+          "entry": "installPackages[14].url",
+          "display_name": "Solid Explorer 2.8.12",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "generic",
+          "family": "generic",
+          "output": "generic.v2.json",
+          "entry": "installPackages[17].url",
+          "display_name": "Solid Explorer 2.8.12",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "goblin",
+          "family": "fengmi",
+          "output": "goblin.v2.json",
+          "entry": "installPackages[14].url",
+          "display_name": "Solid Explorer 2.8.12",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "jerry",
+          "family": "fengmi",
+          "output": "jerry.v2.json",
+          "entry": "installPackages[14].url",
+          "display_name": "Solid Explorer 2.8.12",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "matrix",
+          "family": "xiaomi",
+          "output": "matrix.v2.json",
+          "entry": "installPackages[14].url",
+          "display_name": "Solid Explorer 2.8.12",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "nemo",
+          "family": "fengmi",
+          "output": "nemo.v2.json",
+          "entry": "installPackages[14].url",
+          "display_name": "Solid Explorer 2.8.12",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "rainman",
+          "family": "xiaomi",
+          "output": "rainman.v2.json",
+          "entry": "installPackages[14].url",
+          "display_name": "Solid Explorer 2.8.12",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "xmen",
+          "family": "xiaomi",
+          "output": "xmen.v2.json",
+          "entry": "installPackages[14].url",
+          "display_name": "Solid Explorer 2.8.12",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "zodiac",
+          "family": "xiaomi",
+          "output": "zodiac.v2.json",
+          "entry": "installPackages[14].url",
+          "display_name": "Solid Explorer 2.8.12",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        }
+      ]
+    },
+    {
+      "id": "url-0a5bc0c71e1a759d913a03ebfd62b25fd274fb4970267780343cd56a8ec6a5dd",
+      "download_location": "http://webservices.aptoide.com/apkinstall/apk?uid=59012756",
+      "destination_kind": "configured_download_url",
+      "transport_state": "legacy_http_unverified",
+      "verification_state": "unverified",
+      "artifact_sha256": null,
+      "publisher_identity": null,
+      "signing_certificate_sha256": null,
+      "version": null,
+      "version_code": null,
+      "architectures": null,
+      "android_constraints": null,
+      "verified_device_eligibility": null,
+      "configuration_references": [
+        {
+          "alias": "batman",
+          "family": "xiaomi",
+          "output": "batman.v2.json",
+          "entry": "installPackages[11].url",
+          "display_name": "MoreLocale 2.4.5",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "conan",
+          "family": "xiaomi",
+          "output": "conan.v2.json",
+          "entry": "installPackages[11].url",
+          "display_name": "MoreLocale 2.4.5",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "doraemon",
+          "family": "xiaomi",
+          "output": "doraemon.json",
+          "entry": "installPackages[11].url",
+          "display_name": "MoreLocale 2.4.5",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "franky",
+          "family": "xiaomi",
+          "output": "franky.json",
+          "entry": "installPackages[11].url",
+          "display_name": "MoreLocale 2.4.5",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "generic",
+          "family": "generic",
+          "output": "generic.v2.json",
+          "entry": "installPackages[14].url",
+          "display_name": "MoreLocale 2.4.5",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "goblin",
+          "family": "fengmi",
+          "output": "goblin.v2.json",
+          "entry": "installPackages[11].url",
+          "display_name": "MoreLocale 2.4.5",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "jerry",
+          "family": "fengmi",
+          "output": "jerry.v2.json",
+          "entry": "installPackages[11].url",
+          "display_name": "MoreLocale 2.4.5",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "matrix",
+          "family": "xiaomi",
+          "output": "matrix.v2.json",
+          "entry": "installPackages[11].url",
+          "display_name": "MoreLocale 2.4.5",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "nemo",
+          "family": "fengmi",
+          "output": "nemo.v2.json",
+          "entry": "installPackages[11].url",
+          "display_name": "MoreLocale 2.4.5",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "rainman",
+          "family": "xiaomi",
+          "output": "rainman.v2.json",
+          "entry": "installPackages[11].url",
+          "display_name": "MoreLocale 2.4.5",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "xmen",
+          "family": "xiaomi",
+          "output": "xmen.v2.json",
+          "entry": "installPackages[11].url",
+          "display_name": "MoreLocale 2.4.5",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "zodiac",
+          "family": "xiaomi",
+          "output": "zodiac.v2.json",
+          "entry": "installPackages[11].url",
+          "display_name": "MoreLocale 2.4.5",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        }
+      ]
+    },
+    {
+      "id": "url-0b81a2164ae61aee4e66e47a9f221cd4fadeac0fc0106fdc29014a26e3ea07db",
+      "download_location": "https://github.com/spocky/projectivy-plugin-wallpaper-overflight/releases/download/1.12/ProjectivyPlugin-Overflight-1.12-c5-generic-release.apk",
+      "destination_kind": "configured_download_url",
+      "transport_state": "https_artifact_unverified",
+      "verification_state": "unverified",
+      "artifact_sha256": null,
+      "publisher_identity": null,
+      "signing_certificate_sha256": null,
+      "version": null,
+      "version_code": null,
+      "architectures": null,
+      "android_constraints": null,
+      "verified_device_eligibility": null,
+      "configuration_references": [
+        {
+          "alias": "generic",
+          "family": "generic",
+          "output": "generic.v2.json",
+          "entry": "installPackages[0].url",
+          "display_name": "[Wallpaper Plugin] Overflight",
+          "expected_package": "tv.projectivy.plugin.wallpaperprovider.overflight",
+          "identity_evidence": "declared_in_configuration",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        }
+      ]
+    },
+    {
+      "id": "url-0da6e33205a6d5921a39071f8274e62b5b1bf255187919a96361130bc6c3d59e",
+      "download_location": "http://webservices.aptoide.com/apkinstall/apk?uid=42551435",
+      "destination_kind": "configured_download_url",
+      "transport_state": "legacy_http_unverified",
+      "verification_state": "unverified",
+      "artifact_sha256": null,
+      "publisher_identity": null,
+      "signing_certificate_sha256": null,
+      "version": null,
+      "version_code": null,
+      "architectures": null,
+      "android_constraints": null,
+      "verified_device_eligibility": null,
+      "configuration_references": [
+        {
+          "alias": "batman",
+          "family": "xiaomi",
+          "output": "batman.v2.json",
+          "entry": "installPackages[9].url",
+          "display_name": "Molotov Tv 3.3.3",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "conan",
+          "family": "xiaomi",
+          "output": "conan.v2.json",
+          "entry": "installPackages[9].url",
+          "display_name": "Molotov Tv 3.3.3",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "doraemon",
+          "family": "xiaomi",
+          "output": "doraemon.json",
+          "entry": "installPackages[9].url",
+          "display_name": "Molotov Tv 3.3.3",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "franky",
+          "family": "xiaomi",
+          "output": "franky.json",
+          "entry": "installPackages[9].url",
+          "display_name": "Molotov Tv 3.3.3",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "generic",
+          "family": "generic",
+          "output": "generic.v2.json",
+          "entry": "installPackages[12].url",
+          "display_name": "Molotov Tv 3.3.3",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "goblin",
+          "family": "fengmi",
+          "output": "goblin.v2.json",
+          "entry": "installPackages[9].url",
+          "display_name": "Molotov Tv 3.3.3",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "jerry",
+          "family": "fengmi",
+          "output": "jerry.v2.json",
+          "entry": "installPackages[9].url",
+          "display_name": "Molotov Tv 3.3.3",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "matrix",
+          "family": "xiaomi",
+          "output": "matrix.v2.json",
+          "entry": "installPackages[9].url",
+          "display_name": "Molotov Tv 3.3.3",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "nemo",
+          "family": "fengmi",
+          "output": "nemo.v2.json",
+          "entry": "installPackages[9].url",
+          "display_name": "Molotov Tv 3.3.3",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "rainman",
+          "family": "xiaomi",
+          "output": "rainman.v2.json",
+          "entry": "installPackages[9].url",
+          "display_name": "Molotov Tv 3.3.3",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "xmen",
+          "family": "xiaomi",
+          "output": "xmen.v2.json",
+          "entry": "installPackages[9].url",
+          "display_name": "Molotov Tv 3.3.3",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "zodiac",
+          "family": "xiaomi",
+          "output": "zodiac.v2.json",
+          "entry": "installPackages[9].url",
+          "display_name": "Molotov Tv 3.3.3",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        }
+      ]
+    },
+    {
+      "id": "url-100da9de2d1debe0f8c64b899b1268b6716a9b1cb2c5d4333044e9e60423f445",
+      "download_location": "http://projectivy.free.fr/uploads/zodiac_twrp_3.2.2.0.zip",
+      "destination_kind": "configured_download_url",
+      "transport_state": "legacy_http_unverified",
+      "verification_state": "unverified",
+      "artifact_sha256": null,
+      "publisher_identity": null,
+      "signing_certificate_sha256": null,
+      "version": null,
+      "version_code": null,
+      "architectures": null,
+      "android_constraints": null,
+      "verified_device_eligibility": null,
+      "configuration_references": [
+        {
+          "alias": "zodiac",
+          "family": "xiaomi",
+          "output": "zodiac.v2.json",
+          "entry": "customRecoveryZipUrl",
+          "display_name": null,
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        }
+      ]
+    },
+    {
+      "id": "url-35fecc110b03e21841c38ad28291aed0f1e228b070f55afdf41d33161ecd42c4",
+      "download_location": "http://webservices.aptoide.com/apkinstall/apk?uid=49347354",
+      "destination_kind": "configured_download_url",
+      "transport_state": "legacy_http_unverified",
+      "verification_state": "unverified",
+      "artifact_sha256": null,
+      "publisher_identity": null,
+      "signing_certificate_sha256": null,
+      "version": null,
+      "version_code": null,
+      "architectures": null,
+      "android_constraints": null,
+      "verified_device_eligibility": null,
+      "configuration_references": [
+        {
+          "alias": "batman",
+          "family": "xiaomi",
+          "output": "batman.v2.json",
+          "entry": "installPackages[5].url",
+          "display_name": "Amazon Prime Video 3.0.260",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "conan",
+          "family": "xiaomi",
+          "output": "conan.v2.json",
+          "entry": "installPackages[5].url",
+          "display_name": "Amazon Prime Video 3.0.260",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "doraemon",
+          "family": "xiaomi",
+          "output": "doraemon.json",
+          "entry": "installPackages[5].url",
+          "display_name": "Amazon Prime Video 3.0.260",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "franky",
+          "family": "xiaomi",
+          "output": "franky.json",
+          "entry": "installPackages[5].url",
+          "display_name": "Amazon Prime Video 3.0.260",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "generic",
+          "family": "generic",
+          "output": "generic.v2.json",
+          "entry": "installPackages[8].url",
+          "display_name": "Amazon Prime Video 3.0.260",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "goblin",
+          "family": "fengmi",
+          "output": "goblin.v2.json",
+          "entry": "installPackages[5].url",
+          "display_name": "Amazon Prime Video 3.0.260",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "jerry",
+          "family": "fengmi",
+          "output": "jerry.v2.json",
+          "entry": "installPackages[5].url",
+          "display_name": "Amazon Prime Video 3.0.260",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "matrix",
+          "family": "xiaomi",
+          "output": "matrix.v2.json",
+          "entry": "installPackages[5].url",
+          "display_name": "Amazon Prime Video 3.0.260",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "nemo",
+          "family": "fengmi",
+          "output": "nemo.v2.json",
+          "entry": "installPackages[5].url",
+          "display_name": "Amazon Prime Video 3.0.260",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "rainman",
+          "family": "xiaomi",
+          "output": "rainman.v2.json",
+          "entry": "installPackages[5].url",
+          "display_name": "Amazon Prime Video 3.0.260",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "xmen",
+          "family": "xiaomi",
+          "output": "xmen.v2.json",
+          "entry": "installPackages[5].url",
+          "display_name": "Amazon Prime Video 3.0.260",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "zodiac",
+          "family": "xiaomi",
+          "output": "zodiac.v2.json",
+          "entry": "installPackages[5].url",
+          "display_name": "Amazon Prime Video 3.0.260",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        }
+      ]
+    },
+    {
+      "id": "url-3f95597e8d4b2b16cb5c86a057263294f7c4eb799263145408e40d1c534b2ea9",
+      "download_location": "http://projectivy.free.fr/uploads/gapps.06d1a76b314a762d7db6884d7196f4e2.tar.gz",
+      "destination_kind": "configured_download_url",
+      "transport_state": "legacy_http_unverified",
+      "verification_state": "unverified",
+      "artifact_sha256": null,
+      "publisher_identity": null,
+      "signing_certificate_sha256": null,
+      "version": null,
+      "version_code": null,
+      "architectures": null,
+      "android_constraints": null,
+      "verified_device_eligibility": null,
+      "configuration_references": [
+        {
+          "alias": "batman",
+          "family": "xiaomi",
+          "output": "batman.v2.json",
+          "entry": "installPackages[15].url",
+          "display_name": "Google services/apps",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "conan",
+          "family": "xiaomi",
+          "output": "conan.v2.json",
+          "entry": "installPackages[15].url",
+          "display_name": "Google services/apps",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "doraemon",
+          "family": "xiaomi",
+          "output": "doraemon.json",
+          "entry": "installPackages[15].url",
+          "display_name": "Google services/apps",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "franky",
+          "family": "xiaomi",
+          "output": "franky.json",
+          "entry": "installPackages[15].url",
+          "display_name": "Google services/apps",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "goblin",
+          "family": "fengmi",
+          "output": "goblin.v2.json",
+          "entry": "installPackages[15].url",
+          "display_name": "Google services/apps",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "matrix",
+          "family": "xiaomi",
+          "output": "matrix.v2.json",
+          "entry": "installPackages[15].url",
+          "display_name": "Google services/apps",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "rainman",
+          "family": "xiaomi",
+          "output": "rainman.v2.json",
+          "entry": "installPackages[15].url",
+          "display_name": "Google services/apps",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "xmen",
+          "family": "xiaomi",
+          "output": "xmen.v2.json",
+          "entry": "installPackages[15].url",
+          "display_name": "Google services/apps",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "zodiac",
+          "family": "xiaomi",
+          "output": "zodiac.v2.json",
+          "entry": "installPackages[15].url",
+          "display_name": "Google services/apps",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        }
+      ]
+    },
+    {
+      "id": "url-43ade1289baa05610cf549b8a7fbef2615c9e95f9bba201bb856656ab7ba8f61",
+      "download_location": "http://webservices.aptoide.com/apkinstall/apk?uid=26432785",
+      "destination_kind": "configured_download_url",
+      "transport_state": "legacy_http_unverified",
+      "verification_state": "unverified",
+      "artifact_sha256": null,
+      "publisher_identity": null,
+      "signing_certificate_sha256": null,
+      "version": null,
+      "version_code": null,
+      "architectures": null,
+      "android_constraints": null,
+      "verified_device_eligibility": null,
+      "configuration_references": [
+        {
+          "alias": "batman",
+          "family": "xiaomi",
+          "output": "batman.v2.json",
+          "entry": "installPackages[10].url",
+          "display_name": "Screen Test 2.4",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "conan",
+          "family": "xiaomi",
+          "output": "conan.v2.json",
+          "entry": "installPackages[10].url",
+          "display_name": "Screen Test 2.4",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "doraemon",
+          "family": "xiaomi",
+          "output": "doraemon.json",
+          "entry": "installPackages[10].url",
+          "display_name": "Screen Test 2.4",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "franky",
+          "family": "xiaomi",
+          "output": "franky.json",
+          "entry": "installPackages[10].url",
+          "display_name": "Screen Test 2.4",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "generic",
+          "family": "generic",
+          "output": "generic.v2.json",
+          "entry": "installPackages[13].url",
+          "display_name": "Screen Test 2.4",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "goblin",
+          "family": "fengmi",
+          "output": "goblin.v2.json",
+          "entry": "installPackages[10].url",
+          "display_name": "Screen Test 2.4",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "jerry",
+          "family": "fengmi",
+          "output": "jerry.v2.json",
+          "entry": "installPackages[10].url",
+          "display_name": "Screen Test 2.4",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "matrix",
+          "family": "xiaomi",
+          "output": "matrix.v2.json",
+          "entry": "installPackages[10].url",
+          "display_name": "Screen Test 2.4",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "nemo",
+          "family": "fengmi",
+          "output": "nemo.v2.json",
+          "entry": "installPackages[10].url",
+          "display_name": "Screen Test 2.4",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "rainman",
+          "family": "xiaomi",
+          "output": "rainman.v2.json",
+          "entry": "installPackages[10].url",
+          "display_name": "Screen Test 2.4",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "xmen",
+          "family": "xiaomi",
+          "output": "xmen.v2.json",
+          "entry": "installPackages[10].url",
+          "display_name": "Screen Test 2.4",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "zodiac",
+          "family": "xiaomi",
+          "output": "zodiac.v2.json",
+          "entry": "installPackages[10].url",
+          "display_name": "Screen Test 2.4",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        }
+      ]
+    },
+    {
+      "id": "url-4fa7fd480701f513562c80a4d6f525f8a37f7fa24297839f9755f8acbbf75df7",
+      "download_location": "https://pool.apk.aptoide.com/rmota/cm-aptoidetv-pt-531-51848782-48fb019529cdd750d20693710da30fbc.apk",
+      "destination_kind": "configured_download_url",
+      "transport_state": "https_artifact_unverified",
+      "verification_state": "unverified",
+      "artifact_sha256": null,
+      "publisher_identity": null,
+      "signing_certificate_sha256": null,
+      "version": null,
+      "version_code": null,
+      "architectures": null,
+      "android_constraints": null,
+      "verified_device_eligibility": null,
+      "configuration_references": [
+        {
+          "alias": "generic",
+          "family": "generic",
+          "output": "generic.v2.json",
+          "entry": "installPackages[4].url",
+          "display_name": "Aptoide Tv Store",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        }
+      ]
+    },
+    {
+      "id": "url-5386445742925fe836a957f784d227315ba8365b630d74ea6eba180818123dfc",
+      "download_location": "http://webservices.aptoide.com/apkinstall/apk?uid=54652337",
+      "destination_kind": "configured_download_url",
+      "transport_state": "legacy_http_unverified",
+      "verification_state": "unverified",
+      "artifact_sha256": null,
+      "publisher_identity": null,
+      "signing_certificate_sha256": null,
+      "version": null,
+      "version_code": null,
+      "architectures": null,
+      "android_constraints": null,
+      "verified_device_eligibility": null,
+      "configuration_references": [
+        {
+          "alias": "batman",
+          "family": "xiaomi",
+          "output": "batman.v2.json",
+          "entry": "installPackages[3].url",
+          "display_name": "Youtube Tv 2.12.08",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "conan",
+          "family": "xiaomi",
+          "output": "conan.v2.json",
+          "entry": "installPackages[3].url",
+          "display_name": "Youtube Tv 2.12.08",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "doraemon",
+          "family": "xiaomi",
+          "output": "doraemon.json",
+          "entry": "installPackages[3].url",
+          "display_name": "Youtube Tv 2.12.08",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "franky",
+          "family": "xiaomi",
+          "output": "franky.json",
+          "entry": "installPackages[3].url",
+          "display_name": "Youtube Tv 2.12.08",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "generic",
+          "family": "generic",
+          "output": "generic.v2.json",
+          "entry": "installPackages[6].url",
+          "display_name": "Youtube Tv 2.12.08",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "goblin",
+          "family": "fengmi",
+          "output": "goblin.v2.json",
+          "entry": "installPackages[3].url",
+          "display_name": "Youtube Tv 2.12.08",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "jerry",
+          "family": "fengmi",
+          "output": "jerry.v2.json",
+          "entry": "installPackages[3].url",
+          "display_name": "Youtube Tv 2.12.08",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "matrix",
+          "family": "xiaomi",
+          "output": "matrix.v2.json",
+          "entry": "installPackages[3].url",
+          "display_name": "Youtube Tv 2.12.08",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "nemo",
+          "family": "fengmi",
+          "output": "nemo.v2.json",
+          "entry": "installPackages[3].url",
+          "display_name": "Youtube Tv 2.12.08",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "rainman",
+          "family": "xiaomi",
+          "output": "rainman.v2.json",
+          "entry": "installPackages[3].url",
+          "display_name": "Youtube Tv 2.12.08",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "xmen",
+          "family": "xiaomi",
+          "output": "xmen.v2.json",
+          "entry": "installPackages[3].url",
+          "display_name": "Youtube Tv 2.12.08",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "zodiac",
+          "family": "xiaomi",
+          "output": "zodiac.v2.json",
+          "entry": "installPackages[3].url",
+          "display_name": "Youtube Tv 2.12.08",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        }
+      ]
+    },
+    {
+      "id": "url-57b715a091e93b3b9c922795503e46e50d7d03f27072a598c9288053364b41fb",
+      "download_location": "http://webservices.aptoide.com/apkinstall/apk?uid=47483895",
+      "destination_kind": "configured_download_url",
+      "transport_state": "legacy_http_unverified",
+      "verification_state": "unverified",
+      "artifact_sha256": null,
+      "publisher_identity": null,
+      "signing_certificate_sha256": null,
+      "version": null,
+      "version_code": null,
+      "architectures": null,
+      "android_constraints": null,
+      "verified_device_eligibility": null,
+      "configuration_references": [
+        {
+          "alias": "batman",
+          "family": "xiaomi",
+          "output": "batman.v2.json",
+          "entry": "installPackages[4].url",
+          "display_name": "Netflix 4.16.3",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "conan",
+          "family": "xiaomi",
+          "output": "conan.v2.json",
+          "entry": "installPackages[4].url",
+          "display_name": "Netflix 4.16.3",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "doraemon",
+          "family": "xiaomi",
+          "output": "doraemon.json",
+          "entry": "installPackages[4].url",
+          "display_name": "Netflix 4.16.3",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "franky",
+          "family": "xiaomi",
+          "output": "franky.json",
+          "entry": "installPackages[4].url",
+          "display_name": "Netflix 4.16.3",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "generic",
+          "family": "generic",
+          "output": "generic.v2.json",
+          "entry": "installPackages[7].url",
+          "display_name": "Netflix 4.16.3",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "goblin",
+          "family": "fengmi",
+          "output": "goblin.v2.json",
+          "entry": "installPackages[4].url",
+          "display_name": "Netflix 4.16.3",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "jerry",
+          "family": "fengmi",
+          "output": "jerry.v2.json",
+          "entry": "installPackages[4].url",
+          "display_name": "Netflix 4.16.3",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "matrix",
+          "family": "xiaomi",
+          "output": "matrix.v2.json",
+          "entry": "installPackages[4].url",
+          "display_name": "Netflix 4.16.3",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "nemo",
+          "family": "fengmi",
+          "output": "nemo.v2.json",
+          "entry": "installPackages[4].url",
+          "display_name": "Netflix 4.16.3",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "rainman",
+          "family": "xiaomi",
+          "output": "rainman.v2.json",
+          "entry": "installPackages[4].url",
+          "display_name": "Netflix 4.16.3",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "xmen",
+          "family": "xiaomi",
+          "output": "xmen.v2.json",
+          "entry": "installPackages[4].url",
+          "display_name": "Netflix 4.16.3",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "zodiac",
+          "family": "xiaomi",
+          "output": "zodiac.v2.json",
+          "entry": "installPackages[4].url",
+          "display_name": "Netflix 4.16.3",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        }
+      ]
+    },
+    {
+      "id": "url-5be2f9bd7982019d03fdb8bf1cbb41264a05d4beebd904445bc3f8dd9991193f",
+      "download_location": "https://apkins.aptoide.com/AptoideTV-5.1.2.apk",
+      "destination_kind": "configured_download_url",
+      "transport_state": "https_artifact_unverified",
+      "verification_state": "unverified",
+      "artifact_sha256": null,
+      "publisher_identity": null,
+      "signing_certificate_sha256": null,
+      "version": null,
+      "version_code": null,
+      "architectures": null,
+      "android_constraints": null,
+      "verified_device_eligibility": null,
+      "configuration_references": [
+        {
+          "alias": "batman",
+          "family": "xiaomi",
+          "output": "batman.v2.json",
+          "entry": "installPackages[0].url",
+          "display_name": "Aptoide Tv Store",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "conan",
+          "family": "xiaomi",
+          "output": "conan.v2.json",
+          "entry": "installPackages[0].url",
+          "display_name": "Aptoide Tv Store",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "doraemon",
+          "family": "xiaomi",
+          "output": "doraemon.json",
+          "entry": "installPackages[0].url",
+          "display_name": "Aptoide Tv Store",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "franky",
+          "family": "xiaomi",
+          "output": "franky.json",
+          "entry": "installPackages[0].url",
+          "display_name": "Aptoide Tv Store",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "goblin",
+          "family": "fengmi",
+          "output": "goblin.v2.json",
+          "entry": "installPackages[0].url",
+          "display_name": "Aptoide Tv Store",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "jerry",
+          "family": "fengmi",
+          "output": "jerry.v2.json",
+          "entry": "installPackages[0].url",
+          "display_name": "Aptoide Tv Store",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "matrix",
+          "family": "xiaomi",
+          "output": "matrix.v2.json",
+          "entry": "installPackages[0].url",
+          "display_name": "Aptoide Tv Store",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "nemo",
+          "family": "fengmi",
+          "output": "nemo.v2.json",
+          "entry": "installPackages[0].url",
+          "display_name": "Aptoide Tv Store",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "rainman",
+          "family": "xiaomi",
+          "output": "rainman.v2.json",
+          "entry": "installPackages[0].url",
+          "display_name": "Aptoide Tv Store",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "xmen",
+          "family": "xiaomi",
+          "output": "xmen.v2.json",
+          "entry": "installPackages[0].url",
+          "display_name": "Aptoide Tv Store",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "zodiac",
+          "family": "xiaomi",
+          "output": "zodiac.v2.json",
+          "entry": "installPackages[0].url",
+          "display_name": "Aptoide Tv Store",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        }
+      ]
+    },
+    {
+      "id": "url-5c9e4ae595f8b3912f65714e4c582aa7219990f9dc6f79262a31000ba7db8d2e",
+      "download_location": "https://github.com/Arcticons-Team/Arcticons/releases/download/12.2.0/Arcticons-12.2.0-dayNight-release.apk",
+      "destination_kind": "configured_download_url",
+      "transport_state": "https_artifact_unverified",
+      "verification_state": "unverified",
+      "artifact_sha256": null,
+      "publisher_identity": null,
+      "signing_certificate_sha256": null,
+      "version": null,
+      "version_code": null,
+      "architectures": null,
+      "android_constraints": null,
+      "verified_device_eligibility": null,
+      "configuration_references": [
+        {
+          "alias": "generic",
+          "family": "generic",
+          "output": "generic.v2.json",
+          "entry": "installPackages[3].url",
+          "display_name": "[Icon Pack] Arcticons Day&Night 12.2.0",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        }
+      ]
+    },
+    {
+      "id": "url-6d390da4505c1c9709b6edd7a6a0182a9385c8e5a352f419a152409e447f4eed",
+      "download_location": "http://webservices.aptoide.com/apkinstall/apk?uid=43396804",
+      "destination_kind": "configured_download_url",
+      "transport_state": "legacy_http_unverified",
+      "verification_state": "unverified",
+      "artifact_sha256": null,
+      "publisher_identity": null,
+      "signing_certificate_sha256": null,
+      "version": null,
+      "version_code": null,
+      "architectures": null,
+      "android_constraints": null,
+      "verified_device_eligibility": null,
+      "configuration_references": [
+        {
+          "alias": "batman",
+          "family": "xiaomi",
+          "output": "batman.v2.json",
+          "entry": "installPackages[2].url",
+          "display_name": "ATV Launcher free 0.11",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "conan",
+          "family": "xiaomi",
+          "output": "conan.v2.json",
+          "entry": "installPackages[2].url",
+          "display_name": "ATV Launcher free 0.11",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "doraemon",
+          "family": "xiaomi",
+          "output": "doraemon.json",
+          "entry": "installPackages[2].url",
+          "display_name": "ATV Launcher free 0.11",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "franky",
+          "family": "xiaomi",
+          "output": "franky.json",
+          "entry": "installPackages[2].url",
+          "display_name": "ATV Launcher free 0.11",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "goblin",
+          "family": "fengmi",
+          "output": "goblin.v2.json",
+          "entry": "installPackages[2].url",
+          "display_name": "ATV Launcher free 0.11",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "jerry",
+          "family": "fengmi",
+          "output": "jerry.v2.json",
+          "entry": "installPackages[2].url",
+          "display_name": "ATV Launcher free 0.11",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "matrix",
+          "family": "xiaomi",
+          "output": "matrix.v2.json",
+          "entry": "installPackages[2].url",
+          "display_name": "ATV Launcher free 0.11",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "nemo",
+          "family": "fengmi",
+          "output": "nemo.v2.json",
+          "entry": "installPackages[2].url",
+          "display_name": "ATV Launcher free 0.11",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "rainman",
+          "family": "xiaomi",
+          "output": "rainman.v2.json",
+          "entry": "installPackages[2].url",
+          "display_name": "ATV Launcher free 0.11",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "xmen",
+          "family": "xiaomi",
+          "output": "xmen.v2.json",
+          "entry": "installPackages[2].url",
+          "display_name": "ATV Launcher free 0.11",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "zodiac",
+          "family": "xiaomi",
+          "output": "zodiac.v2.json",
+          "entry": "installPackages[2].url",
+          "display_name": "ATV Launcher free 0.11",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        }
+      ]
+    },
+    {
+      "id": "url-740911e4b3fd55fcc20f62640544efb029889a3d26aa648e6d6fd95352c82f02",
+      "download_location": "http://projectivy.free.fr/uploads/kodi-18.5-aml-api23.apk",
+      "destination_kind": "configured_download_url",
+      "transport_state": "legacy_http_unverified",
+      "verification_state": "unverified",
+      "artifact_sha256": null,
+      "publisher_identity": null,
+      "signing_certificate_sha256": null,
+      "version": null,
+      "version_code": null,
+      "architectures": null,
+      "android_constraints": null,
+      "verified_device_eligibility": null,
+      "configuration_references": [
+        {
+          "alias": "batman",
+          "family": "xiaomi",
+          "output": "batman.v2.json",
+          "entry": "installPackages[6].url",
+          "display_name": "Kodi 18.5 Amlogic Api23",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "conan",
+          "family": "xiaomi",
+          "output": "conan.v2.json",
+          "entry": "installPackages[6].url",
+          "display_name": "Kodi 18.5 Amlogic Api23",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "doraemon",
+          "family": "xiaomi",
+          "output": "doraemon.json",
+          "entry": "installPackages[6].url",
+          "display_name": "Kodi 18.5 Amlogic Api23",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "franky",
+          "family": "xiaomi",
+          "output": "franky.json",
+          "entry": "installPackages[6].url",
+          "display_name": "Kodi 18.5 Amlogic Api23",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "generic",
+          "family": "generic",
+          "output": "generic.v2.json",
+          "entry": "installPackages[9].url",
+          "display_name": "Kodi 18.5 Amlogic Api23",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "goblin",
+          "family": "fengmi",
+          "output": "goblin.v2.json",
+          "entry": "installPackages[6].url",
+          "display_name": "Kodi 18.5 Amlogic Api23",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "jerry",
+          "family": "fengmi",
+          "output": "jerry.v2.json",
+          "entry": "installPackages[6].url",
+          "display_name": "Kodi 18.5 Amlogic Api23",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "matrix",
+          "family": "xiaomi",
+          "output": "matrix.v2.json",
+          "entry": "installPackages[6].url",
+          "display_name": "Kodi 18.5 Amlogic Api23",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "nemo",
+          "family": "fengmi",
+          "output": "nemo.v2.json",
+          "entry": "installPackages[6].url",
+          "display_name": "Kodi 18.5 Amlogic Api23",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "rainman",
+          "family": "xiaomi",
+          "output": "rainman.v2.json",
+          "entry": "installPackages[6].url",
+          "display_name": "Kodi 18.5 Amlogic Api23",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "xmen",
+          "family": "xiaomi",
+          "output": "xmen.v2.json",
+          "entry": "installPackages[6].url",
+          "display_name": "Kodi 18.5 Amlogic Api23",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "zodiac",
+          "family": "xiaomi",
+          "output": "zodiac.v2.json",
+          "entry": "installPackages[6].url",
+          "display_name": "Kodi 18.5 Amlogic Api23",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        }
+      ]
+    },
+    {
+      "id": "url-8f9028e48aac756c990fcc622b194c694a570c544ec4f76d25fc9c010ea9b894",
+      "download_location": "http://webservices.aptoide.com/apkinstall/apk?uid=37802520",
+      "destination_kind": "configured_download_url",
+      "transport_state": "legacy_http_unverified",
+      "verification_state": "unverified",
+      "artifact_sha256": null,
+      "publisher_identity": null,
+      "signing_certificate_sha256": null,
+      "version": null,
+      "version_code": null,
+      "architectures": null,
+      "android_constraints": null,
+      "verified_device_eligibility": null,
+      "configuration_references": [
+        {
+          "alias": "batman",
+          "family": "xiaomi",
+          "output": "batman.v2.json",
+          "entry": "installPackages[13].url",
+          "display_name": "Notifications for Android Tv 4.5.3",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "conan",
+          "family": "xiaomi",
+          "output": "conan.v2.json",
+          "entry": "installPackages[13].url",
+          "display_name": "Notifications for Android Tv 4.5.3",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "doraemon",
+          "family": "xiaomi",
+          "output": "doraemon.json",
+          "entry": "installPackages[13].url",
+          "display_name": "Notifications for Android Tv 4.5.3",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "franky",
+          "family": "xiaomi",
+          "output": "franky.json",
+          "entry": "installPackages[13].url",
+          "display_name": "Notifications for Android Tv 4.5.3",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "generic",
+          "family": "generic",
+          "output": "generic.v2.json",
+          "entry": "installPackages[16].url",
+          "display_name": "Notifications for Android Tv 4.5.3",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "goblin",
+          "family": "fengmi",
+          "output": "goblin.v2.json",
+          "entry": "installPackages[13].url",
+          "display_name": "Notifications for Android Tv 4.5.3",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "jerry",
+          "family": "fengmi",
+          "output": "jerry.v2.json",
+          "entry": "installPackages[13].url",
+          "display_name": "Notifications for Android Tv 4.5.3",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "matrix",
+          "family": "xiaomi",
+          "output": "matrix.v2.json",
+          "entry": "installPackages[13].url",
+          "display_name": "Notifications for Android Tv 4.5.3",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "nemo",
+          "family": "fengmi",
+          "output": "nemo.v2.json",
+          "entry": "installPackages[13].url",
+          "display_name": "Notifications for Android Tv 4.5.3",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "rainman",
+          "family": "xiaomi",
+          "output": "rainman.v2.json",
+          "entry": "installPackages[13].url",
+          "display_name": "Notifications for Android Tv 4.5.3",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "xmen",
+          "family": "xiaomi",
+          "output": "xmen.v2.json",
+          "entry": "installPackages[13].url",
+          "display_name": "Notifications for Android Tv 4.5.3",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "zodiac",
+          "family": "xiaomi",
+          "output": "zodiac.v2.json",
+          "entry": "installPackages[13].url",
+          "display_name": "Notifications for Android Tv 4.5.3",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        }
+      ]
+    },
+    {
+      "id": "url-94c50bb8139896f8477b38ab619313ef12addce9af4d9b3cf46efd655dcfc840",
+      "download_location": "https://github.com/spocky/projectivy-plugin-wallpaper-bingwallpaper/releases/download/1.02/ProjectivyPlugin-BingWallpaper-1.02-c3-generic-release.apk",
+      "destination_kind": "configured_download_url",
+      "transport_state": "https_artifact_unverified",
+      "verification_state": "unverified",
+      "artifact_sha256": null,
+      "publisher_identity": null,
+      "signing_certificate_sha256": null,
+      "version": null,
+      "version_code": null,
+      "architectures": null,
+      "android_constraints": null,
+      "verified_device_eligibility": null,
+      "configuration_references": [
+        {
+          "alias": "generic",
+          "family": "generic",
+          "output": "generic.v2.json",
+          "entry": "installPackages[1].url",
+          "display_name": "[Wallpaper Plugin] Bing Wallpaper",
+          "expected_package": "tv.projectivy.plugin.wallpaperprovider.bingwallpaper",
+          "identity_evidence": "declared_in_configuration",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        }
+      ]
+    },
+    {
+      "id": "url-9ef7069a5683fe9aee8655d812fadf7575057f681e364c40cee3117360c23861",
+      "download_location": "https://github.com/spocky/miproja1/releases/download/4.67/ProjectivyLauncher-4.67-c80-xda-release.apk",
+      "destination_kind": "configured_download_url",
+      "transport_state": "https_artifact_unverified",
+      "verification_state": "unverified",
+      "artifact_sha256": null,
+      "publisher_identity": null,
+      "signing_certificate_sha256": null,
+      "version": null,
+      "version_code": null,
+      "architectures": null,
+      "android_constraints": null,
+      "verified_device_eligibility": null,
+      "configuration_references": [
+        {
+          "alias": "batman",
+          "family": "xiaomi",
+          "output": "batman.v2.json",
+          "entry": "toolsUrl",
+          "display_name": null,
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "conan",
+          "family": "xiaomi",
+          "output": "conan.v2.json",
+          "entry": "toolsUrl",
+          "display_name": null,
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "doraemon",
+          "family": "xiaomi",
+          "output": "doraemon.json",
+          "entry": "toolsUrl",
+          "display_name": null,
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "franky",
+          "family": "xiaomi",
+          "output": "franky.json",
+          "entry": "toolsUrl",
+          "display_name": null,
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "goblin",
+          "family": "fengmi",
+          "output": "goblin.v2.json",
+          "entry": "toolsUrl",
+          "display_name": null,
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "jerry",
+          "family": "fengmi",
+          "output": "jerry.v2.json",
+          "entry": "toolsUrl",
+          "display_name": null,
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "matrix",
+          "family": "xiaomi",
+          "output": "matrix.v2.json",
+          "entry": "toolsUrl",
+          "display_name": null,
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "nemo",
+          "family": "fengmi",
+          "output": "nemo.v2.json",
+          "entry": "toolsUrl",
+          "display_name": null,
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "rainman",
+          "family": "xiaomi",
+          "output": "rainman.v2.json",
+          "entry": "toolsUrl",
+          "display_name": null,
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "xmen",
+          "family": "xiaomi",
+          "output": "xmen.v2.json",
+          "entry": "toolsUrl",
+          "display_name": null,
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "zodiac",
+          "family": "xiaomi",
+          "output": "zodiac.v2.json",
+          "entry": "toolsUrl",
+          "display_name": null,
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        }
+      ]
+    },
+    {
+      "id": "url-a6b92b693d30043906ee4121c71707a6ed95c78decae4296ea2db62788a8d898",
+      "download_location": "http://projectivy.free.fr/uploads/Magisk-v20.4.zip",
+      "destination_kind": "configured_download_url",
+      "transport_state": "legacy_http_unverified",
+      "verification_state": "unverified",
+      "artifact_sha256": null,
+      "publisher_identity": null,
+      "signing_certificate_sha256": null,
+      "version": null,
+      "version_code": null,
+      "architectures": null,
+      "android_constraints": null,
+      "verified_device_eligibility": null,
+      "configuration_references": [
+        {
+          "alias": "batman",
+          "family": "xiaomi",
+          "output": "batman.v2.json",
+          "entry": "magiskUrl",
+          "display_name": null,
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "conan",
+          "family": "xiaomi",
+          "output": "conan.v2.json",
+          "entry": "magiskUrl",
+          "display_name": null,
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "doraemon",
+          "family": "xiaomi",
+          "output": "doraemon.json",
+          "entry": "magiskUrl",
+          "display_name": null,
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "franky",
+          "family": "xiaomi",
+          "output": "franky.json",
+          "entry": "magiskUrl",
+          "display_name": null,
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "goblin",
+          "family": "fengmi",
+          "output": "goblin.v2.json",
+          "entry": "magiskUrl",
+          "display_name": null,
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "jerry",
+          "family": "fengmi",
+          "output": "jerry.v2.json",
+          "entry": "magiskUrl",
+          "display_name": null,
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "matrix",
+          "family": "xiaomi",
+          "output": "matrix.v2.json",
+          "entry": "magiskUrl",
+          "display_name": null,
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "nemo",
+          "family": "fengmi",
+          "output": "nemo.v2.json",
+          "entry": "magiskUrl",
+          "display_name": null,
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "rainman",
+          "family": "xiaomi",
+          "output": "rainman.v2.json",
+          "entry": "magiskUrl",
+          "display_name": null,
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "xmen",
+          "family": "xiaomi",
+          "output": "xmen.v2.json",
+          "entry": "magiskUrl",
+          "display_name": null,
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "zodiac",
+          "family": "xiaomi",
+          "output": "zodiac.v2.json",
+          "entry": "magiskUrl",
+          "display_name": null,
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        }
+      ]
+    },
+    {
+      "id": "url-a820482ee61dffde7d8b76cd4f231b4b2792139406595dc3f7cd8018e6f351aa",
+      "download_location": "http://webservices.aptoide.com/apkinstall/apk?uid=61255523",
+      "destination_kind": "configured_download_url",
+      "transport_state": "legacy_http_unverified",
+      "verification_state": "unverified",
+      "artifact_sha256": null,
+      "publisher_identity": null,
+      "signing_certificate_sha256": null,
+      "version": null,
+      "version_code": null,
+      "architectures": null,
+      "android_constraints": null,
+      "verified_device_eligibility": null,
+      "configuration_references": [
+        {
+          "alias": "batman",
+          "family": "xiaomi",
+          "output": "batman.v2.json",
+          "entry": "installPackages[7].url",
+          "display_name": "Plex 8.28.0.29997",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "conan",
+          "family": "xiaomi",
+          "output": "conan.v2.json",
+          "entry": "installPackages[7].url",
+          "display_name": "Plex 8.28.0.29997",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "doraemon",
+          "family": "xiaomi",
+          "output": "doraemon.json",
+          "entry": "installPackages[7].url",
+          "display_name": "Plex 8.28.0.29997",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "franky",
+          "family": "xiaomi",
+          "output": "franky.json",
+          "entry": "installPackages[7].url",
+          "display_name": "Plex 8.28.0.29997",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "generic",
+          "family": "generic",
+          "output": "generic.v2.json",
+          "entry": "installPackages[10].url",
+          "display_name": "Plex 8.28.0.29997",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "goblin",
+          "family": "fengmi",
+          "output": "goblin.v2.json",
+          "entry": "installPackages[7].url",
+          "display_name": "Plex 8.28.0.29997",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "jerry",
+          "family": "fengmi",
+          "output": "jerry.v2.json",
+          "entry": "installPackages[7].url",
+          "display_name": "Plex 8.28.0.29997",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "matrix",
+          "family": "xiaomi",
+          "output": "matrix.v2.json",
+          "entry": "installPackages[7].url",
+          "display_name": "Plex 8.28.0.29997",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "nemo",
+          "family": "fengmi",
+          "output": "nemo.v2.json",
+          "entry": "installPackages[7].url",
+          "display_name": "Plex 8.28.0.29997",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "rainman",
+          "family": "xiaomi",
+          "output": "rainman.v2.json",
+          "entry": "installPackages[7].url",
+          "display_name": "Plex 8.28.0.29997",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "xmen",
+          "family": "xiaomi",
+          "output": "xmen.v2.json",
+          "entry": "installPackages[7].url",
+          "display_name": "Plex 8.28.0.29997",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "zodiac",
+          "family": "xiaomi",
+          "output": "zodiac.v2.json",
+          "entry": "installPackages[7].url",
+          "display_name": "Plex 8.28.0.29997",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        }
+      ]
+    },
+    {
+      "id": "url-b1562b0315ad0aefb1d3d7f0f93d4ea6d63ca519083e1dc366d06e40e8253e6e",
+      "download_location": "https://github.com/SicMundus86/ProjectivyIconPack/releases/download/1.0.2/Projectivy_icon_pack_1.0.2.apk",
+      "destination_kind": "configured_download_url",
+      "transport_state": "https_artifact_unverified",
+      "verification_state": "unverified",
+      "artifact_sha256": null,
+      "publisher_identity": null,
+      "signing_certificate_sha256": null,
+      "version": null,
+      "version_code": null,
+      "architectures": null,
+      "android_constraints": null,
+      "verified_device_eligibility": null,
+      "configuration_references": [
+        {
+          "alias": "generic",
+          "family": "generic",
+          "output": "generic.v2.json",
+          "entry": "installPackages[2].url",
+          "display_name": "[Icon Pack] Projectivy Icon Pack",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        }
+      ]
+    },
+    {
+      "id": "url-b40b4e62d0bae4ff17c6a260c202c5b81b0084dbb86fc612b79a88bdbc3e683e",
+      "download_location": "http://webservices.aptoide.com/apkinstall/apk?uid=61218787",
+      "destination_kind": "configured_download_url",
+      "transport_state": "legacy_http_unverified",
+      "verification_state": "unverified",
+      "artifact_sha256": null,
+      "publisher_identity": null,
+      "signing_certificate_sha256": null,
+      "version": null,
+      "version_code": null,
+      "architectures": null,
+      "android_constraints": null,
+      "verified_device_eligibility": null,
+      "configuration_references": [
+        {
+          "alias": "batman",
+          "family": "xiaomi",
+          "output": "batman.v2.json",
+          "entry": "installPackages[8].url",
+          "display_name": "MyCanal 5.6.1",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "conan",
+          "family": "xiaomi",
+          "output": "conan.v2.json",
+          "entry": "installPackages[8].url",
+          "display_name": "MyCanal 5.6.1",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "doraemon",
+          "family": "xiaomi",
+          "output": "doraemon.json",
+          "entry": "installPackages[8].url",
+          "display_name": "MyCanal 5.6.1",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "franky",
+          "family": "xiaomi",
+          "output": "franky.json",
+          "entry": "installPackages[8].url",
+          "display_name": "MyCanal 5.6.1",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "generic",
+          "family": "generic",
+          "output": "generic.v2.json",
+          "entry": "installPackages[11].url",
+          "display_name": "MyCanal 5.6.1",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "goblin",
+          "family": "fengmi",
+          "output": "goblin.v2.json",
+          "entry": "installPackages[8].url",
+          "display_name": "MyCanal 5.6.1",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "jerry",
+          "family": "fengmi",
+          "output": "jerry.v2.json",
+          "entry": "installPackages[8].url",
+          "display_name": "MyCanal 5.6.1",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "matrix",
+          "family": "xiaomi",
+          "output": "matrix.v2.json",
+          "entry": "installPackages[8].url",
+          "display_name": "MyCanal 5.6.1",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "nemo",
+          "family": "fengmi",
+          "output": "nemo.v2.json",
+          "entry": "installPackages[8].url",
+          "display_name": "MyCanal 5.6.1",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "rainman",
+          "family": "xiaomi",
+          "output": "rainman.v2.json",
+          "entry": "installPackages[8].url",
+          "display_name": "MyCanal 5.6.1",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "xmen",
+          "family": "xiaomi",
+          "output": "xmen.v2.json",
+          "entry": "installPackages[8].url",
+          "display_name": "MyCanal 5.6.1",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "zodiac",
+          "family": "xiaomi",
+          "output": "zodiac.v2.json",
+          "entry": "installPackages[8].url",
+          "display_name": "MyCanal 5.6.1",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        }
+      ]
+    },
+    {
+      "id": "url-b63c76f7475801e1feb37186cca9589a9e0ef16b01eec77eca8ae38673fb4253",
+      "download_location": "https://gitlab.incom.co/CM-Shield/proprietary_vendor_nvidia/raw/4be705a39b5a6f6165cf3b6cca856a817ab7886d/shield_common/proprietary/priv-app/LeanbackIme/LeanbackIme.apk",
+      "destination_kind": "configured_download_url",
+      "transport_state": "https_artifact_unverified",
+      "verification_state": "unverified",
+      "artifact_sha256": null,
+      "publisher_identity": null,
+      "signing_certificate_sha256": null,
+      "version": null,
+      "version_code": null,
+      "architectures": null,
+      "android_constraints": null,
+      "verified_device_eligibility": null,
+      "configuration_references": [
+        {
+          "alias": "batman",
+          "family": "xiaomi",
+          "output": "batman.v2.json",
+          "entry": "installPackages[1].url",
+          "display_name": "LeanbackIme Keyboard",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "conan",
+          "family": "xiaomi",
+          "output": "conan.v2.json",
+          "entry": "installPackages[1].url",
+          "display_name": "LeanbackIme Keyboard",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "doraemon",
+          "family": "xiaomi",
+          "output": "doraemon.json",
+          "entry": "installPackages[1].url",
+          "display_name": "LeanbackIme Keyboard",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "franky",
+          "family": "xiaomi",
+          "output": "franky.json",
+          "entry": "installPackages[1].url",
+          "display_name": "LeanbackIme Keyboard",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "generic",
+          "family": "generic",
+          "output": "generic.v2.json",
+          "entry": "installPackages[5].url",
+          "display_name": "LeanbackIme Keyboard",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "goblin",
+          "family": "fengmi",
+          "output": "goblin.v2.json",
+          "entry": "installPackages[1].url",
+          "display_name": "LeanbackIme Keyboard",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "jerry",
+          "family": "fengmi",
+          "output": "jerry.v2.json",
+          "entry": "installPackages[1].url",
+          "display_name": "LeanbackIme Keyboard",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "matrix",
+          "family": "xiaomi",
+          "output": "matrix.v2.json",
+          "entry": "installPackages[1].url",
+          "display_name": "LeanbackIme Keyboard",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "nemo",
+          "family": "fengmi",
+          "output": "nemo.v2.json",
+          "entry": "installPackages[1].url",
+          "display_name": "LeanbackIme Keyboard",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "rainman",
+          "family": "xiaomi",
+          "output": "rainman.v2.json",
+          "entry": "installPackages[1].url",
+          "display_name": "LeanbackIme Keyboard",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "xmen",
+          "family": "xiaomi",
+          "output": "xmen.v2.json",
+          "entry": "installPackages[1].url",
+          "display_name": "LeanbackIme Keyboard",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "zodiac",
+          "family": "xiaomi",
+          "output": "zodiac.v2.json",
+          "entry": "installPackages[1].url",
+          "display_name": "LeanbackIme Keyboard",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        }
+      ]
+    },
+    {
+      "id": "url-c8cc3f4e1c2fd130519f4c94aaba534bcf9595e5a09cb371a7abad7455d75eb0",
+      "download_location": "http://webservices.aptoide.com/apkinstall/apk?uid=49572061",
+      "destination_kind": "configured_download_url",
+      "transport_state": "legacy_http_unverified",
+      "verification_state": "unverified",
+      "artifact_sha256": null,
+      "publisher_identity": null,
+      "signing_certificate_sha256": null,
+      "version": null,
+      "version_code": null,
+      "architectures": null,
+      "android_constraints": null,
+      "verified_device_eligibility": null,
+      "configuration_references": [
+        {
+          "alias": "batman",
+          "family": "xiaomi",
+          "output": "batman.v2.json",
+          "entry": "installPackages[12].url",
+          "display_name": "Amlogic TV Box tool 1.0.31c",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "conan",
+          "family": "xiaomi",
+          "output": "conan.v2.json",
+          "entry": "installPackages[12].url",
+          "display_name": "Amlogic TV Box tool 1.0.31c",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "doraemon",
+          "family": "xiaomi",
+          "output": "doraemon.json",
+          "entry": "installPackages[12].url",
+          "display_name": "Amlogic TV Box tool 1.0.31c",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "franky",
+          "family": "xiaomi",
+          "output": "franky.json",
+          "entry": "installPackages[12].url",
+          "display_name": "Amlogic TV Box tool 1.0.31c",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "generic",
+          "family": "generic",
+          "output": "generic.v2.json",
+          "entry": "installPackages[15].url",
+          "display_name": "Amlogic TV Box tool 1.0.31c",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "goblin",
+          "family": "fengmi",
+          "output": "goblin.v2.json",
+          "entry": "installPackages[12].url",
+          "display_name": "Amlogic TV Box tool 1.0.31c",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "jerry",
+          "family": "fengmi",
+          "output": "jerry.v2.json",
+          "entry": "installPackages[12].url",
+          "display_name": "Amlogic TV Box tool 1.0.31c",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "matrix",
+          "family": "xiaomi",
+          "output": "matrix.v2.json",
+          "entry": "installPackages[12].url",
+          "display_name": "Amlogic TV Box tool 1.0.31c",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "nemo",
+          "family": "fengmi",
+          "output": "nemo.v2.json",
+          "entry": "installPackages[12].url",
+          "display_name": "Amlogic TV Box tool 1.0.31c",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "rainman",
+          "family": "xiaomi",
+          "output": "rainman.v2.json",
+          "entry": "installPackages[12].url",
+          "display_name": "Amlogic TV Box tool 1.0.31c",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "xmen",
+          "family": "xiaomi",
+          "output": "xmen.v2.json",
+          "entry": "installPackages[12].url",
+          "display_name": "Amlogic TV Box tool 1.0.31c",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "zodiac",
+          "family": "xiaomi",
+          "output": "zodiac.v2.json",
+          "entry": "installPackages[12].url",
+          "display_name": "Amlogic TV Box tool 1.0.31c",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        }
+      ]
+    },
+    {
+      "id": "url-cd1698c7f5d6dbc6f8e036570ccaf7347dbf494088d98dc0f287bb9d79ee5b5f",
+      "download_location": "http://projectivy.free.fr/uploads/rainman_twrp_3.2.2.0.zip",
+      "destination_kind": "configured_download_url",
+      "transport_state": "legacy_http_unverified",
+      "verification_state": "unverified",
+      "artifact_sha256": null,
+      "publisher_identity": null,
+      "signing_certificate_sha256": null,
+      "version": null,
+      "version_code": null,
+      "architectures": null,
+      "android_constraints": null,
+      "verified_device_eligibility": null,
+      "configuration_references": [
+        {
+          "alias": "conan",
+          "family": "xiaomi",
+          "output": "conan.v2.json",
+          "entry": "customRecoveryZipUrl",
+          "display_name": null,
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "doraemon",
+          "family": "xiaomi",
+          "output": "doraemon.json",
+          "entry": "customRecoveryZipUrl",
+          "display_name": null,
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "franky",
+          "family": "xiaomi",
+          "output": "franky.json",
+          "entry": "customRecoveryZipUrl",
+          "display_name": null,
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "matrix",
+          "family": "xiaomi",
+          "output": "matrix.v2.json",
+          "entry": "customRecoveryZipUrl",
+          "display_name": null,
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "rainman",
+          "family": "xiaomi",
+          "output": "rainman.v2.json",
+          "entry": "customRecoveryZipUrl",
+          "display_name": null,
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        },
+        {
+          "alias": "xmen",
+          "family": "xiaomi",
+          "output": "xmen.v2.json",
+          "entry": "customRecoveryZipUrl",
+          "display_name": null,
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        }
+      ]
+    },
+    {
+      "id": "url-e1c77060ee8936d90d3f7fdee64c0ba5317b6c795277dc5fc62c5e8522cfa745",
+      "download_location": "http://projectivy.free.fr/uploads/pq_494.4b6a08d95237ba4d32ab1515eaeebebd.tar.gz",
+      "destination_kind": "configured_download_url",
+      "transport_state": "legacy_http_unverified",
+      "verification_state": "unverified",
+      "artifact_sha256": null,
+      "publisher_identity": null,
+      "signing_certificate_sha256": null,
+      "version": null,
+      "version_code": null,
+      "architectures": null,
+      "android_constraints": null,
+      "verified_device_eligibility": null,
+      "configuration_references": [
+        {
+          "alias": "batman",
+          "family": "xiaomi",
+          "output": "batman.v2.json",
+          "entry": "installPackages[16].url",
+          "display_name": "Projector PQ calibration b494",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        }
+      ]
+    },
+    {
+      "id": "url-e670fc8b0d3558bcd420eee739406e9850987b62f4fc4fd9930f0e6fe152f2f1",
+      "download_location": "http://projectivy.free.fr/uploads/pq_536.ce945b31b22d3857800fa52f942c93a7.tar.gz",
+      "destination_kind": "configured_download_url",
+      "transport_state": "legacy_http_unverified",
+      "verification_state": "unverified",
+      "artifact_sha256": null,
+      "publisher_identity": null,
+      "signing_certificate_sha256": null,
+      "version": null,
+      "version_code": null,
+      "architectures": null,
+      "android_constraints": null,
+      "verified_device_eligibility": null,
+      "configuration_references": [
+        {
+          "alias": "batman",
+          "family": "xiaomi",
+          "output": "batman.v2.json",
+          "entry": "installPackages[17].url",
+          "display_name": "Projector PQ calibration b536",
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        }
+      ]
+    },
+    {
+      "id": "url-ebc50a80a3f4a3e1a898f8fe32f17fdfef63c5738b0ba0e1d363ae37ae2e0099",
+      "download_location": "https://github.com/spocky/miproja1/releases/download/4.68/ProjectivyLauncher-4.68-c82-xda-release.apk",
+      "destination_kind": "configured_download_url",
+      "transport_state": "https_artifact_unverified",
+      "verification_state": "unverified",
+      "artifact_sha256": null,
+      "publisher_identity": null,
+      "signing_certificate_sha256": null,
+      "version": null,
+      "version_code": null,
+      "architectures": null,
+      "android_constraints": null,
+      "verified_device_eligibility": null,
+      "configuration_references": [
+        {
+          "alias": "generic",
+          "family": "generic",
+          "output": "generic.v2.json",
+          "entry": "toolsUrl",
+          "display_name": null,
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        }
+      ]
+    },
+    {
+      "id": "url-f86c1775c95d45b700ea2ddcff1118ef856cc6a4399fc4c89850b366155cf8eb",
+      "download_location": "http://projectivy.free.fr/uploads/batman_twrp_3.2.2.0b.zip",
+      "destination_kind": "configured_download_url",
+      "transport_state": "legacy_http_unverified",
+      "verification_state": "unverified",
+      "artifact_sha256": null,
+      "publisher_identity": null,
+      "signing_certificate_sha256": null,
+      "version": null,
+      "version_code": null,
+      "architectures": null,
+      "android_constraints": null,
+      "verified_device_eligibility": null,
+      "configuration_references": [
+        {
+          "alias": "batman",
+          "family": "xiaomi",
+          "output": "batman.v2.json",
+          "entry": "customRecoveryZipUrl",
+          "display_name": null,
+          "expected_package": null,
+          "identity_evidence": "unknown",
+          "compatibility_evidence": "configuration_pin_only_runtime_unverified"
+        }
+      ]
+    }
+  ]
+}
