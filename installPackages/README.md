@@ -26,6 +26,7 @@ Please don't edit `generic.v3.json` directly. It is automatically updated from t
 |---|---|---|
 | `name` | Yes | Display name of the application. |
 | `package` | Yes | Android application package name (e.g. `com.example.myapp`). |
+| `googleplay` | No | Boolean indicating whether the app is available on Google Play. Defaults to `false` when omitted; set to `true` only after checking the Play Store listing for the exact `package`. |
 | `url` | Conditional | Direct HTTPS URL to download the APK. Required if the app isn't available on the Play Store and no Downloader code is provided. |
 | `downloader` | Conditional | Downloader by AFTVnews code. Can be used instead of a direct APK URL. |
 | `description` | Recommended | Short English description, **maximum 2 sentences**. |
@@ -38,7 +39,7 @@ The `category` field is defined at the top of each category file, so you don't n
 
 Every app must have a valid `name` and `package`.
 
-If the app is available on Google Play, the package name is sufficient.
+If the app is available on Google Play, set `googleplay` to `true`; the package name is sufficient as an installation method. Check the listing at `https://play.google.com/store/apps/details?id=<package>`. Availability may vary by country and device.
 
 Otherwise, please provide at least one installation method:
 
@@ -67,6 +68,7 @@ Images are displayed on the Projectivy website, where all plugin images may be l
 {
   "name": "My Wallpaper Provider",
   "package": "com.example.wallpaperprovider",
+  "googleplay": false,
   "url": "https://github.com/example/my-plugin/releases/latest/download/plugin.apk",
   "description": "Displays beautiful landscape wallpapers from a curated collection. Supports automatic wallpaper rotation.",
   "image": "https://example.com/images/plugin.webp"
@@ -82,4 +84,3 @@ Images are displayed on the Projectivy website, where all plugin images may be l
 - Submissions may be reviewed, edited, or declined to keep the catalog useful and trustworthy.
 
 Thanks for helping make Projectivy better for everyone! ❤️
-

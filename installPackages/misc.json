@@ -4,12 +4,14 @@
     {
       "name": "LocalSend",
       "url": "https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-1.18.2-android-arm64v8.apk",
-      "package": "org.localsend.localsend_app"
+      "package": "org.localsend.localsend_app",
+      "googleplay": true
     },
     {
       "name": "Downloader by AFTVnews",
       "url": "https://www.aftvnews.com/downloader.apk",
-      "package": "com.esaba.downloader"
+      "package": "com.esaba.downloader",
+      "googleplay": true
     },
     {
       "name": "Aptoide Tv Store",
@@ -18,12 +20,14 @@
     },
     {
       "name": "tvQuickActions",
-      "package": "dev.vodik7.tvquickactions.free"
+      "package": "dev.vodik7.tvquickactions.free",
+      "googleplay": true
     },
     {
       "name": "ADB TV",
       "url": "https://adbappcontrol.com/tv/download/?r=latest",
-      "package": "com.cybercat.adbappcontrol.tv"
+      "package": "com.cybercat.adbappcontrol.tv",
+      "googleplay": true
     },
     {
       "name": "LeanbackIme Keyboard",
@@ -31,11 +35,13 @@
     },
     {
       "name": "MoreLocale 2.4.5",
-      "package": "jp.co.c_lis.ccl.morelocale"
+      "package": "jp.co.c_lis.ccl.morelocale",
+      "googleplay": true
     },
     {
       "name": "Notifications for Android Tv",
-      "package": "de.cyberdream.androidtv.notifications.google"
+      "package": "de.cyberdream.androidtv.notifications.google",
+      "googleplay": true
     }
   ]
 }

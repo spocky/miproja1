@@ -36,8 +36,9 @@ def build():
             for field in ('url', 'image'):
                 if field in app and (not isinstance(app[field], str) or urlparse(app[field]).scheme != 'https' or not urlparse(app[field]).netloc):
                     raise ValueError(f'{where}: {field} must be an HTTPS URL')
-            if 'official' in app and not isinstance(app['official'], bool):
-                raise ValueError(f'{where}: official must be a boolean')
+            for field in ('official', 'googleplay'):
+                if field in app and not isinstance(app[field], bool):
+                    raise ValueError(f'{where}: {field} must be a boolean')
             package = app.get('package')
             if package:
                 if package in packages:

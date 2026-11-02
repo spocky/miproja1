@@ -10,6 +10,7 @@
       "category": "Wallpaper Plugin",
       "url": "https://github.com/spocky/projectivy-plugin-wallpaper-overflight/releases/latest/download/ProjectivyPlugin-Overflight.apk",
       "package": "tv.projectivy.plugin.wallpaperprovider.overflight",
+      "googleplay": true,
       "description": "Provides Apple TV's Aerials screen savers as video wallpapers for Projectivy Launcher.\nYou can also customize the URL to the JSON file that lists media items, which means you can use this plugin to provide Projectivy with any video (or picture) list you want (trailers, live cams, etc.).",
       "image": "https://projectivylauncher.com/assets/plugins/overflight.webp",
       "official": true
@@ -28,6 +29,7 @@
       "category": "Wallpaper Plugin",
       "url": "https://github.com/theothernt/AerialViews/releases/download/1.8.5/aerial-views-1.8.5.apk",
       "package": "com.neilturner.aerialviews",
+      "googleplay": true,
       "description": "The popular Android TV screensaver can also act as a Wallpaper Provider for Projectivy, offering many high-quality videos from different sources.",
       "image": "https://projectivylauncher.com/assets/plugins/aerial.jpg"
     },
@@ -59,6 +61,7 @@
       "name": "Movie Art for Projectivy",
       "category": "Wallpaper Plugin",
       "package": "com.danielkorgel.projectivy.plugin.cinemaglow",
+      "googleplay": true,
       "description": "A wallpaper plugin for the Projectivy AndroidTV launcher which fetches movie and TV show backgrounds from TheMovieDB.org.",
       "image": "https://projectivylauncher.com/assets/plugins/movieart.jpg"
     },
@@ -123,6 +126,7 @@
       "name": "Ultimate File Manager Pro",
       "category": "File Manager",
       "package": "za.kilowatch.ultimatefilemanager",
+      "googleplay": true,
       "downloader": "1581139"
     },
     {
@@ -134,22 +138,26 @@
     {
       "name": "MiXplorer Silver",
       "category": "File Manager",
-      "package": "com.mixplorer.silver"
+      "package": "com.mixplorer.silver",
+      "googleplay": true
     },
     {
       "name": "File Manager Plus",
       "category": "File Manager",
-      "package": "com.alphainventor.filemanager"
+      "package": "com.alphainventor.filemanager",
+      "googleplay": true
     },
     {
       "name": "LocalSend",
       "url": "https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-1.18.2-android-arm64v8.apk",
-      "package": "org.localsend.localsend_app"
+      "package": "org.localsend.localsend_app",
+      "googleplay": true
     },
     {
       "name": "Downloader by AFTVnews",
       "url": "https://www.aftvnews.com/downloader.apk",
-      "package": "com.esaba.downloader"
+      "package": "com.esaba.downloader",
+      "googleplay": true
     },
     {
       "name": "Aptoide Tv Store",
@@ -158,12 +166,14 @@
     },
     {
       "name": "tvQuickActions",
-      "package": "dev.vodik7.tvquickactions.free"
+      "package": "dev.vodik7.tvquickactions.free",
+      "googleplay": true
     },
     {
       "name": "ADB TV",
       "url": "https://adbappcontrol.com/tv/download/?r=latest",
-      "package": "com.cybercat.adbappcontrol.tv"
+      "package": "com.cybercat.adbappcontrol.tv",
+      "googleplay": true
     },
     {
       "name": "LeanbackIme Keyboard",
@@ -171,11 +181,13 @@
     },
     {
       "name": "MoreLocale 2.4.5",
-      "package": "jp.co.c_lis.ccl.morelocale"
+      "package": "jp.co.c_lis.ccl.morelocale",
+      "googleplay": true
     },
     {
       "name": "Notifications for Android Tv",
-      "package": "de.cyberdream.androidtv.notifications.google"
+      "package": "de.cyberdream.androidtv.notifications.google",
+      "googleplay": true
     }
   ]
 }

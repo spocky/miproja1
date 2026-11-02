@@ -4,6 +4,7 @@
     {
       "name": "Ultimate File Manager Pro",
       "package": "za.kilowatch.ultimatefilemanager",
+      "googleplay": true,
       "downloader": "1581139"
     },
     {
@@ -13,11 +14,13 @@
     },
     {
       "name": "MiXplorer Silver",
-      "package": "com.mixplorer.silver"
+      "package": "com.mixplorer.silver",
+      "googleplay": true
     },
     {
       "name": "File Manager Plus",
-      "package": "com.alphainventor.filemanager"
+      "package": "com.alphainventor.filemanager",
+      "googleplay": true
     }
   ]
 }

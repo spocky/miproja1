@@ -5,6 +5,7 @@
       "name": "Overflight",
       "url": "https://github.com/spocky/projectivy-plugin-wallpaper-overflight/releases/latest/download/ProjectivyPlugin-Overflight.apk",
       "package": "tv.projectivy.plugin.wallpaperprovider.overflight",
+      "googleplay": true,
       "description": "Provides Apple TV's Aerials screen savers as video wallpapers for Projectivy Launcher.\nYou can also customize the URL to the JSON file that lists media items, which means you can use this plugin to provide Projectivy with any video (or picture) list you want (trailers, live cams, etc.).",
       "image": "https://projectivylauncher.com/assets/plugins/overflight.webp",
       "official": true
@@ -21,6 +22,7 @@
       "name": "Aerial Views",
       "url": "https://github.com/theothernt/AerialViews/releases/download/1.8.5/aerial-views-1.8.5.apk",
       "package": "com.neilturner.aerialviews",
+      "googleplay": true,
       "description": "The popular Android TV screensaver can also act as a Wallpaper Provider for Projectivy, offering many high-quality videos from different sources.",
       "image": "https://projectivylauncher.com/assets/plugins/aerial.jpg"
     },
@@ -48,6 +50,7 @@
     {
       "name": "Movie Art for Projectivy",
       "package": "com.danielkorgel.projectivy.plugin.cinemaglow",
+      "googleplay": true,
       "description": "A wallpaper plugin for the Projectivy AndroidTV launcher which fetches movie and TV show backgrounds from TheMovieDB.org.",
       "image": "https://projectivylauncher.com/assets/plugins/movieart.jpg"
     },
