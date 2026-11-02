@@ -18,10 +18,23 @@ permissions:
   contents: read
 
 jobs:
+  validate:
+    if: github.event_name != 'push'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+
+      - name: Validate and generate configuration
+        run: python3 scripts/build_install_packages.py
+
   update:
+    if: github.event_name == 'push'
     runs-on: ubuntu-latest
     permissions:
-      contents: ${{ github.event_name == 'push' && 'write' || 'read' }}
+      contents: write
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
