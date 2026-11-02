@@ -10,11 +10,6 @@
       "image": "https://projectivylauncher.com/assets/plugins/projectivy-icon-pack.jpg"
     },
     {
-      "name": "Arcticons Day&Night",
-      "url": "https://github.com/Arcticons-Team/Arcticons/releases/download/15.3.2/Arcticons-15.3.2-dayNight-release.apk",
-      "package": "com.donnnno.arcticons.daynight"
-    },
-    {
       "name": "Android Tv Minimalist Icon Pack",
       "url": "https://github.com/hqn-scl/android-tv-minimalist-icon-pack/releases/download/v1.0.0/Minimalist-Icons.1.0.0.apk",
       "package": "com.hqnscl.minimalist.app",
@@ -29,6 +24,13 @@
       "downloader": "5270601",
       "description": "Icons are original geometry drawn on a shared 512 grid — simple shapes, rounded ends, one accent colour per app — not traced vendor logos. Backgrounds are fully transparent, so the launcher's own card colour shows through. It now includes over 900 icons.",
       "image": "https://projectivylauncher.com/assets/plugins/corebuilds-icon-pack.png"
+    },
+    {
+      "name": "Arcticons Day&Night",
+      "url": "https://github.com/Arcticons-Team/Arcticons/releases/download/15.3.2/Arcticons-15.3.2-dayNight-release.apk",
+      "package": "com.donnnno.arcticons.daynight",
+      "description": "With over 15000 icons, Arcticons is one of the largest free & open source icon-packs available, featuring consistent and elegant handcrafted icons. Built for phones (1:1 ratio), it's nonetheless compatible with Projectivy Launcher.",
+      "image": "https://github.com/Arcticons-Team/Arcticons/raw/14.3.3/generated/releaseImage.webp"
     }
   ]
 }
