@@ -1,0 +1,45 @@
+name: Update install packages
+
+on:
+  pull_request:
+    paths:
+      - 'installPackages/**'
+      - 'scripts/build_install_packages.py'
+      - '.github/workflows/update-install-packages.yml'
+  push:
+    branches: [master] # Change to main if your default branch is main
+    paths:
+      - 'installPackages/**'
+      - 'scripts/build_install_packages.py'
+      - '.github/workflows/update-install-packages.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: ${{ github.event_name == 'push' && 'write' || 'read' }}
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Validate and generate configuration
+        run: python3 scripts/build_install_packages.py
+
+      - name: Commit generated configuration (push only)
+        if: github.event_name == 'push'
+        run: |
+          if git diff --quiet -- generic.v3.json; then
+            echo 'No changes to commit'
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add generic.v3.json
+          git commit -m 'chore: update generated install packages'
+          git push

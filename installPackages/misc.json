@@ -1,0 +1,41 @@
+{
+  "category": null,
+  "apps": [
+    {
+      "name": "LocalSend",
+      "url": "https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-1.18.2-android-arm64v8.apk",
+      "package": "org.localsend.localsend_app"
+    },
+    {
+      "name": "Downloader by AFTVnews",
+      "url": "https://www.aftvnews.com/downloader.apk",
+      "package": "com.esaba.downloader"
+    },
+    {
+      "name": "Aptoide Tv Store",
+      "url": "https://pool.apk.aptoide.com/carolyne-silva/cm-aptoidetv-pt-542-72049303-6212d8ef0991eaf05b32f8f0141dadb8.apk",
+      "downloader": "75880"
+    },
+    {
+      "name": "tvQuickActions",
+      "package": "dev.vodik7.tvquickactions.free"
+    },
+    {
+      "name": "ADB TV",
+      "url": "https://adbappcontrol.com/tv/download/?r=latest",
+      "package": "com.cybercat.adbappcontrol.tv"
+    },
+    {
+      "name": "LeanbackIme Keyboard",
+      "url": "https://gitlab.incom.co/CM-Shield/proprietary_vendor_nvidia/raw/4be705a39b5a6f6165cf3b6cca856a817ab7886d/shield_common/proprietary/priv-app/LeanbackIme/LeanbackIme.apk"
+    },
+    {
+      "name": "MoreLocale 2.4.5",
+      "package": "jp.co.c_lis.ccl.morelocale"
+    },
+    {
+      "name": "Notifications for Android Tv",
+      "package": "de.cyberdream.androidtv.notifications.google"
+    }
+  ]
+}

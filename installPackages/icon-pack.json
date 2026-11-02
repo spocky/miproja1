@@ -1,0 +1,34 @@
+{
+  "category": "Icon Pack",
+  "apps": [
+    {
+      "name": "Projectivy Icon Pack",
+      "url": "https://github.com/SicMundus86/ProjectivyIconPack/releases/download/1.1.9/Projectivy_Icon_Pack_1.1.9.apk",
+      "package": "dev.projectivy.blueprint.app",
+      "downloader": "9257057",
+      "description": "The Projectivy Icon Pack is designed specifically for Projectivy Launcher. It now includes over 800 icons.",
+      "image": "https://projectivylauncher.com/assets/plugins/projectivy-icon-pack.jpg"
+    },
+    {
+      "name": "Arcticons Day&Night",
+      "url": "https://github.com/Arcticons-Team/Arcticons/releases/download/15.3.2/Arcticons-15.3.2-dayNight-release.apk",
+      "package": "com.donnnno.arcticons.daynight"
+    },
+    {
+      "name": "Android Tv Minimalist Icon Pack",
+      "url": "https://github.com/hqn-scl/android-tv-minimalist-icon-pack/releases/download/v1.0.0/Minimalist-Icons.1.0.0.apk",
+      "package": "com.hqnscl.minimalist.app",
+      "downloader": "7305118",
+      "description": "Minimalist Icon Pack's goal is to provide a clean \"icon-first\" look, but instead with a unifying background color similar to SicMundus86's work. The icon pack prioritizes non-text symbols, using wordmarks only when unavoidable.",
+      "image": "https://projectivylauncher.com/assets/plugins/minimalist.jpg"
+    },
+    {
+      "name": "Core Builds Icon Pack",
+      "url": "https://github.com/brevityA/CoreBuildsApps/releases/latest/download/iconpack-release.apk",
+      "package": "tv.corebuilds.iconpack",
+      "downloader": "5270601",
+      "description": "Icons are original geometry drawn on a shared 512 grid — simple shapes, rounded ends, one accent colour per app — not traced vendor logos. Backgrounds are fully transparent, so the launcher's own card colour shows through. It now includes over 900 icons.",
+      "image": "https://projectivylauncher.com/assets/plugins/corebuilds-icon-pack.png"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "category": "File Manager",
+  "apps": [
+    {
+      "name": "Ultimate File Manager Pro",
+      "package": "za.kilowatch.ultimatefilemanager",
+      "downloader": "1581139"
+    },
+    {
+      "name": "MiXplorer",
+      "url": "https://github.com/driftywinds/mixplorer-releases/releases/download/v6.71.14_B26090320/MiXplorer_v6.71.14_B26090320.apk",
+      "package": "com.mixplorer"
+    },
+    {
+      "name": "MiXplorer Silver",
+      "package": "com.mixplorer.silver"
+    },
+    {
+      "name": "File Manager Plus",
+      "package": "com.alphainventor.filemanager"
+    }
+  ]
+}

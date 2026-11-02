@@ -1,0 +1,76 @@
+{
+  "category": "Wallpaper Plugin",
+  "apps": [
+    {
+      "name": "Overflight",
+      "url": "https://github.com/spocky/projectivy-plugin-wallpaper-overflight/releases/latest/download/ProjectivyPlugin-Overflight.apk",
+      "package": "tv.projectivy.plugin.wallpaperprovider.overflight",
+      "description": "Provides Apple TV's Aerials screen savers as video wallpapers for Projectivy Launcher.\nYou can also customize the URL to the JSON file that lists media items, which means you can use this plugin to provide Projectivy with any video (or picture) list you want (trailers, live cams, etc.).",
+      "image": "https://projectivylauncher.com/assets/plugins/overflight.webp",
+      "official": true
+    },
+    {
+      "name": "Daily Photos",
+      "url": "https://github.com/spocky/projectivy-plugin-wallpaper-bingwallpaper/releases/latest/download/ProjectivyPlugin-PhotoOfTheDay.apk",
+      "package": "tv.projectivy.plugin.wallpaperprovider.photooftheday",
+      "description": "\"Photo of the Day\" as wallpaper for Projectivy Launcher.",
+      "image": "https://projectivylauncher.com/assets/plugins/dailyphotos.webp",
+      "official": true
+    },
+    {
+      "name": "Aerial Views",
+      "url": "https://github.com/theothernt/AerialViews/releases/download/1.8.5/aerial-views-1.8.5.apk",
+      "package": "com.neilturner.aerialviews",
+      "description": "The popular Android TV screensaver can also act as a Wallpaper Provider for Projectivy, offering many high-quality videos from different sources.",
+      "image": "https://projectivylauncher.com/assets/plugins/aerial.jpg"
+    },
+    {
+      "name": "Weather Wallpaper for Projectivy",
+      "url": "https://github.com/shortusername/projectivy-weather-wallpaper/releases/latest/download/weather-wallpaper-latest.apk",
+      "package": "tv.projectivy.plugin.wallpaperprovider.weather",
+      "description": "A wallpaper provider plugin that turns your Projectivy Launcher home screen into a weather display. Current conditions, optional forecast panels, and backgrounds that react to the weather. Weather data from Open-Meteo. No API key, no account, no tracking.",
+      "image": "https://projectivylauncher.com/assets/plugins/weather.jpg"
+    },
+    {
+      "name": "Sofadrop",
+      "url": "https://github.com/rfmarcos/projectivy-plugin-sofadrop/releases/latest/download/sofadrop.apk",
+      "package": "com.rfmarcos.sofadrop",
+      "downloader": "7882519",
+      "description": "Sofadrop turns your home screen into a rotating showcase of movies and TV shows from the lists you choose: what's trending, your Trakt or Simkl lists, any public Trakt or MDBList list… Everything is generated on your TV and set up from inside the launcher, with a live preview.",
+      "image": "https://github.com/rfmarcos/projectivy-plugin-sofadrop/raw/main/docs/images/projectivy_home_en.jpg"
+    },
+    {
+      "name": "Immich Wallpaper for Projectivy",
+      "url": "https://github.com/raizer88/immich-projectivy-provider/releases/latest/download/immich-provider.apk",
+      "package": "tv.projectivy.plugin.wallpaperprovider.immich",
+      "description": "Shows photos from your self-hosted Immich server as the launcher wallpaper on Android TV / Fire TV (FireOS 7.x, Android 9, 32-bit userspace)."
+    },
+    {
+      "name": "Movie Art for Projectivy",
+      "package": "com.danielkorgel.projectivy.plugin.cinemaglow",
+      "description": "A wallpaper plugin for the Projectivy AndroidTV launcher which fetches movie and TV show backgrounds from TheMovieDB.org.",
+      "image": "https://projectivylauncher.com/assets/plugins/movieart.jpg"
+    },
+    {
+      "name": "Trakt Wallpapers for Projectivy",
+      "url": "https://github.com/johnneerdael/traktlistbackdrops/releases/download/v1.3.15/trakt-wallpapers-projectivy-v1.3.15.apk",
+      "package": "com.traktlistbackdrops.tv",
+      "description": "This wallpaper authenticates with Trakt and fetches backdrop and logo artwork from TMDB, rendering wallpapers locally.",
+      "image": "https://projectivylauncher.com/assets/plugins/trakt.webp"
+    },
+    {
+      "name": "Core Motion",
+      "url": "https://github.com/brevityA/CoreBuildsApps/releases/download/motion/coremotion-release.apk",
+      "package": "tv.corebuilds.motion",
+      "description": "Serves motion feed and bundled loops to Projectivy Premium as launcher wallpapers",
+      "image": "https://github.com/brevityA/CoreBuildsApps/blob/main/Wallpapers/series-0-originals/02-core-hero.jpg"
+    },
+    {
+      "name": "Booru Wallpaper Provider",
+      "url": "https://github.com/Kurocon/projectivy-booru-wallpaper-provider/releases/latest/download/booru-release.apk",
+      "package": "nl.kurocon.plugin.wallpaperprovider.booru",
+      "description": "This is a Projectivy Plugin that allows you to set a wallpaper from a Booru imageboard.",
+      "image": "https://projectivylauncher.com/assets/plugins/booru.jpg"
+    }
+  ]
+}
