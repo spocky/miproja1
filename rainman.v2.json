@@ -12,30 +12,25 @@
     "com.xiaomi.mitv.advertise",
     "com.miui.systemAdSolution",
     "com.mitv.care",
-	"com.xiaomi.tv.appupgrade",
-	"com.xiaomi.mitv.searchcenter",
-
+    "com.xiaomi.tv.appupgrade",
+    "com.xiaomi.mitv.searchcenter",
     "com.xiaomi.mitv.handbook",
     "com.xiaomi.mitv.calendar",
     "com.xiaomi.tweather",
-
     "com.xiaomi.mitv.shop",
     "com.xiaomi.mitv.shop.mihome",
     "com.xiaomi.mitv.shop.tvshop",
-	"com.xiaomi.mitv.tvpush.tvpushservice",
-	
-	"com.mi.umi",
-	"com.mi.umifrontend",
-
-	"com.xiaomi.devicereport",
+    "com.xiaomi.mitv.tvpush.tvpushservice",
+    "com.mi.umi",
+    "com.mi.umifrontend",
+    "com.xiaomi.devicereport",
     "com.mitv.gallery",
     "com.xiaomi.tv.gallery",
     "com.xiaomi.mitv.karaoke.service",
-	"com.xiaomi.mibox.gamecenter",
-    "com.xiaomi.gamecenter.sdk.service.mibox",
     "com.xiaomi.mibox.gamecenter",
+    "com.xiaomi.gamecenter.sdk.service.mibox",
     "com.mitv.appstore.component.land",
-	"com.xiaomi.mitv.appstore",
+    "com.xiaomi.mitv.appstore",
     "com.xiaomi.mitv.payment",
     "com.xiaomi.mitv.pay",
     "com.mipay.wallet.tv",
@@ -45,14 +40,11 @@
     "com.xm.webcontent",
     "com.xiaomi.mimusic2",
     "com.mitv.screensaver",
-	"com.mi.umi",
-	"com.mi.umifrontend",
-	"com.xiaomi.account.auth",
-	"com.xiaomi.account",
-	"com.xiaomi.screenrecorder",
-
+    "com.xiaomi.account.auth",
+    "com.xiaomi.account",
+    "com.xiaomi.screenrecorder",
     "com.sohu.inputmethod.sogou.tv",
-	"com.sogou.speech.offlineservice",
+    "com.sogou.speech.offlineservice",
     "com.baidu.input"
   ],
   "installPackages": [
@@ -66,27 +58,27 @@
     },
     {
       "name": "ATV Launcher free 0.11",
-      "url": "http://webservices.aptoide.com/apkinstall/apk?uid=43396804"    
+      "url": "http://webservices.aptoide.com/apkinstall/apk?uid=43396804"
     },
-     {
+    {
       "name": "Youtube Tv 2.12.08",
       "url": "http://webservices.aptoide.com/apkinstall/apk?uid=54652337"
     },
     {
       "name": "Netflix 4.16.3",
-       "url": "http://webservices.aptoide.com/apkinstall/apk?uid=47483895"
+      "url": "http://webservices.aptoide.com/apkinstall/apk?uid=47483895"
     },
     {
       "name": "Amazon Prime Video 3.0.260",
-       "url": "http://webservices.aptoide.com/apkinstall/apk?uid=49347354"
+      "url": "http://webservices.aptoide.com/apkinstall/apk?uid=49347354"
     },
     {
       "name": "Kodi 18.5 Amlogic Api23",
       "url": "http://projectivy.free.fr/uploads/kodi-18.5-aml-api23.apk"
     },
-	{
+    {
       "name": "Plex 8.28.0.29997",
-       "url": "http://webservices.aptoide.com/apkinstall/apk?uid=61255523"
+      "url": "http://webservices.aptoide.com/apkinstall/apk?uid=61255523"
     },
     {
       "name": "MyCanal 5.6.1",
@@ -98,15 +90,15 @@
     },
     {
       "name": "Screen Test 2.4",
-      "url": "http://webservices.aptoide.com/apkinstall/apk?uid=26432785"    
+      "url": "http://webservices.aptoide.com/apkinstall/apk?uid=26432785"
     },
     {
       "name": "MoreLocale 2.4.5",
-      "url": "http://webservices.aptoide.com/apkinstall/apk?uid=59012756"    
+      "url": "http://webservices.aptoide.com/apkinstall/apk?uid=59012756"
     },
     {
       "name": "Amlogic TV Box tool 1.0.31c",
-      "url": "http://webservices.aptoide.com/apkinstall/apk?uid=49572061"    
+      "url": "http://webservices.aptoide.com/apkinstall/apk?uid=49572061"
     },
     {
       "name": "Notifications for Android Tv 4.5.3",
@@ -114,11 +106,11 @@
     },
     {
       "name": "Solid Explorer 2.8.12",
-        "url": "http://webservices.aptoide.com/apkinstall/apk?uid=57704935"
+      "url": "http://webservices.aptoide.com/apkinstall/apk?uid=57704935"
     },
-	{
+    {
       "name": "Google services/apps",
-      "url": "http://projectivy.free.fr/uploads/gapps.06d1a76b314a762d7db6884d7196f4e2.tar.gz"    
+      "url": "http://projectivy.free.fr/uploads/gapps.06d1a76b314a762d7db6884d7196f4e2.tar.gz"
     }
   ],
   "customPropsOverrides": [
@@ -141,7 +133,7 @@
     {
       "key": "ro.bootimage.build.fingerprint",
       "value": "MI/anglee/anglee:8.1.0/OPM5.171019.017/891:user/release-keys"
-    },  
+    },
     {
       "key": "sys.set_adb_disabled",
       "value": "false"

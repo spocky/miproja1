@@ -1,0 +1,35 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Existing Projectivy v2 device configuration",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["product", "author", "version", "releaseDate", "toolsUrl", "uninstallPackages", "installPackages", "customPropsOverrides"],
+  "properties": {
+    "product": {"type": "string", "minLength": 1},
+    "author": {"type": "string", "minLength": 1},
+    "version": {"type": "integer", "const": 2},
+    "releaseDate": {"type": "string", "format": "date-time"},
+    "toolsUrl": {"type": "string", "minLength": 1},
+    "customRecoveryZipUrl": {"type": "string"},
+    "magiskUrl": {"type": "string", "minLength": 1},
+    "launcher": {"type": "string", "pattern": "[A-Za-z][A-Za-z0-9_]*(?:\\.[A-Za-z][A-Za-z0-9_]*)+"},
+    "uninstallPackages": {"type": "array", "items": {"type": "string", "pattern": "[A-Za-z][A-Za-z0-9_]*(?:\\.[A-Za-z][A-Za-z0-9_]*)+"}},
+    "installPackages": {
+      "type": "array",
+      "items": {
+        "type": "object", "additionalProperties": false, "required": ["name", "url"],
+        "properties": {
+          "name": {"type": "string", "minLength": 1},
+          "url": {"type": "string", "minLength": 1},
+          "package": {"type": "string", "pattern": "[A-Za-z][A-Za-z0-9_]*(?:\\.[A-Za-z][A-Za-z0-9_]*)+"}
+        }
+      }
+    },
+    "customPropsOverrides": {
+      "type": "array", "items": {
+        "type": "object", "additionalProperties": false, "required": ["key", "value"],
+        "properties": {"key": {"type": "string", "minLength": 1}, "value": {"type": "string"}}
+      }
+    }
+  }
+}

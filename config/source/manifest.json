@@ -1,0 +1,76 @@
+{
+  "devices": [
+    {
+      "alias": "batman",
+      "family": "xiaomi",
+      "output": "batman.v2.json",
+      "source": "devices/batman.json"
+    },
+    {
+      "alias": "conan",
+      "family": "xiaomi",
+      "output": "conan.v2.json",
+      "source": "devices/conan.json"
+    },
+    {
+      "alias": "doraemon",
+      "family": "xiaomi",
+      "output": "doraemon.json",
+      "source": "devices/doraemon.json"
+    },
+    {
+      "alias": "franky",
+      "family": "xiaomi",
+      "output": "franky.json",
+      "source": "devices/franky.json"
+    },
+    {
+      "alias": "generic",
+      "family": "generic",
+      "output": "generic.v2.json",
+      "source": "devices/generic.json"
+    },
+    {
+      "alias": "goblin",
+      "family": "fengmi",
+      "output": "goblin.v2.json",
+      "source": "devices/goblin.json"
+    },
+    {
+      "alias": "jerry",
+      "family": "fengmi",
+      "output": "jerry.v2.json",
+      "source": "devices/jerry.json"
+    },
+    {
+      "alias": "matrix",
+      "family": "xiaomi",
+      "output": "matrix.v2.json",
+      "source": "devices/matrix.json"
+    },
+    {
+      "alias": "nemo",
+      "family": "fengmi",
+      "output": "nemo.v2.json",
+      "source": "devices/nemo.json"
+    },
+    {
+      "alias": "rainman",
+      "family": "xiaomi",
+      "output": "rainman.v2.json",
+      "source": "devices/rainman.json"
+    },
+    {
+      "alias": "xmen",
+      "family": "xiaomi",
+      "output": "xmen.v2.json",
+      "source": "devices/xmen.json"
+    },
+    {
+      "alias": "zodiac",
+      "family": "xiaomi",
+      "output": "zodiac.v2.json",
+      "source": "devices/zodiac.json"
+    }
+  ]
+}
