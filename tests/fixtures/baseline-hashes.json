@@ -1,0 +1,18 @@
+{
+  "commit": "c4c66c9c85e9d001c7bac04aeb2746a5af1b0194",
+  "normalization": "CRLF to LF only for Git checkout comparison",
+  "sha256": {
+    "batman.v2.json": "a21fefd62c4347be0031926fa86db3bb3d6a3eacd7dbcee1f7355918914a1d32",
+    "conan.v2.json": "175cf39eccff0b075a7073fbe8f37d02b9d6f4263ef67c97115da06896f0dab1",
+    "doraemon.json": "175cf39eccff0b075a7073fbe8f37d02b9d6f4263ef67c97115da06896f0dab1",
+    "franky.json": "175cf39eccff0b075a7073fbe8f37d02b9d6f4263ef67c97115da06896f0dab1",
+    "generic.v2.json": "5497962525720f65305927d376e7cb7a0d1f462dfc9705f91bc92ca9ca581f33",
+    "goblin.v2.json": "83d365eb712d35204633f88634eaa180a2866e7ae9fe5a3dd23e923a64f6983f",
+    "jerry.v2.json": "6fec267291f9d918e54d83ffd109beeb09070b89863e1367c74703c77579be7e",
+    "matrix.v2.json": "148224ddc4a0e8dbb9923b53d7f4bde460aa9366fbc62db599550a8728b54fbe",
+    "nemo.v2.json": "6fec267291f9d918e54d83ffd109beeb09070b89863e1367c74703c77579be7e",
+    "rainman.v2.json": "42cf99fe61384555abc079361311e9abda93b6fd28f4524e639e0ea288e6ecaa",
+    "xmen.v2.json": "148224ddc4a0e8dbb9923b53d7f4bde460aa9366fbc62db599550a8728b54fbe",
+    "zodiac.v2.json": "688961045e2bdeec1a2bbfc27dfddf6eb99308fa505d1ace44de954f27ecb2a2"
+  }
+}
