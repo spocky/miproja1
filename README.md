@@ -42,6 +42,8 @@ Tired of cluttered TV screens and intrusive ads? Meet Projectivy Launcher, the u
   - Engineering Menus Access: Automatically detects and provides direct access to hidden engineering menus when available (Mediatek, AmLogic, Xiaomi, FengOs...).
   - Input Source Shortcuts: Direct access to HDMI, AV, and other input sources
 
+[Learn more on Projectivy Launcher website](https://projectivylauncher.com/)
+
 ## About this repo : Projectivy Launcher special device configuration
 
 This repository contains configuration files for a few devices, tv/projectors from the Xiaomi ecosystem.
