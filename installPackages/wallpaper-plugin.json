@@ -74,6 +74,12 @@
       "package": "nl.kurocon.plugin.wallpaperprovider.booru",
       "description": "This is a Projectivy Plugin that allows you to set a wallpaper from a Booru imageboard.",
       "image": "https://projectivylauncher.com/assets/plugins/booru.jpg"
+    },
+    {
+      "name": "Home Shuffle Wallpapers",
+      "url": "https://github.com/Mars-Wave/projectivy-random-wallpapers-plugin/releases/latest/download/projectivy-random-wallpapers-plugin.apk",
+      "package": "tv.homeshuffle.wallpaper",
+      "description": "Shows a new picture from a local folder every time you return to the home screen. Goes through all your pictures in shuffled order before repeating."
     }
   ]
 }
