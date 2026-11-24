@@ -74,6 +74,13 @@
       "package": "nl.kurocon.plugin.wallpaperprovider.booru",
       "description": "This is a Projectivy Plugin that allows you to set a wallpaper from a Booru imageboard.",
       "image": "https://projectivylauncher.com/assets/plugins/booru.jpg"
+    },
+    {
+      "name": "Minimalistic Wallpaper for Projectivity",
+      "url": "https://github.com/DenverCoder1/projectivity-plugin-minimalistic-wallpaper/releases/latest/download/minimalistic-wallpaper.apk",
+      "package": "tv.projectivy.plugin.wallpaperprovider.minimalistic",
+      "description": "Over 300 curated, high-quality minimalistic wallpapers from minimalistic-wallpaper.demolab.com",
+      "image": "https://github.com/user-attachments/assets/eedcedc7-0e39-4ccf-a068-854e8ca9f8c8"
     }
   ]
 }
