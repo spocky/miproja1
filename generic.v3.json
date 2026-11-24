@@ -2,8 +2,8 @@
   "product": "Projectivy Launcher",
   "author": "Spocky",
   "version": 4,
-  "releaseDate": "2026-11-02T00:00:00.000Z",
-  "toolsUrl": "https://github.com/spocky/miproja1/releases/download/4.73/ProjectivyLauncher-4.73-c98-xda-release.apk",
+  "releaseDate": "2026-11-24T00:00:00.000Z",
+  "toolsUrl": "https://github.com/spocky/miproja1/releases/download/4.74/ProjectivyLauncher-4.74-c101-xda-release.apk",
   "installPackages": [
     {
       "name": "Overflight",
