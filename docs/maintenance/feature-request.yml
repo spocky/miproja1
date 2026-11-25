@@ -1,0 +1,72 @@
+{
+  "name": "Feature request (draft)",
+  "description": "Explain the user outcome, affected workflow, and alternatives.",
+  "title": "[Request] ",
+  "body": [
+    {
+      "type": "markdown",
+      "attributes": {
+        "value": "Local draft; not an active template. Search open and closed requests and the F01-F25 roadmap first. Focus on the user outcome; an implementation design is optional. Launcher core source is unavailable, Marquee/Gateway edits are excluded, and F25 is deferred under the assistant's commitment following repeated user concern, pending scope clarification. Do not include credentials, tokens, pairing secrets, raw stream URLs, personal history, private paths, account identifiers, unique device identifiers or network addresses."
+      }
+    },
+    {
+      "type": "textarea",
+      "id": "problem",
+      "attributes": { "label": "User problem and affected workflow", "description": "Who needs this and what task is difficult today? Use generic examples." },
+      "validations": { "required": true }
+    },
+    {
+      "type": "textarea",
+      "id": "outcome",
+      "attributes": { "label": "Desired user outcome", "description": "What should the user be able to do? Describe observable success without requiring a particular implementation." },
+      "validations": { "required": true }
+    },
+    {
+      "type": "textarea",
+      "id": "alternatives",
+      "attributes": { "label": "Alternatives and current workaround", "description": "Describe existing options considered. None known is an acceptable answer." },
+      "validations": { "required": true }
+    },
+    {
+      "type": "textarea",
+      "id": "environment",
+      "attributes": {
+        "label": "Optional environment",
+        "description": "If relevant: installed launcher version, manufacturer/model, firmware/Android version, and existing launcher-integration method. Unknown is fine. Do not supply serial numbers, account or unique device identifiers."
+      },
+      "validations": { "required": false }
+    },
+    {
+      "type": "textarea",
+      "id": "acceptance",
+      "attributes": {
+        "label": "Optional acceptance example",
+        "description": "Give a short before/after user scenario, including offline use or accessibility needs when relevant. Preserve the lightweight, ad-free default and optional, reversible enhancements."
+      },
+      "validations": { "required": false }
+    },
+    {
+      "type": "textarea",
+      "id": "related",
+      "attributes": { "label": "Optional related issues or roadmap IDs", "description": "Link a known request or name F01-F25 if applicable. Maintainers determine ownership and duplication; no issue must be created to use this draft." },
+      "validations": { "required": false }
+    },
+    {
+      "type": "textarea",
+      "id": "redacted_evidence",
+      "attributes": {
+        "label": "Optional safe redacted examples",
+        "description": "Use a generic example or manually reviewed cropped image. Remove secrets, personal history, private paths, account/device identifiers and network addresses. Omit full logs, raw exports and support archives. Attachments are not required."
+      },
+      "validations": { "required": false }
+    },
+    {
+      "type": "checkboxes",
+      "id": "privacy_review",
+      "attributes": {
+        "label": "Privacy review",
+        "options": [ { "label": "I reviewed the request and any optional examples and removed secrets, personal data, private paths and unique identifiers.", "required": true } ]
+      }
+    }
+  ]
+}

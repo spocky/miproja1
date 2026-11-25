@@ -1,0 +1,120 @@
+{
+  "name": "Bug report (draft)",
+  "description": "Report observable behavior with safe environment details and reproduction steps.",
+  "title": "[Bug] ",
+  "body": [
+    {
+      "type": "markdown",
+      "attributes": {
+        "value": "Local draft; not an active template. Search existing open and closed issues before preparing a report. Describe observations separately from guesses about their cause. Never include passwords, tokens, authorization headers, pairing secrets, raw stream URLs, personal watch history, private paths, serial numbers, account identifiers, Android IDs, MAC addresses, or IP addresses. Evidence is optional; a useful text report is enough. Do not change device settings or disable stock apps to complete this form."
+      }
+    },
+    {
+      "type": "textarea",
+      "id": "summary",
+      "attributes": {
+        "label": "Observed problem",
+        "description": "Describe what happened, when it started, and how often it occurs. Avoid a diagnosis unless independently established."
+      },
+      "validations": { "required": true }
+    },
+    {
+      "type": "input",
+      "id": "launcher_version",
+      "attributes": {
+        "label": "Installed Projectivy Launcher version",
+        "description": "Copy the displayed app version, including beta/build suffix if known. Enter Unknown if unavailable. The config version field is not the installed app version."
+      },
+      "validations": { "required": true }
+    },
+    {
+      "type": "input",
+      "id": "device_model",
+      "attributes": {
+        "label": "Device manufacturer and model",
+        "description": "Use the model name only; Unknown is acceptable. Do not include a serial number or any unique device identifier."
+      },
+      "validations": { "required": true }
+    },
+    {
+      "type": "input",
+      "id": "firmware_android",
+      "attributes": {
+        "label": "Firmware and Android version",
+        "description": "Provide public firmware release/build and Android or Android TV version if known. Enter Unknown for missing values; redact identifying details."
+      },
+      "validations": { "required": true }
+    },
+    {
+      "type": "dropdown",
+      "id": "integration_method",
+      "attributes": {
+        "label": "Current launcher integration method",
+        "description": "Report the existing setup only. This form does not recommend enabling accessibility or disabling stock packages.",
+        "multiple": true,
+        "options": [
+          "Default HOME selected through system settings",
+          "Projectivy accessibility override already configured",
+          "Third-party launcher manager already configured",
+          "Stock launcher previously disabled (report only)",
+          "Opened manually without HOME integration",
+          "Other or unknown (explain below if known)"
+        ]
+      },
+      "validations": { "required": true }
+    },
+    {
+      "type": "textarea",
+      "id": "reproduction",
+      "attributes": {
+        "label": "Reproduction steps",
+        "description": "List the starting state and remote/button actions, including boot, wake, Back/Home, or source outage if relevant. If intermittent or not reproducible, say so and give the observed sequence. Use generic app/content descriptions.",
+        "placeholder": "1. Starting state\n2. Action\n3. Observed result\nFrequency:"
+      },
+      "validations": { "required": true }
+    },
+    {
+      "type": "textarea",
+      "id": "expected",
+      "attributes": { "label": "Expected behavior", "description": "Describe the user-visible result you expected." },
+      "validations": { "required": true }
+    },
+    {
+      "type": "textarea",
+      "id": "actual",
+      "attributes": { "label": "Actual behavior", "description": "Describe what you actually saw. Keep theories separate from observations." },
+      "validations": { "required": true }
+    },
+    {
+      "type": "textarea",
+      "id": "redacted_evidence",
+      "attributes": {
+        "label": "Optional safe redacted evidence",
+        "description": "A short manually reviewed excerpt or cropped image is enough. Omit full support archives and raw logs. Remove secrets, stream URLs, watch history, private paths, account/device identifiers and network addresses. If redaction is uncertain, omit the attachment."
+      },
+      "validations": { "required": false }
+    },
+    {
+      "type": "textarea",
+      "id": "context",
+      "attributes": {
+        "label": "Optional context and related issues",
+        "description": "Link known existing reports, mention a relevant config filename or non-secret settings, and describe any workaround already tried. No credentials, private exports or device modifications are required."
+      },
+      "validations": { "required": false }
+    },
+    {
+      "type": "checkboxes",
+      "id": "privacy_review",
+      "attributes": {
+        "label": "Privacy review",
+        "options": [
+          {
+            "label": "I reviewed the text and any optional evidence and removed secrets, personal data, private paths and unique identifiers; I can report without an attachment.",
+            "required": true
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,1854 @@
+{
+  "exceptions": [
+    {
+      "rule": "legacy_http",
+      "file": "batman.v2.json",
+      "entry": "customRecoveryZipUrl",
+      "value": "http://projectivy.free.fr/uploads/batman_twrp_3.2.2.0b.zip",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "batman.v2.json",
+      "entry": "magiskUrl",
+      "value": "http://projectivy.free.fr/uploads/Magisk-v20.4.zip",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "batman.v2.json",
+      "entry": "installPackages[2].url",
+      "value": "http://webservices.aptoide.com/apkinstall/apk?uid=43396804",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "batman.v2.json",
+      "entry": "installPackages[3].url",
+      "value": "http://webservices.aptoide.com/apkinstall/apk?uid=54652337",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "batman.v2.json",
+      "entry": "installPackages[4].url",
+      "value": "http://webservices.aptoide.com/apkinstall/apk?uid=47483895",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "batman.v2.json",
+      "entry": "installPackages[5].url",
+      "value": "http://webservices.aptoide.com/apkinstall/apk?uid=49347354",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "batman.v2.json",
+      "entry": "installPackages[6].url",
+      "value": "http://projectivy.free.fr/uploads/kodi-18.5-aml-api23.apk",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "batman.v2.json",
+      "entry": "installPackages[7].url",
+      "value": "http://webservices.aptoide.com/apkinstall/apk?uid=61255523",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "batman.v2.json",
+      "entry": "installPackages[8].url",
+      "value": "http://webservices.aptoide.com/apkinstall/apk?uid=61218787",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "batman.v2.json",
+      "entry": "installPackages[9].url",
+      "value": "http://webservices.aptoide.com/apkinstall/apk?uid=42551435",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "batman.v2.json",
+      "entry": "installPackages[10].url",
+      "value": "http://webservices.aptoide.com/apkinstall/apk?uid=26432785",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "batman.v2.json",
+      "entry": "installPackages[11].url",
+      "value": "http://webservices.aptoide.com/apkinstall/apk?uid=59012756",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "batman.v2.json",
+      "entry": "installPackages[12].url",
+      "value": "http://webservices.aptoide.com/apkinstall/apk?uid=49572061",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "batman.v2.json",
+      "entry": "installPackages[13].url",
+      "value": "http://webservices.aptoide.com/apkinstall/apk?uid=37802520",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "batman.v2.json",
+      "entry": "installPackages[14].url",
+      "value": "http://webservices.aptoide.com/apkinstall/apk?uid=57704935",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "batman.v2.json",
+      "entry": "installPackages[15].url",
+      "value": "http://projectivy.free.fr/uploads/gapps.06d1a76b314a762d7db6884d7196f4e2.tar.gz",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "batman.v2.json",
+      "entry": "installPackages[16].url",
+      "value": "http://projectivy.free.fr/uploads/pq_494.4b6a08d95237ba4d32ab1515eaeebebd.tar.gz",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "batman.v2.json",
+      "entry": "installPackages[17].url",
+      "value": "http://projectivy.free.fr/uploads/pq_536.ce945b31b22d3857800fa52f942c93a7.tar.gz",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "conan.v2.json",
+      "entry": "customRecoveryZipUrl",
+      "value": "http://projectivy.free.fr/uploads/rainman_twrp_3.2.2.0.zip",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "conan.v2.json",
+      "entry": "magiskUrl",
+      "value": "http://projectivy.free.fr/uploads/Magisk-v20.4.zip",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "conan.v2.json",
+      "entry": "installPackages[2].url",
+      "value": "http://webservices.aptoide.com/apkinstall/apk?uid=43396804",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "conan.v2.json",
+      "entry": "installPackages[3].url",
+      "value": "http://webservices.aptoide.com/apkinstall/apk?uid=54652337",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "conan.v2.json",
+      "entry": "installPackages[4].url",
+      "value": "http://webservices.aptoide.com/apkinstall/apk?uid=47483895",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "conan.v2.json",
+      "entry": "installPackages[5].url",
+      "value": "http://webservices.aptoide.com/apkinstall/apk?uid=49347354",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "conan.v2.json",
+      "entry": "installPackages[6].url",
+      "value": "http://projectivy.free.fr/uploads/kodi-18.5-aml-api23.apk",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "conan.v2.json",
+      "entry": "installPackages[7].url",
+      "value": "http://webservices.aptoide.com/apkinstall/apk?uid=61255523",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "conan.v2.json",
+      "entry": "installPackages[8].url",
+      "value": "http://webservices.aptoide.com/apkinstall/apk?uid=61218787",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "conan.v2.json",
+      "entry": "installPackages[9].url",
+      "value": "http://webservices.aptoide.com/apkinstall/apk?uid=42551435",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "conan.v2.json",
+      "entry": "installPackages[10].url",
+      "value": "http://webservices.aptoide.com/apkinstall/apk?uid=26432785",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "conan.v2.json",
+      "entry": "installPackages[11].url",
+      "value": "http://webservices.aptoide.com/apkinstall/apk?uid=59012756",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "conan.v2.json",
+      "entry": "installPackages[12].url",
+      "value": "http://webservices.aptoide.com/apkinstall/apk?uid=49572061",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "conan.v2.json",
+      "entry": "installPackages[13].url",
+      "value": "http://webservices.aptoide.com/apkinstall/apk?uid=37802520",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "conan.v2.json",
+      "entry": "installPackages[14].url",
+      "value": "http://webservices.aptoide.com/apkinstall/apk?uid=57704935",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "conan.v2.json",
+      "entry": "installPackages[15].url",
+      "value": "http://projectivy.free.fr/uploads/gapps.06d1a76b314a762d7db6884d7196f4e2.tar.gz",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "doraemon.json",
+      "entry": "customRecoveryZipUrl",
+      "value": "http://projectivy.free.fr/uploads/rainman_twrp_3.2.2.0.zip",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "doraemon.json",
+      "entry": "magiskUrl",
+      "value": "http://projectivy.free.fr/uploads/Magisk-v20.4.zip",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "doraemon.json",
+      "entry": "installPackages[2].url",
+      "value": "http://webservices.aptoide.com/apkinstall/apk?uid=43396804",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "doraemon.json",
+      "entry": "installPackages[3].url",
+      "value": "http://webservices.aptoide.com/apkinstall/apk?uid=54652337",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "doraemon.json",
+      "entry": "installPackages[4].url",
+      "value": "http://webservices.aptoide.com/apkinstall/apk?uid=47483895",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "doraemon.json",
+      "entry": "installPackages[5].url",
+      "value": "http://webservices.aptoide.com/apkinstall/apk?uid=49347354",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "doraemon.json",
+      "entry": "installPackages[6].url",
+      "value": "http://projectivy.free.fr/uploads/kodi-18.5-aml-api23.apk",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "doraemon.json",
+      "entry": "installPackages[7].url",
+      "value": "http://webservices.aptoide.com/apkinstall/apk?uid=61255523",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "doraemon.json",
+      "entry": "installPackages[8].url",
+      "value": "http://webservices.aptoide.com/apkinstall/apk?uid=61218787",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "doraemon.json",
+      "entry": "installPackages[9].url",
+      "value": "http://webservices.aptoide.com/apkinstall/apk?uid=42551435",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "doraemon.json",
+      "entry": "installPackages[10].url",
+      "value": "http://webservices.aptoide.com/apkinstall/apk?uid=26432785",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "doraemon.json",
+      "entry": "installPackages[11].url",
+      "value": "http://webservices.aptoide.com/apkinstall/apk?uid=59012756",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "doraemon.json",
+      "entry": "installPackages[12].url",
+      "value": "http://webservices.aptoide.com/apkinstall/apk?uid=49572061",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "doraemon.json",
+      "entry": "installPackages[13].url",
+      "value": "http://webservices.aptoide.com/apkinstall/apk?uid=37802520",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "doraemon.json",
+      "entry": "installPackages[14].url",
+      "value": "http://webservices.aptoide.com/apkinstall/apk?uid=57704935",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "doraemon.json",
+      "entry": "installPackages[15].url",
+      "value": "http://projectivy.free.fr/uploads/gapps.06d1a76b314a762d7db6884d7196f4e2.tar.gz",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "franky.json",
+      "entry": "customRecoveryZipUrl",
+      "value": "http://projectivy.free.fr/uploads/rainman_twrp_3.2.2.0.zip",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "franky.json",
+      "entry": "magiskUrl",
+      "value": "http://projectivy.free.fr/uploads/Magisk-v20.4.zip",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "franky.json",
+      "entry": "installPackages[2].url",
+      "value": "http://webservices.aptoide.com/apkinstall/apk?uid=43396804",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "franky.json",
+      "entry": "installPackages[3].url",
+      "value": "http://webservices.aptoide.com/apkinstall/apk?uid=54652337",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "franky.json",
+      "entry": "installPackages[4].url",
+      "value": "http://webservices.aptoide.com/apkinstall/apk?uid=47483895",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "franky.json",
+      "entry": "installPackages[5].url",
+      "value": "http://webservices.aptoide.com/apkinstall/apk?uid=49347354",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "franky.json",
+      "entry": "installPackages[6].url",
+      "value": "http://projectivy.free.fr/uploads/kodi-18.5-aml-api23.apk",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "franky.json",
+      "entry": "installPackages[7].url",
+      "value": "http://webservices.aptoide.com/apkinstall/apk?uid=61255523",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "franky.json",
+      "entry": "installPackages[8].url",
+      "value": "http://webservices.aptoide.com/apkinstall/apk?uid=61218787",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "franky.json",
+      "entry": "installPackages[9].url",
+      "value": "http://webservices.aptoide.com/apkinstall/apk?uid=42551435",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "franky.json",
+      "entry": "installPackages[10].url",
+      "value": "http://webservices.aptoide.com/apkinstall/apk?uid=26432785",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "franky.json",
+      "entry": "installPackages[11].url",
+      "value": "http://webservices.aptoide.com/apkinstall/apk?uid=59012756",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "franky.json",
+      "entry": "installPackages[12].url",
+      "value": "http://webservices.aptoide.com/apkinstall/apk?uid=49572061",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "franky.json",
+      "entry": "installPackages[13].url",
+      "value": "http://webservices.aptoide.com/apkinstall/apk?uid=37802520",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "franky.json",
+      "entry": "installPackages[14].url",
+      "value": "http://webservices.aptoide.com/apkinstall/apk?uid=57704935",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "franky.json",
+      "entry": "installPackages[15].url",
+      "value": "http://projectivy.free.fr/uploads/gapps.06d1a76b314a762d7db6884d7196f4e2.tar.gz",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "generic.v2.json",
+      "entry": "installPackages[6].url",
+      "value": "http://webservices.aptoide.com/apkinstall/apk?uid=54652337",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "generic.v2.json",
+      "entry": "installPackages[7].url",
+      "value": "http://webservices.aptoide.com/apkinstall/apk?uid=47483895",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "generic.v2.json",
+      "entry": "installPackages[8].url",
+      "value": "http://webservices.aptoide.com/apkinstall/apk?uid=49347354",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "generic.v2.json",
+      "entry": "installPackages[9].url",
+      "value": "http://projectivy.free.fr/uploads/kodi-18.5-aml-api23.apk",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "generic.v2.json",
+      "entry": "installPackages[10].url",
+      "value": "http://webservices.aptoide.com/apkinstall/apk?uid=61255523",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "generic.v2.json",
+      "entry": "installPackages[11].url",
+      "value": "http://webservices.aptoide.com/apkinstall/apk?uid=61218787",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "generic.v2.json",
+      "entry": "installPackages[12].url",
+      "value": "http://webservices.aptoide.com/apkinstall/apk?uid=42551435",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "generic.v2.json",
+      "entry": "installPackages[13].url",
+      "value": "http://webservices.aptoide.com/apkinstall/apk?uid=26432785",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "generic.v2.json",
+      "entry": "installPackages[14].url",
+      "value": "http://webservices.aptoide.com/apkinstall/apk?uid=59012756",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "generic.v2.json",
+      "entry": "installPackages[15].url",
+      "value": "http://webservices.aptoide.com/apkinstall/apk?uid=49572061",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "generic.v2.json",
+      "entry": "installPackages[16].url",
+      "value": "http://webservices.aptoide.com/apkinstall/apk?uid=37802520",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "generic.v2.json",
+      "entry": "installPackages[17].url",
+      "value": "http://webservices.aptoide.com/apkinstall/apk?uid=57704935",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "goblin.v2.json",
+      "entry": "magiskUrl",
+      "value": "http://projectivy.free.fr/uploads/Magisk-v20.4.zip",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "goblin.v2.json",
+      "entry": "installPackages[2].url",
+      "value": "http://webservices.aptoide.com/apkinstall/apk?uid=43396804",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "goblin.v2.json",
+      "entry": "installPackages[3].url",
+      "value": "http://webservices.aptoide.com/apkinstall/apk?uid=54652337",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "goblin.v2.json",
+      "entry": "installPackages[4].url",
+      "value": "http://webservices.aptoide.com/apkinstall/apk?uid=47483895",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "goblin.v2.json",
+      "entry": "installPackages[5].url",
+      "value": "http://webservices.aptoide.com/apkinstall/apk?uid=49347354",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "goblin.v2.json",
+      "entry": "installPackages[6].url",
+      "value": "http://projectivy.free.fr/uploads/kodi-18.5-aml-api23.apk",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "goblin.v2.json",
+      "entry": "installPackages[7].url",
+      "value": "http://webservices.aptoide.com/apkinstall/apk?uid=61255523",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "goblin.v2.json",
+      "entry": "installPackages[8].url",
+      "value": "http://webservices.aptoide.com/apkinstall/apk?uid=61218787",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "goblin.v2.json",
+      "entry": "installPackages[9].url",
+      "value": "http://webservices.aptoide.com/apkinstall/apk?uid=42551435",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "goblin.v2.json",
+      "entry": "installPackages[10].url",
+      "value": "http://webservices.aptoide.com/apkinstall/apk?uid=26432785",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "goblin.v2.json",
+      "entry": "installPackages[11].url",
+      "value": "http://webservices.aptoide.com/apkinstall/apk?uid=59012756",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "goblin.v2.json",
+      "entry": "installPackages[12].url",
+      "value": "http://webservices.aptoide.com/apkinstall/apk?uid=49572061",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "goblin.v2.json",
+      "entry": "installPackages[13].url",
+      "value": "http://webservices.aptoide.com/apkinstall/apk?uid=37802520",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "goblin.v2.json",
+      "entry": "installPackages[14].url",
+      "value": "http://webservices.aptoide.com/apkinstall/apk?uid=57704935",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "goblin.v2.json",
+      "entry": "installPackages[15].url",
+      "value": "http://projectivy.free.fr/uploads/gapps.06d1a76b314a762d7db6884d7196f4e2.tar.gz",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "jerry.v2.json",
+      "entry": "magiskUrl",
+      "value": "http://projectivy.free.fr/uploads/Magisk-v20.4.zip",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "jerry.v2.json",
+      "entry": "installPackages[2].url",
+      "value": "http://webservices.aptoide.com/apkinstall/apk?uid=43396804",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "jerry.v2.json",
+      "entry": "installPackages[3].url",
+      "value": "http://webservices.aptoide.com/apkinstall/apk?uid=54652337",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "jerry.v2.json",
+      "entry": "installPackages[4].url",
+      "value": "http://webservices.aptoide.com/apkinstall/apk?uid=47483895",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "jerry.v2.json",
+      "entry": "installPackages[5].url",
+      "value": "http://webservices.aptoide.com/apkinstall/apk?uid=49347354",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "jerry.v2.json",
+      "entry": "installPackages[6].url",
+      "value": "http://projectivy.free.fr/uploads/kodi-18.5-aml-api23.apk",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "jerry.v2.json",
+      "entry": "installPackages[7].url",
+      "value": "http://webservices.aptoide.com/apkinstall/apk?uid=61255523",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "jerry.v2.json",
+      "entry": "installPackages[8].url",
+      "value": "http://webservices.aptoide.com/apkinstall/apk?uid=61218787",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "jerry.v2.json",
+      "entry": "installPackages[9].url",
+      "value": "http://webservices.aptoide.com/apkinstall/apk?uid=42551435",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "jerry.v2.json",
+      "entry": "installPackages[10].url",
+      "value": "http://webservices.aptoide.com/apkinstall/apk?uid=26432785",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "jerry.v2.json",
+      "entry": "installPackages[11].url",
+      "value": "http://webservices.aptoide.com/apkinstall/apk?uid=59012756",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "jerry.v2.json",
+      "entry": "installPackages[12].url",
+      "value": "http://webservices.aptoide.com/apkinstall/apk?uid=49572061",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "jerry.v2.json",
+      "entry": "installPackages[13].url",
+      "value": "http://webservices.aptoide.com/apkinstall/apk?uid=37802520",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "jerry.v2.json",
+      "entry": "installPackages[14].url",
+      "value": "http://webservices.aptoide.com/apkinstall/apk?uid=57704935",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "matrix.v2.json",
+      "entry": "customRecoveryZipUrl",
+      "value": "http://projectivy.free.fr/uploads/rainman_twrp_3.2.2.0.zip",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "matrix.v2.json",
+      "entry": "magiskUrl",
+      "value": "http://projectivy.free.fr/uploads/Magisk-v20.4.zip",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "matrix.v2.json",
+      "entry": "installPackages[2].url",
+      "value": "http://webservices.aptoide.com/apkinstall/apk?uid=43396804",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "matrix.v2.json",
+      "entry": "installPackages[3].url",
+      "value": "http://webservices.aptoide.com/apkinstall/apk?uid=54652337",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "matrix.v2.json",
+      "entry": "installPackages[4].url",
+      "value": "http://webservices.aptoide.com/apkinstall/apk?uid=47483895",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "matrix.v2.json",
+      "entry": "installPackages[5].url",
+      "value": "http://webservices.aptoide.com/apkinstall/apk?uid=49347354",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "matrix.v2.json",
+      "entry": "installPackages[6].url",
+      "value": "http://projectivy.free.fr/uploads/kodi-18.5-aml-api23.apk",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "matrix.v2.json",
+      "entry": "installPackages[7].url",
+      "value": "http://webservices.aptoide.com/apkinstall/apk?uid=61255523",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "matrix.v2.json",
+      "entry": "installPackages[8].url",
+      "value": "http://webservices.aptoide.com/apkinstall/apk?uid=61218787",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "matrix.v2.json",
+      "entry": "installPackages[9].url",
+      "value": "http://webservices.aptoide.com/apkinstall/apk?uid=42551435",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "matrix.v2.json",
+      "entry": "installPackages[10].url",
+      "value": "http://webservices.aptoide.com/apkinstall/apk?uid=26432785",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "matrix.v2.json",
+      "entry": "installPackages[11].url",
+      "value": "http://webservices.aptoide.com/apkinstall/apk?uid=59012756",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "matrix.v2.json",
+      "entry": "installPackages[12].url",
+      "value": "http://webservices.aptoide.com/apkinstall/apk?uid=49572061",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "matrix.v2.json",
+      "entry": "installPackages[13].url",
+      "value": "http://webservices.aptoide.com/apkinstall/apk?uid=37802520",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "matrix.v2.json",
+      "entry": "installPackages[14].url",
+      "value": "http://webservices.aptoide.com/apkinstall/apk?uid=57704935",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "matrix.v2.json",
+      "entry": "installPackages[15].url",
+      "value": "http://projectivy.free.fr/uploads/gapps.06d1a76b314a762d7db6884d7196f4e2.tar.gz",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "nemo.v2.json",
+      "entry": "magiskUrl",
+      "value": "http://projectivy.free.fr/uploads/Magisk-v20.4.zip",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "nemo.v2.json",
+      "entry": "installPackages[2].url",
+      "value": "http://webservices.aptoide.com/apkinstall/apk?uid=43396804",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "nemo.v2.json",
+      "entry": "installPackages[3].url",
+      "value": "http://webservices.aptoide.com/apkinstall/apk?uid=54652337",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "nemo.v2.json",
+      "entry": "installPackages[4].url",
+      "value": "http://webservices.aptoide.com/apkinstall/apk?uid=47483895",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "nemo.v2.json",
+      "entry": "installPackages[5].url",
+      "value": "http://webservices.aptoide.com/apkinstall/apk?uid=49347354",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "nemo.v2.json",
+      "entry": "installPackages[6].url",
+      "value": "http://projectivy.free.fr/uploads/kodi-18.5-aml-api23.apk",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "nemo.v2.json",
+      "entry": "installPackages[7].url",
+      "value": "http://webservices.aptoide.com/apkinstall/apk?uid=61255523",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "nemo.v2.json",
+      "entry": "installPackages[8].url",
+      "value": "http://webservices.aptoide.com/apkinstall/apk?uid=61218787",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "nemo.v2.json",
+      "entry": "installPackages[9].url",
+      "value": "http://webservices.aptoide.com/apkinstall/apk?uid=42551435",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "nemo.v2.json",
+      "entry": "installPackages[10].url",
+      "value": "http://webservices.aptoide.com/apkinstall/apk?uid=26432785",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "nemo.v2.json",
+      "entry": "installPackages[11].url",
+      "value": "http://webservices.aptoide.com/apkinstall/apk?uid=59012756",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "nemo.v2.json",
+      "entry": "installPackages[12].url",
+      "value": "http://webservices.aptoide.com/apkinstall/apk?uid=49572061",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "nemo.v2.json",
+      "entry": "installPackages[13].url",
+      "value": "http://webservices.aptoide.com/apkinstall/apk?uid=37802520",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "nemo.v2.json",
+      "entry": "installPackages[14].url",
+      "value": "http://webservices.aptoide.com/apkinstall/apk?uid=57704935",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "rainman.v2.json",
+      "entry": "customRecoveryZipUrl",
+      "value": "http://projectivy.free.fr/uploads/rainman_twrp_3.2.2.0.zip",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "rainman.v2.json",
+      "entry": "magiskUrl",
+      "value": "http://projectivy.free.fr/uploads/Magisk-v20.4.zip",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "rainman.v2.json",
+      "entry": "installPackages[2].url",
+      "value": "http://webservices.aptoide.com/apkinstall/apk?uid=43396804",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "rainman.v2.json",
+      "entry": "installPackages[3].url",
+      "value": "http://webservices.aptoide.com/apkinstall/apk?uid=54652337",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "rainman.v2.json",
+      "entry": "installPackages[4].url",
+      "value": "http://webservices.aptoide.com/apkinstall/apk?uid=47483895",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "rainman.v2.json",
+      "entry": "installPackages[5].url",
+      "value": "http://webservices.aptoide.com/apkinstall/apk?uid=49347354",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "rainman.v2.json",
+      "entry": "installPackages[6].url",
+      "value": "http://projectivy.free.fr/uploads/kodi-18.5-aml-api23.apk",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "rainman.v2.json",
+      "entry": "installPackages[7].url",
+      "value": "http://webservices.aptoide.com/apkinstall/apk?uid=61255523",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "rainman.v2.json",
+      "entry": "installPackages[8].url",
+      "value": "http://webservices.aptoide.com/apkinstall/apk?uid=61218787",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "rainman.v2.json",
+      "entry": "installPackages[9].url",
+      "value": "http://webservices.aptoide.com/apkinstall/apk?uid=42551435",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "rainman.v2.json",
+      "entry": "installPackages[10].url",
+      "value": "http://webservices.aptoide.com/apkinstall/apk?uid=26432785",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "rainman.v2.json",
+      "entry": "installPackages[11].url",
+      "value": "http://webservices.aptoide.com/apkinstall/apk?uid=59012756",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "rainman.v2.json",
+      "entry": "installPackages[12].url",
+      "value": "http://webservices.aptoide.com/apkinstall/apk?uid=49572061",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "rainman.v2.json",
+      "entry": "installPackages[13].url",
+      "value": "http://webservices.aptoide.com/apkinstall/apk?uid=37802520",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "rainman.v2.json",
+      "entry": "installPackages[14].url",
+      "value": "http://webservices.aptoide.com/apkinstall/apk?uid=57704935",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "rainman.v2.json",
+      "entry": "installPackages[15].url",
+      "value": "http://projectivy.free.fr/uploads/gapps.06d1a76b314a762d7db6884d7196f4e2.tar.gz",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "xmen.v2.json",
+      "entry": "customRecoveryZipUrl",
+      "value": "http://projectivy.free.fr/uploads/rainman_twrp_3.2.2.0.zip",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "xmen.v2.json",
+      "entry": "magiskUrl",
+      "value": "http://projectivy.free.fr/uploads/Magisk-v20.4.zip",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "xmen.v2.json",
+      "entry": "installPackages[2].url",
+      "value": "http://webservices.aptoide.com/apkinstall/apk?uid=43396804",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "xmen.v2.json",
+      "entry": "installPackages[3].url",
+      "value": "http://webservices.aptoide.com/apkinstall/apk?uid=54652337",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "xmen.v2.json",
+      "entry": "installPackages[4].url",
+      "value": "http://webservices.aptoide.com/apkinstall/apk?uid=47483895",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "xmen.v2.json",
+      "entry": "installPackages[5].url",
+      "value": "http://webservices.aptoide.com/apkinstall/apk?uid=49347354",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "xmen.v2.json",
+      "entry": "installPackages[6].url",
+      "value": "http://projectivy.free.fr/uploads/kodi-18.5-aml-api23.apk",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "xmen.v2.json",
+      "entry": "installPackages[7].url",
+      "value": "http://webservices.aptoide.com/apkinstall/apk?uid=61255523",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "xmen.v2.json",
+      "entry": "installPackages[8].url",
+      "value": "http://webservices.aptoide.com/apkinstall/apk?uid=61218787",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "xmen.v2.json",
+      "entry": "installPackages[9].url",
+      "value": "http://webservices.aptoide.com/apkinstall/apk?uid=42551435",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "xmen.v2.json",
+      "entry": "installPackages[10].url",
+      "value": "http://webservices.aptoide.com/apkinstall/apk?uid=26432785",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "xmen.v2.json",
+      "entry": "installPackages[11].url",
+      "value": "http://webservices.aptoide.com/apkinstall/apk?uid=59012756",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "xmen.v2.json",
+      "entry": "installPackages[12].url",
+      "value": "http://webservices.aptoide.com/apkinstall/apk?uid=49572061",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "xmen.v2.json",
+      "entry": "installPackages[13].url",
+      "value": "http://webservices.aptoide.com/apkinstall/apk?uid=37802520",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "xmen.v2.json",
+      "entry": "installPackages[14].url",
+      "value": "http://webservices.aptoide.com/apkinstall/apk?uid=57704935",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "xmen.v2.json",
+      "entry": "installPackages[15].url",
+      "value": "http://projectivy.free.fr/uploads/gapps.06d1a76b314a762d7db6884d7196f4e2.tar.gz",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "zodiac.v2.json",
+      "entry": "customRecoveryZipUrl",
+      "value": "http://projectivy.free.fr/uploads/zodiac_twrp_3.2.2.0.zip",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "zodiac.v2.json",
+      "entry": "magiskUrl",
+      "value": "http://projectivy.free.fr/uploads/Magisk-v20.4.zip",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "zodiac.v2.json",
+      "entry": "installPackages[2].url",
+      "value": "http://webservices.aptoide.com/apkinstall/apk?uid=43396804",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "zodiac.v2.json",
+      "entry": "installPackages[3].url",
+      "value": "http://webservices.aptoide.com/apkinstall/apk?uid=54652337",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "zodiac.v2.json",
+      "entry": "installPackages[4].url",
+      "value": "http://webservices.aptoide.com/apkinstall/apk?uid=47483895",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "zodiac.v2.json",
+      "entry": "installPackages[5].url",
+      "value": "http://webservices.aptoide.com/apkinstall/apk?uid=49347354",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "zodiac.v2.json",
+      "entry": "installPackages[6].url",
+      "value": "http://projectivy.free.fr/uploads/kodi-18.5-aml-api23.apk",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "zodiac.v2.json",
+      "entry": "installPackages[7].url",
+      "value": "http://webservices.aptoide.com/apkinstall/apk?uid=61255523",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "zodiac.v2.json",
+      "entry": "installPackages[8].url",
+      "value": "http://webservices.aptoide.com/apkinstall/apk?uid=61218787",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "zodiac.v2.json",
+      "entry": "installPackages[9].url",
+      "value": "http://webservices.aptoide.com/apkinstall/apk?uid=42551435",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "zodiac.v2.json",
+      "entry": "installPackages[10].url",
+      "value": "http://webservices.aptoide.com/apkinstall/apk?uid=26432785",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "zodiac.v2.json",
+      "entry": "installPackages[11].url",
+      "value": "http://webservices.aptoide.com/apkinstall/apk?uid=59012756",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "zodiac.v2.json",
+      "entry": "installPackages[12].url",
+      "value": "http://webservices.aptoide.com/apkinstall/apk?uid=49572061",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "zodiac.v2.json",
+      "entry": "installPackages[13].url",
+      "value": "http://webservices.aptoide.com/apkinstall/apk?uid=37802520",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "zodiac.v2.json",
+      "entry": "installPackages[14].url",
+      "value": "http://webservices.aptoide.com/apkinstall/apk?uid=57704935",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    },
+    {
+      "rule": "legacy_http",
+      "file": "zodiac.v2.json",
+      "entry": "installPackages[15].url",
+      "value": "http://projectivy.free.fr/uploads/gapps.06d1a76b314a762d7db6884d7196f4e2.tar.gz",
+      "count": 1,
+      "rationale": "Exact occurrence retained from the recorded upstream baseline; no artifact trust is inferred.",
+      "owner": "Local patch maintainer; upstream approval outstanding",
+      "review_condition": "Remove only after endpoint, artifact identity and device compatibility verification."
+    }
+  ]
+}
